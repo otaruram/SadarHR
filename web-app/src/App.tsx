@@ -87,6 +87,9 @@ function App() {
       ...prev,
       [name]: isCategorical && !isEmotive ? value : Number(value) || value
     }));
+    
+    // Reset prediction when user modifies any input
+    setPrediction(null);
   };
 
   const handlePredict = async (e: React.FormEvent) => {
