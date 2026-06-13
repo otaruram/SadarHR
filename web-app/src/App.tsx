@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import * as tf from '@tensorflow/tfjs';
-import { Activity, AlertTriangle, CheckCircle, TrendingUp, User, BookOpen, ChevronLeft, ShieldCheck, Zap, ArrowRight, ArrowLeft, Lock, Clock, MapPin, Award } from 'lucide-react';
+import { Activity, AlertTriangle, CheckCircle, TrendingUp, User, BookOpen, ChevronLeft, ShieldCheck, Zap, ArrowRight, ArrowLeft, Lock, Clock, MapPin, Award, Github, Linkedin } from 'lucide-react';
 
 interface PreprocessMeta {
   features: string[];
@@ -221,6 +221,14 @@ function App() {
             <span className="font-bold text-lg md:text-xl tracking-tight text-gray-800">Sadar<span className="text-red-600">HR</span></span>
           </div>
           <div className="flex items-center gap-3 md:gap-6">
+            <a 
+              href="https://github.com/otaruram/SadarHR" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-gray-400 hover:text-gray-900 transition-colors"
+            >
+              <Github className="w-5 h-5 md:w-6 md:h-6" />
+            </a>
             <button 
               onClick={() => setViewState('docs')}
               className="text-xs md:text-sm font-semibold text-gray-500 hover:text-gray-900 transition-colors flex items-center gap-1.5"
@@ -297,6 +305,30 @@ function App() {
                 <h3 className="text-lg font-bold text-gray-900 mb-3 font-serif">Proteksi Top Performer</h3>
                 <p className="text-gray-600 text-sm leading-relaxed">Memberikan alarm dini pada karyawan berkinerja tinggi yang sudah lama tidak mendapatkan promosi dan mulai merasa jenuh.</p>
               </div>
+            </div>
+          </div>
+
+          <div className="mt-20 md:mt-24 w-full border-t border-gray-200 pt-10 pb-8">
+            <h2 className="text-xl font-bold font-serif text-gray-800 text-center mb-6">Tim Pengembang</h2>
+            <div className="flex flex-col sm:flex-row justify-center items-center gap-6 md:gap-12">
+              <a href="https://www.linkedin.com/in/otaruram/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 group">
+                <div className="w-10 h-10 rounded-full bg-red-100 flex items-center justify-center text-red-600 group-hover:bg-red-600 group-hover:text-white transition-colors">
+                  <Linkedin className="w-5 h-5" />
+                </div>
+                <div className="text-left">
+                  <p className="font-bold text-gray-900 group-hover:text-red-600 transition-colors">Oki Taruna Ramadhan</p>
+                  <p className="text-xs text-gray-500">Lead</p>
+                </div>
+              </a>
+              <a href="https://www.linkedin.com/in/azdzikri-muhammad-hisyam-soleh-086b43281/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 group">
+                <div className="w-10 h-10 rounded-full bg-red-100 flex items-center justify-center text-red-600 group-hover:bg-red-600 group-hover:text-white transition-colors">
+                  <Linkedin className="w-5 h-5" />
+                </div>
+                <div className="text-left">
+                  <p className="font-bold text-gray-900 group-hover:text-red-600 transition-colors">Azdzikri Muhammad Hisyam Soleh</p>
+                  <p className="text-xs text-gray-500">Assistant Lead</p>
+                </div>
+              </a>
             </div>
           </div>
         </main>
