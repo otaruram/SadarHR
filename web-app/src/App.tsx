@@ -319,7 +319,7 @@ function App() {
                 </div>
               </a>
               <a href="https://www.linkedin.com/in/azdzikri-muhammad-hisyam-soleh-086b43281/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 bg-white p-4 rounded-2xl border border-gray-100 hover:border-red-200 hover:shadow-md transition-all group">
-                <img src="/azikri.png" alt="Azdzikri Muhammad Hisyam Soleh" className="w-14 h-14 rounded-full object-cover object-top border-2 border-transparent group-hover:border-red-500 transition-colors shadow-sm shrink-0" />
+                <img src="/azikri.png" alt="Azdzikri Muhammad Hisyam Soleh" className="w-14 h-14 rounded-full object-cover object-[50%_25%] border-2 border-transparent group-hover:border-red-500 transition-colors shadow-sm shrink-0" />
                 <div className="text-left flex-1">
                   <p className="font-bold text-gray-900 group-hover:text-red-600 transition-colors leading-tight mb-0.5">Azdzikri Muhammad Hisyam Soleh</p>
                   <p className="text-xs text-gray-500">Assistant Lead</p>
@@ -328,6 +328,9 @@ function App() {
             </div>
           </div>
         </main>
+        <footer className="w-full text-center text-gray-400 text-xs md:text-sm pb-8 bg-transparent">
+          Made by Tim SadarHR. All rights reserved.
+        </footer>
       </div>
     );
   }
