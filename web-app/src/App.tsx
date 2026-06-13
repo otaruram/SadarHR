@@ -1,6 +1,20 @@
 import React, { useState, useEffect } from 'react';
 import * as tf from '@tensorflow/tfjs';
-import { Activity, AlertTriangle, CheckCircle, TrendingUp, User, BookOpen, ChevronLeft, ShieldCheck, Zap, ArrowRight, ArrowLeft, Lock, Clock, MapPin, Award, Github, Linkedin } from 'lucide-react';
+import { Activity, AlertTriangle, CheckCircle, TrendingUp, User, BookOpen, ChevronLeft, ShieldCheck, Zap, ArrowRight, ArrowLeft, Lock, Clock, MapPin, Award } from 'lucide-react';
+
+const GithubIcon = ({ className }: { className?: string }) => (
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
+    <path d="M15 22v-4a4.8 4.8 0 0 0-1-3.2c3-.3 6-1.5 6-6.5a5.5 5.5 0 0 0-1.5-3.8 5.5 5.5 0 0 0-.1-3.8s-1.2-.4-3.9 1.4a13.3 13.3 0 0 0-7 0C6.2 2.7 5 3.1 5 3.1a5.5 5.5 0 0 0-.1 3.8A5.5 5.5 0 0 0 3 10.7c0 5 3 6.2 6 6.5a4.8 4.8 0 0 0-1 3.2v4"></path>
+  </svg>
+);
+
+const LinkedinIcon = ({ className }: { className?: string }) => (
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
+    <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+    <rect x="2" y="9" width="4" height="12"></rect>
+    <circle cx="4" cy="4" r="2"></circle>
+  </svg>
+);
 
 interface PreprocessMeta {
   features: string[];
@@ -227,7 +241,7 @@ function App() {
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-gray-900 transition-colors"
             >
-              <Github className="w-5 h-5 md:w-6 md:h-6" />
+              <GithubIcon className="w-5 h-5 md:w-6 md:h-6" />
             </a>
             <button 
               onClick={() => setViewState('docs')}
@@ -313,7 +327,7 @@ function App() {
             <div className="flex flex-col sm:flex-row justify-center items-center gap-6 md:gap-12">
               <a href="https://www.linkedin.com/in/otaruram/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 group">
                 <div className="w-10 h-10 rounded-full bg-red-100 flex items-center justify-center text-red-600 group-hover:bg-red-600 group-hover:text-white transition-colors">
-                  <Linkedin className="w-5 h-5" />
+                  <LinkedinIcon className="w-5 h-5" />
                 </div>
                 <div className="text-left">
                   <p className="font-bold text-gray-900 group-hover:text-red-600 transition-colors">Oki Taruna Ramadhan</p>
@@ -322,7 +336,7 @@ function App() {
               </a>
               <a href="https://www.linkedin.com/in/azdzikri-muhammad-hisyam-soleh-086b43281/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 group">
                 <div className="w-10 h-10 rounded-full bg-red-100 flex items-center justify-center text-red-600 group-hover:bg-red-600 group-hover:text-white transition-colors">
-                  <Linkedin className="w-5 h-5" />
+                  <LinkedinIcon className="w-5 h-5" />
                 </div>
                 <div className="text-left">
                   <p className="font-bold text-gray-900 group-hover:text-red-600 transition-colors">Azdzikri Muhammad Hisyam Soleh</p>
