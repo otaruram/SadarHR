@@ -157,7 +157,7 @@ function App() {
                 <Activity className="w-5 h-5 md:w-6 md:h-6 text-red-500" /> Pengenalan
               </h2>
               <p className="text-sm md:text-base text-gray-600 leading-relaxed">
-                Platform **HR Analytics Attrition Predictor** dirancang untuk membantu tim Sumber Daya Manusia (HR) dalam mengidentifikasi probabilitas seorang karyawan untuk resign (attrition) berdasarkan profil, kinerja, dan data historis.
+                Platform <strong>SadarHR Attrition Predictor</strong> dirancang untuk membantu tim Sumber Daya Manusia (HR) dalam mengidentifikasi probabilitas seorang karyawan untuk resign (attrition) berdasarkan profil, kinerja, dan data historis.
               </p>
             </section>
             <section>
@@ -166,7 +166,7 @@ function App() {
               </h2>
               <div className="bg-red-50 p-5 md:p-6 rounded-2xl">
                 <p className="text-sm md:text-base text-gray-700 leading-relaxed mb-4">
-                  Aplikasi ini menggunakan pendekatan inovatif **Serverless Machine Learning**. Model Neural Network dilatih menggunakan Keras/TensorFlow dan dikonversi menjadi format TensorFlow.js.
+                  Aplikasi ini menggunakan pendekatan inovatif <strong>Serverless Machine Learning</strong>. Model Neural Network dilatih menggunakan Keras/TensorFlow dan dikonversi menjadi format TensorFlow.js.
                 </p>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
@@ -185,7 +185,7 @@ function App() {
                 <ShieldCheck className="w-5 h-5 md:w-6 md:h-6 text-red-500" /> Keamanan & Privasi Data 100%
               </h2>
               <p className="text-sm md:text-base text-gray-600 leading-relaxed">
-                Karena menggunakan TensorFlow.js di sisi klien (*front-end*), <strong>tidak ada satu pun data personal karyawan yang dikirimkan ke server atau API eksternal</strong>.
+                Karena menggunakan TensorFlow.js di sisi klien (front-end), <strong>tidak ada satu pun data personal karyawan yang dikirimkan ke server atau API eksternal</strong>.
               </p>
             </section>
             <section>
@@ -193,16 +193,16 @@ function App() {
                 <User className="w-5 h-5 md:w-6 md:h-6 text-red-500" /> Model Data & Variabel
               </h2>
               <p className="text-sm md:text-base text-gray-600 leading-relaxed mb-4">
-                Model ini di-*training* dengan menggunakan **34 parameter spesifik** yang mewakili dinamika karyawan. Input secara otomatis ditangani dengan teknik pra-pemrosesan:
+                Model ini di-training dengan menggunakan <strong>34 parameter spesifik</strong> yang mewakili dinamika karyawan. Input secara otomatis ditangani dengan teknik pra-pemrosesan:
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <div className="border border-gray-100 rounded-2xl p-4 md:p-5 shadow-sm">
                   <h4 className="font-bold text-gray-800 mb-2">Data Numerik</h4>
-                  <p className="text-xs md:text-sm text-gray-500">Nilai kosong otomatis diisi menggunakan nilai <em>Median</em>, lalu distandarisasi (*StandardScaler*) berdasarkan nilai mean/std di data latih.</p>
+                  <p className="text-xs md:text-sm text-gray-500">Nilai kosong otomatis diisi menggunakan nilai <em>Median</em>, lalu distandarisasi menggunakan StandardScaler berdasarkan nilai mean/std di data latih.</p>
                 </div>
                 <div className="border border-gray-100 rounded-2xl p-4 md:p-5 shadow-sm">
                   <h4 className="font-bold text-gray-800 mb-2">Data Kategorikal</h4>
-                  <p className="text-xs md:text-sm text-gray-500">Nilai kosong diisi dengan nilai yang sering muncul (<em>Mode</em>). Variabel teks diubah menjadi *Label Encoding* numerik.</p>
+                  <p className="text-xs md:text-sm text-gray-500">Nilai kosong diisi dengan nilai yang sering muncul (<em>Mode</em>). Variabel teks diubah menjadi Label Encoding numerik.</p>
                 </div>
               </div>
             </section>
