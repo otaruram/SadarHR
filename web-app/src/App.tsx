@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import * as tf from '@tensorflow/tfjs';
-import { Activity, AlertTriangle, CheckCircle, TrendingUp, User, BookOpen, ChevronLeft, ShieldCheck, Zap, ArrowRight, ArrowLeft } from 'lucide-react';
+import { Activity, AlertTriangle, CheckCircle, TrendingUp, User, BookOpen, ChevronLeft, ShieldCheck, Zap, ArrowRight, ArrowLeft, Lock, Clock, MapPin, Award } from 'lucide-react';
 
 interface PreprocessMeta {
   features: string[];
@@ -214,8 +214,8 @@ function App() {
 
   if (viewState === 'landing') {
     return (
-      <div className="min-h-screen bg-white text-gray-900 font-sans flex flex-col">
-        <nav className="w-full px-4 md:px-8 py-4 md:py-6 flex items-center justify-between border-b border-gray-100">
+      <div className="min-h-screen bg-neutral-50 text-gray-900 font-sans flex flex-col">
+        <nav className="w-full px-4 md:px-8 py-4 md:py-6 flex items-center justify-between border-b border-gray-200 bg-white shadow-sm">
           <div className="flex items-center gap-2">
             <SadarHRLogo className="w-8 h-8 md:w-10 md:h-10 text-red-600" />
             <span className="font-bold text-lg md:text-xl tracking-tight text-gray-800">Sadar<span className="text-red-600">HR</span></span>
@@ -231,64 +231,72 @@ function App() {
             </button>
             <button 
               onClick={() => setViewState('dashboard')}
-              className="text-xs md:text-sm font-semibold text-red-600 hover:text-red-700 transition-colors bg-red-50 hover:bg-red-100 px-3 py-1.5 rounded-md md:bg-transparent md:px-0 md:py-0"
+              className="text-xs md:text-sm font-semibold text-red-600 hover:text-red-700 transition-colors bg-red-50 hover:bg-red-100 px-4 py-2 rounded-lg border border-red-100"
             >
-              Mulai
+              Mulai Analisis
             </button>
           </div>
         </nav>
 
-        <main className="flex-1 flex flex-col items-center justify-center px-4 py-12 md:py-20 text-center max-w-4xl mx-auto">
-          <div className="inline-block mb-4 md:mb-6 px-3 py-1 md:px-4 md:py-1.5 rounded-full bg-red-50 border border-red-100 text-red-600 text-xs md:text-sm font-medium tracking-wide">
-            Powered by Client-Side AI (TFJS)
-          </div>
-          <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight text-gray-900 leading-tight mb-4 md:mb-6">
-            Prediksi <span className="text-red-600">Retensi Karyawan</span><br />
-            Dalam Hitungan Detik.
+        <main className="flex-1 flex flex-col items-center justify-center px-4 py-16 md:py-24 text-center max-w-5xl mx-auto">
+          <h1 className="font-serif text-4xl md:text-6xl lg:text-7xl font-extrabold tracking-tight text-gray-900 leading-[1.1] mb-6 md:mb-8">
+            Pahami polanya, jaga talentanya.<br />
+            Deteksi <span className="text-red-600">risiko resign</span> sebelum<br />
+            suratnya sampai di mejamu.
           </h1>
-          <p className="text-base md:text-xl text-gray-500 mb-8 md:mb-10 max-w-2xl mx-auto leading-relaxed">
-            Platform analitik cerdas yang membantu tim HR mengidentifikasi karyawan dengan risiko resign (attrition) tinggi. 
-            Semua diproses aman secara lokal di perangkat Anda.
+          <p className="text-base md:text-xl text-gray-600 mb-10 md:mb-12 max-w-3xl mx-auto leading-relaxed">
+            SadarHR membantu mendeteksi risiko kejenuhan karyawan secara proaktif. Berjalan 100% serverless di browser Anda tanpa risiko kebocoran data perusahaan.
           </p>
           
-          <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3 w-full sm:w-auto">
-            <button
-              onClick={() => setViewState('dashboard')}
-              className="group relative px-6 md:px-8 py-3 md:py-4 bg-red-600 text-white rounded-full font-bold text-base md:text-lg shadow-[0_8px_20px_rgb(220,38,38,0.3)] hover:shadow-[0_8px_30px_rgb(220,38,38,0.5)] hover:bg-red-700 transition-all hover:-translate-y-1 overflow-hidden"
-            >
-              <span className="relative z-10 flex items-center justify-center gap-2">
-                Masuk ke Dashboard
-                <TrendingUp className="w-4 h-4 md:w-5 md:h-5 group-hover:translate-x-1 transition-transform" />
-              </span>
-            </button>
-            <button
-              onClick={() => setViewState('docs')}
-              className="px-6 md:px-8 py-3 md:py-4 bg-white text-gray-700 rounded-full font-bold text-base md:text-lg border-2 border-gray-200 hover:border-gray-300 hover:bg-gray-50 transition-all text-center"
-            >
-              Dokumentasi
-            </button>
+          <div className="flex flex-col items-center w-full">
+            <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-4 w-full sm:w-auto mb-6">
+              <button
+                onClick={() => setViewState('dashboard')}
+                className="group relative px-8 py-4 bg-red-600 text-white rounded-full font-bold text-lg shadow-lg hover:shadow-xl hover:bg-red-700 transition-all hover:-translate-y-1"
+              >
+                <span className="flex items-center justify-center gap-2">
+                  Buka Aplikasi
+                  <TrendingUp className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+                </span>
+              </button>
+              <button
+                onClick={() => setViewState('docs')}
+                className="px-8 py-4 bg-white text-gray-700 rounded-full font-bold text-lg border border-gray-300 hover:border-gray-400 hover:bg-gray-50 transition-all"
+              >
+                Dokumentasi
+              </button>
+            </div>
+            
+            <div className="flex items-center justify-center gap-2 text-xs md:text-sm text-gray-500">
+              <Lock className="w-4 h-4 text-green-600" />
+              <span>🔒 Data internal perusahaan Anda aman. Tidak ada transfer data keluar jaringan lokal Anda.</span>
+            </div>
           </div>
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 md:gap-8 mt-16 md:mt-24 pt-10 md:pt-16 border-t border-gray-100 text-center sm:text-left">
-            <div className="flex flex-col items-center sm:items-start">
-              <div className="w-10 h-10 md:w-12 md:h-12 rounded-xl md:rounded-2xl bg-red-50 flex items-center justify-center mb-3 md:mb-4 text-red-600">
-                <User className="w-5 h-5 md:w-6 md:h-6" />
+
+          <div className="mt-20 md:mt-28 w-full text-left">
+            <h2 className="text-2xl md:text-3xl font-bold font-serif text-gray-800 text-center mb-8 md:mb-12">Bagaimana SadarHR Membantu Anda?</h2>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
+              <div className="bg-white p-6 md:p-8 rounded-2xl md:rounded-3xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
+                <div className="w-12 h-12 rounded-xl bg-orange-50 flex items-center justify-center mb-5 text-orange-600">
+                  <Clock className="w-6 h-6" />
+                </div>
+                <h3 className="text-lg font-bold text-gray-900 mb-3 font-serif">Deteksi Burnout Lembur</h3>
+                <p className="text-gray-600 text-sm leading-relaxed">Karyawan performa tinggi, tapi sebulan terakhir Overtime (lembur) naik 40% dan Work-Life Balance drop. SadarHR langsung memberikan sinyal kuning.</p>
               </div>
-              <h3 className="text-base md:text-lg font-bold text-gray-900 mb-1 md:mb-2">Profil Karyawan</h3>
-              <p className="text-gray-500 leading-relaxed text-xs md:text-sm">Analisis berdasarkan 34 variabel metrik performa dan demografi.</p>
-            </div>
-            <div className="flex flex-col items-center sm:items-start">
-              <div className="w-10 h-10 md:w-12 md:h-12 rounded-xl md:rounded-2xl bg-red-50 flex items-center justify-center mb-3 md:mb-4 text-red-600">
-                <Activity className="w-5 h-5 md:w-6 md:h-6" />
+              <div className="bg-white p-6 md:p-8 rounded-2xl md:rounded-3xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
+                <div className="w-12 h-12 rounded-xl bg-blue-50 flex items-center justify-center mb-5 text-blue-600">
+                  <MapPin className="w-6 h-6" />
+                </div>
+                <h3 className="text-lg font-bold text-gray-900 mb-3 font-serif">Faktor Jarak & Logistik</h3>
+                <p className="text-gray-600 text-sm leading-relaxed">Talenta terbaik baru pindah rumah yang jaraknya 50km dari kantor. SadarHR membantu mendeteksi risiko kejenuhan akibat perjalanan jauh.</p>
               </div>
-              <h3 className="text-base md:text-lg font-bold text-gray-900 mb-1 md:mb-2">Real-time Inferensi</h3>
-              <p className="text-gray-500 leading-relaxed text-xs md:text-sm">Hasil kalkulasi AI seketika menggunakan TensorFlow.js di browser.</p>
-            </div>
-            <div className="flex flex-col items-center sm:items-start">
-              <div className="w-10 h-10 md:w-12 md:h-12 rounded-xl md:rounded-2xl bg-red-50 flex items-center justify-center mb-3 md:mb-4 text-red-600">
-                <CheckCircle className="w-5 h-5 md:w-6 md:h-6" />
+              <div className="bg-white p-6 md:p-8 rounded-2xl md:rounded-3xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
+                <div className="w-12 h-12 rounded-xl bg-purple-50 flex items-center justify-center mb-5 text-purple-600">
+                  <Award className="w-6 h-6" />
+                </div>
+                <h3 className="text-lg font-bold text-gray-900 mb-3 font-serif">Proteksi Top Performer</h3>
+                <p className="text-gray-600 text-sm leading-relaxed">Memberikan alarm dini pada karyawan berkinerja tinggi yang sudah lama tidak mendapatkan promosi dan mulai merasa jenuh.</p>
               </div>
-              <h3 className="text-base md:text-lg font-bold text-gray-900 mb-1 md:mb-2">Akurasi Tinggi</h3>
-              <p className="text-gray-500 leading-relaxed text-xs md:text-sm">Neural Network yang dilatih khusus pada data historis karyawan.</p>
             </div>
           </div>
         </main>
