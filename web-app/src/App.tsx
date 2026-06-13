@@ -310,18 +310,18 @@ function App() {
 
           <div className="mt-20 md:mt-24 w-full border-t border-gray-200 pt-10 pb-8">
             <h2 className="text-xl font-bold font-serif text-gray-800 text-center mb-6">Tim Pengembang</h2>
-            <div className="flex flex-col sm:flex-row justify-center items-center gap-6 md:gap-12">
-              <a href="https://www.linkedin.com/in/otaruram/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 group">
-                <img src="/oki.png" alt="Oki Taruna Ramadhan" className="w-14 h-14 rounded-full object-cover object-top border-2 border-transparent group-hover:border-red-500 transition-colors shadow-sm" />
-                <div className="text-left">
-                  <p className="font-bold text-gray-900 group-hover:text-red-600 transition-colors">Oki Taruna Ramadhan</p>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-2xl mx-auto">
+              <a href="https://www.linkedin.com/in/otaruram/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 bg-white p-4 rounded-2xl border border-gray-100 hover:border-red-200 hover:shadow-md transition-all group">
+                <img src="/oki.png" alt="Oki Taruna Ramadhan" className="w-14 h-14 rounded-full object-cover object-top border-2 border-transparent group-hover:border-red-500 transition-colors shadow-sm shrink-0" />
+                <div className="text-left flex-1">
+                  <p className="font-bold text-gray-900 group-hover:text-red-600 transition-colors leading-tight mb-0.5">Oki Taruna Ramadhan</p>
                   <p className="text-xs text-gray-500">Lead</p>
                 </div>
               </a>
-              <a href="https://www.linkedin.com/in/azdzikri-muhammad-hisyam-soleh-086b43281/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 group">
-                <img src="/azikri.png" alt="Azdzikri Muhammad Hisyam Soleh" className="w-14 h-14 rounded-full object-cover object-top border-2 border-transparent group-hover:border-red-500 transition-colors shadow-sm" />
-                <div className="text-left">
-                  <p className="font-bold text-gray-900 group-hover:text-red-600 transition-colors">Azdzikri Muhammad Hisyam Soleh</p>
+              <a href="https://www.linkedin.com/in/azdzikri-muhammad-hisyam-soleh-086b43281/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 bg-white p-4 rounded-2xl border border-gray-100 hover:border-red-200 hover:shadow-md transition-all group">
+                <img src="/azikri.png" alt="Azdzikri Muhammad Hisyam Soleh" className="w-14 h-14 rounded-full object-cover object-top border-2 border-transparent group-hover:border-red-500 transition-colors shadow-sm shrink-0" />
+                <div className="text-left flex-1">
+                  <p className="font-bold text-gray-900 group-hover:text-red-600 transition-colors leading-tight mb-0.5">Azdzikri Muhammad Hisyam Soleh</p>
                   <p className="text-xs text-gray-500">Assistant Lead</p>
                 </div>
               </a>
