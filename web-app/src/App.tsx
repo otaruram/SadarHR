@@ -35,7 +35,6 @@ function App() {
   const [model, setModel] = useState<tf.LayersModel | null>(null);
   const [meta, setMeta] = useState<PreprocessMeta | null>(null);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState('');
   
   const [formData, setFormData] = useState<Record<string, any>>({});
   const [prediction, setPrediction] = useState<number | null>(null);
@@ -72,7 +71,6 @@ function App() {
         
       } catch (err: any) {
         console.error(err);
-        setError('Model AI belum tersedia. Pastikan script python sudah selesai berjalan.');
       } finally {
         setLoading(false);
       }
@@ -123,30 +121,9 @@ function App() {
       resultTensor.dispose();
     } catch (err: any) {
       console.error(err);
-      setError('Terjadi kesalahan saat memproses prediksi.');
     } finally {
       setIsPredicting(false);
     }
-  };
-
-  const getRecommendations = () => {
-    let recs = [];
-    if (formData.OverTime === 'Yes' || formData.OverTime === 1) {
-      recs.push("Karyawan sering lembur. Pertimbangkan untuk menyesuaikan beban kerja guna menjaga work-life balance.");
-    }
-    if (formData.JobSatisfaction <= 2) {
-      recs.push("Tingkat kepuasan kerja sangat rendah. Jadwalkan sesi 1-on-1 segera.");
-    }
-    if (formData.YearsSinceLastPromotion > 3) {
-      recs.push("Karyawan belum dipromosikan >3 tahun. Evaluasi kembali jenjang karirnya.");
-    }
-    if (formData.PercentSalaryHike < 12) {
-      recs.push("Kenaikan gaji tergolong minim, berpotensi memicu demotivasi.");
-    }
-    if (recs.length === 0) {
-      recs.push("Kondisi kerja stabil. Pertahankan lingkungan kerja yang suportif.");
-    }
-    return recs.slice(0, 3);
   };
 
   const isStepValid = (step: 1 | 2 | 3) => {
