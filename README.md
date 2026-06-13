@@ -1,8 +1,10 @@
 # 🏢 SadarHR - Attrition Predictor
 
 **End-to-End Employee Retention Analytics Platform**  
-🚀 **Live Demo:** [https://sadarhr.vercel.app/](https://sadarhr.vercel.app/)  
-📊 **Pitch Deck:** [Buka Pitch Deck Presentasi (Google Drive)](https://drive.google.com/file/d/1TuMHthhftTpuhLbTHyG4pIdiLYn86ueq/view?usp=sharing)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://sadarhr.vercel.app/)
+[![Pitch Deck](https://img.shields.io/badge/Pitch_Deck-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1TuMHthhftTpuhLbTHyG4pIdiLYn86ueq/view?usp=sharing)
+[![TFJS Model](https://img.shields.io/badge/TFJS_Model-Source_Code-orange?style=for-the-badge&logo=tensorflow)](https://github.com/otaruram/SadarHR/tree/main/web-app/public/model)
 
 *Solusi cerdas berbasis Artificial Intelligence untuk mengidentifikasi potensi pengunduran diri (attrition) karyawan dengan arsitektur serverless yang mengedepankan keamanan dan privasi data.*
 
