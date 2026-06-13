@@ -1,0 +1,501 @@
+EmployeeID,Age,JobSatisfaction,OverTime,Department,MonthlyIncome,YearsAtCompany,Attrition
+1,50,Medium,No,Human Resources,14046,24,0
+2,36,Medium,Yes,Sales,14611,35,0
+3,29,Low,No,Research & Development,15076,20,0
+4,42,Low,No,Sales,18524,29,0
+5,40,Low,No,Research & Development,6882,23,0
+6,44,Medium,Yes,Research & Development,16113,29,0
+7,32,High,Yes,Sales,15645,21,0
+8,32,Very High,No,Research & Development,8012,27,0
+9,45,Very High,Yes,Research & Development,19347,6,0
+10,57,Low,No,Human Resources,9151,34,0
+11,45,Low,Yes,Research & Development,5610,27,1
+12,24,Medium,No,Research & Development,11884,13,0
+13,43,Very High,No,Research & Development,8894,9,0
+14,23,Low,Yes,Human Resources,15467,15,0
+15,45,High,No,Sales,18489,15,0
+16,51,High,Yes,Human Resources,11873,30,0
+17,59,Low,Yes,Human Resources,14289,24,0
+18,23,Low,No,Sales,14208,12,1
+19,42,Very High,No,Human Resources,12828,5,0
+20,54,Very High,No,Sales,4137,8,0
+21,33,Medium,Yes,Human Resources,3286,35,0
+22,43,Very High,No,Sales,17710,19,0
+23,46,High,No,Research & Development,13371,17,0
+24,48,High,No,Human Resources,17945,20,0
+25,49,Low,No,Human Resources,9052,3,0
+26,37,Very High,No,Human Resources,5654,32,0
+27,36,Medium,No,Human Resources,17600,26,0
+28,24,High,No,Research & Development,10636,6,1
+29,58,High,No,Human Resources,8441,5,0
+30,28,Medium,No,Research & Development,11667,14,1
+31,42,Medium,Yes,Research & Development,14149,17,0
+32,30,High,No,Research & Development,3798,31,1
+33,39,High,No,Research & Development,11600,10,0
+34,25,Medium,Yes,Sales,7495,19,1
+35,46,High,Yes,Sales,11900,23,1
+36,35,Low,No,Human Resources,15673,14,0
+37,30,Low,No,Sales,13130,6,1
+38,47,Medium,No,Sales,17222,20,0
+39,23,Very High,Yes,Human Resources,3300,25,0
+40,41,Medium,No,Human Resources,11435,13,0
+41,49,Medium,Yes,Human Resources,6616,36,0
+42,28,Very High,Yes,Sales,18393,20,0
+43,29,Very High,Yes,Sales,12617,17,0
+44,56,Very High,No,Human Resources,7752,4,0
+45,35,Low,No,Research & Development,11852,2,0
+46,38,High,No,Human Resources,8295,22,1
+47,57,Low,No,Research & Development,19456,25,0
+48,25,High,No,Research & Development,5225,36,0
+49,23,Low,No,Human Resources,3316,23,0
+50,27,High,No,Human Resources,14337,18,0
+51,25,Low,No,Human Resources,8807,24,0
+52,50,Very High,No,Sales,5683,20,0
+53,39,Medium,No,Research & Development,9227,11,0
+54,47,Low,No,Sales,5273,32,1
+55,55,High,No,Sales,2145,3,0
+56,31,Very High,No,Human Resources,7010,6,0
+57,57,Low,Yes,Sales,18035,21,0
+58,35,Low,No,Human Resources,5040,32,0
+59,52,Very High,No,Research & Development,11654,16,0
+60,36,Low,No,Human Resources,18866,23,0
+61,29,Medium,No,Sales,19633,33,0
+62,35,Low,No,Sales,19014,27,0
+63,44,Medium,Yes,Human Resources,16996,38,1
+64,42,Medium,No,Human Resources,18336,21,1
+65,37,Very High,No,Sales,10853,16,0
+66,39,Low,No,Research & Development,13695,33,0
+67,45,Very High,Yes,Research & Development,4852,5,0
+68,47,Low,No,Human Resources,18014,5,0
+69,46,Low,No,Research & Development,2987,33,0
+70,50,High,No,Sales,9622,0,0
+71,36,Low,No,Human Resources,11160,9,0
+72,22,Very High,No,Sales,19484,20,0
+73,46,Medium,Yes,Sales,8652,4,0
+74,28,Low,No,Research & Development,9421,1,1
+75,30,High,Yes,Human Resources,2769,21,1
+76,45,Very High,No,Human Resources,19727,1,0
+77,22,Low,Yes,Research & Development,16114,9,0
+78,29,Very High,No,Sales,6358,33,1
+79,45,High,No,Sales,13543,15,0
+80,32,High,No,Sales,7699,38,0
+81,38,Very High,No,Sales,19625,21,0
+82,29,Low,No,Human Resources,3125,11,0
+83,56,Medium,Yes,Human Resources,12793,23,0
+84,56,High,No,Research & Development,8764,39,1
+85,54,Low,Yes,Research & Development,14323,37,1
+86,26,Low,No,Human Resources,15031,9,0
+87,49,Medium,No,Human Resources,16052,34,0
+88,28,High,Yes,Sales,14640,31,1
+89,30,High,Yes,Sales,9843,6,0
+90,29,Low,No,Research & Development,16210,20,1
+91,33,Low,No,Human Resources,18456,19,0
+92,55,Medium,No,Research & Development,12106,25,0
+93,54,Medium,No,Human Resources,7189,3,0
+94,44,High,No,Sales,4472,21,0
+95,45,Very High,Yes,Research & Development,19091,14,0
+96,58,High,No,Research & Development,8704,39,0
+97,56,Low,Yes,Human Resources,5713,20,0
+98,43,High,No,Sales,7051,14,0
+99,48,Very High,No,Research & Development,12756,21,0
+100,56,Medium,No,Sales,4475,27,1
+101,22,Very High,No,Research & Development,5610,13,1
+102,56,Very High,No,Sales,6255,26,0
+103,58,Very High,Yes,Human Resources,16484,39,1
+104,35,Medium,No,Research & Development,3735,27,0
+105,24,Very High,No,Research & Development,10258,25,0
+106,22,Very High,No,Sales,9979,1,1
+107,26,Very High,Yes,Sales,4428,24,0
+108,47,Low,No,Research & Development,14345,2,0
+109,35,Very High,No,Human Resources,9426,7,1
+110,48,Medium,No,Sales,10533,32,0
+111,30,Very High,No,Sales,7249,34,1
+112,36,Very High,No,Sales,11686,5,1
+113,36,Medium,No,Research & Development,16109,38,0
+114,47,Very High,Yes,Research & Development,2661,22,1
+115,34,Medium,No,Research & Development,14075,24,0
+116,53,Very High,No,Research & Development,16788,18,0
+117,53,Medium,No,Human Resources,12060,4,0
+118,25,Very High,No,Human Resources,17836,10,1
+119,51,Very High,No,Research & Development,12526,11,0
+120,58,Low,No,Human Resources,5374,9,0
+121,44,Low,No,Sales,2207,7,0
+122,36,Very High,Yes,Sales,4665,23,0
+123,50,Very High,No,Sales,2632,27,0
+124,57,High,No,Research & Development,5083,35,0
+125,34,Medium,Yes,Sales,15711,36,0
+126,53,High,No,Human Resources,12123,20,0
+127,28,Low,No,Research & Development,9123,7,1
+128,43,Low,No,Human Resources,12754,8,0
+129,49,Low,No,Sales,3679,14,0
+130,23,Low,No,Sales,17901,39,1
+131,27,Very High,Yes,Sales,2236,17,0
+132,49,Low,No,Research & Development,9446,19,1
+133,49,Very High,No,Human Resources,6443,5,0
+134,41,Very High,Yes,Research & Development,17463,11,1
+135,51,Low,No,Research & Development,10555,1,0
+136,32,Low,No,Sales,18669,6,0
+137,49,Medium,No,Research & Development,2148,15,0
+138,46,High,No,Research & Development,15395,2,1
+139,54,Low,No,Sales,6895,2,0
+140,22,Medium,No,Research & Development,19396,26,0
+141,48,Medium,No,Sales,13023,39,0
+142,34,High,No,Sales,12699,37,0
+143,24,Very High,Yes,Sales,11715,32,0
+144,27,Low,No,Sales,18163,27,0
+145,29,High,Yes,Research & Development,7782,0,1
+146,48,Low,Yes,Sales,18724,7,0
+147,30,Medium,No,Sales,4817,36,0
+148,58,Medium,No,Research & Development,17096,31,0
+149,54,Very High,No,Research & Development,7299,36,0
+150,45,Medium,No,Human Resources,11917,3,0
+151,36,Medium,No,Research & Development,5267,29,0
+152,53,High,No,Research & Development,6406,5,0
+153,53,Low,Yes,Human Resources,19826,18,0
+154,45,Low,No,Research & Development,12382,31,0
+155,33,High,Yes,Research & Development,6437,8,1
+156,23,Very High,No,Research & Development,7435,11,1
+157,24,Low,Yes,Research & Development,6107,10,0
+158,58,Medium,No,Human Resources,2560,15,1
+159,38,Low,Yes,Research & Development,14329,0,0
+160,23,Medium,No,Research & Development,3826,20,0
+161,23,Very High,No,Human Resources,13421,29,0
+162,49,High,No,Sales,14265,12,0
+163,44,Low,Yes,Human Resources,9629,33,0
+164,58,High,No,Sales,10325,3,0
+165,53,Low,Yes,Human Resources,9693,27,0
+166,54,Medium,No,Human Resources,10264,37,0
+167,22,High,Yes,Research & Development,14686,30,0
+168,40,Low,Yes,Sales,15716,26,0
+169,23,Medium,Yes,Research & Development,8721,4,0
+170,47,High,No,Sales,9373,24,0
+171,53,High,No,Human Resources,7907,2,1
+172,27,Low,Yes,Human Resources,18127,32,1
+173,53,Low,No,Sales,7656,3,0
+174,25,Low,No,Research & Development,10984,24,1
+175,32,Medium,No,Research & Development,10286,19,0
+176,38,Low,No,Research & Development,7901,33,0
+177,59,High,No,Research & Development,6917,25,0
+178,45,High,No,Human Resources,10429,4,0
+179,26,Low,Yes,Human Resources,16716,34,1
+180,55,Low,Yes,Human Resources,17795,27,0
+181,27,Very High,No,Human Resources,13138,28,0
+182,43,High,No,Human Resources,4530,8,0
+183,32,Medium,No,Research & Development,19432,37,0
+184,37,Very High,Yes,Research & Development,7772,5,1
+185,54,Low,No,Research & Development,17476,18,0
+186,30,Low,No,Research & Development,17751,10,0
+187,27,High,Yes,Human Resources,4964,1,0
+188,37,Low,Yes,Human Resources,9137,8,0
+189,50,Medium,No,Human Resources,19347,20,0
+190,24,High,No,Sales,18920,23,0
+191,41,Low,Yes,Research & Development,15891,33,0
+192,57,High,Yes,Research & Development,9340,21,0
+193,40,Low,Yes,Human Resources,9967,2,1
+194,47,Low,No,Research & Development,14415,11,1
+195,24,Low,Yes,Research & Development,13871,27,0
+196,40,Medium,Yes,Human Resources,13916,29,0
+197,41,Medium,No,Sales,10734,25,0
+198,53,High,Yes,Sales,2845,20,0
+199,28,Low,No,Sales,4494,27,0
+200,54,Low,Yes,Human Resources,14677,25,0
+201,39,Medium,Yes,Research & Development,14330,32,0
+202,22,Low,Yes,Human Resources,7179,20,0
+203,32,Medium,No,Human Resources,8610,34,0
+204,49,Low,No,Research & Development,8430,33,0
+205,46,High,No,Sales,9154,17,0
+206,44,Low,No,Sales,15828,10,0
+207,52,Low,No,Human Resources,12145,22,0
+208,51,Very High,Yes,Sales,8488,21,0
+209,56,Medium,Yes,Human Resources,5850,16,0
+210,28,Low,No,Human Resources,19073,4,0
+211,37,Low,Yes,Research & Development,15564,10,0
+212,47,Very High,Yes,Research & Development,7078,29,0
+213,23,Very High,Yes,Research & Development,14168,14,1
+214,22,Medium,Yes,Human Resources,7448,26,0
+215,33,Very High,Yes,Research & Development,19563,34,0
+216,26,High,No,Sales,11074,32,0
+217,58,Very High,No,Sales,8406,19,0
+218,53,High,No,Human Resources,10800,15,0
+219,30,Medium,No,Human Resources,16083,33,0
+220,56,Medium,No,Research & Development,3638,1,0
+221,40,Medium,Yes,Human Resources,12340,34,1
+222,37,Medium,No,Human Resources,3382,39,0
+223,24,Medium,No,Sales,3403,27,0
+224,41,High,Yes,Sales,11011,38,1
+225,45,High,No,Research & Development,5292,5,0
+226,54,Medium,No,Human Resources,11011,8,1
+227,45,Very High,No,Human Resources,2419,19,0
+228,32,Low,No,Sales,14411,0,1
+229,29,Medium,Yes,Human Resources,6517,7,0
+230,57,Very High,No,Sales,17422,22,0
+231,59,Low,No,Research & Development,11700,2,0
+232,41,Medium,Yes,Sales,7693,3,0
+233,56,Medium,No,Human Resources,2767,24,0
+234,46,High,No,Research & Development,16818,37,0
+235,56,Low,No,Sales,3549,14,0
+236,46,Low,No,Sales,11956,20,0
+237,50,Very High,No,Research & Development,8140,34,0
+238,39,High,Yes,Research & Development,12837,13,0
+239,39,High,Yes,Sales,5716,35,1
+240,23,High,No,Human Resources,6481,11,0
+241,56,High,No,Sales,8548,16,1
+242,37,Low,Yes,Research & Development,6837,38,0
+243,57,Low,Yes,Sales,9758,8,0
+244,54,Medium,No,Research & Development,12900,34,0
+245,25,Medium,No,Research & Development,9993,12,0
+246,54,High,No,Human Resources,7542,14,0
+247,35,High,Yes,Research & Development,16828,17,0
+248,42,High,Yes,Research & Development,18052,32,0
+249,41,Medium,Yes,Human Resources,4385,5,1
+250,29,Very High,No,Research & Development,16308,26,0
+251,28,Very High,Yes,Human Resources,2671,22,0
+252,24,Medium,No,Human Resources,2163,26,0
+253,38,Medium,Yes,Research & Development,10656,33,0
+254,54,Medium,No,Research & Development,13234,37,0
+255,33,Medium,No,Sales,6795,13,0
+256,43,Medium,No,Human Resources,12634,35,0
+257,43,Medium,Yes,Sales,6798,7,0
+258,51,High,Yes,Research & Development,12749,34,0
+259,59,High,Yes,Sales,7827,18,1
+260,59,High,No,Human Resources,6719,29,1
+261,29,High,No,Sales,2593,13,0
+262,48,Medium,No,Human Resources,9394,19,0
+263,48,Very High,No,Research & Development,16056,24,0
+264,55,Low,No,Research & Development,12636,39,1
+265,42,Medium,Yes,Human Resources,2016,23,0
+266,51,Low,No,Research & Development,5191,13,0
+267,54,Very High,No,Research & Development,2392,25,0
+268,49,High,No,Research & Development,8272,37,0
+269,54,Very High,No,Research & Development,18955,22,0
+270,26,Medium,Yes,Human Resources,5631,21,0
+271,40,High,Yes,Sales,8172,18,0
+272,25,Medium,No,Sales,11312,2,0
+273,56,High,Yes,Research & Development,10906,18,0
+274,38,Low,No,Sales,19159,8,0
+275,49,Low,Yes,Sales,18462,27,0
+276,51,Low,No,Research & Development,10080,19,0
+277,50,Very High,Yes,Research & Development,9099,6,1
+278,27,Medium,No,Sales,16916,13,0
+279,56,Very High,No,Human Resources,9083,8,0
+280,58,Low,Yes,Research & Development,11223,18,0
+281,45,Medium,No,Human Resources,6940,13,0
+282,50,Low,No,Sales,5456,37,0
+283,52,Very High,No,Research & Development,9788,35,0
+284,56,Very High,No,Human Resources,4711,39,1
+285,54,Very High,No,Research & Development,13280,16,0
+286,42,Low,Yes,Sales,18531,29,0
+287,53,Medium,Yes,Human Resources,14089,8,0
+288,44,Medium,Yes,Sales,12142,32,0
+289,54,Low,No,Sales,18749,24,0
+290,24,Medium,Yes,Research & Development,17587,13,0
+291,39,Low,No,Human Resources,11866,10,0
+292,46,Medium,No,Sales,6531,34,0
+293,52,High,No,Sales,14686,13,0
+294,24,High,No,Human Resources,7330,29,0
+295,45,Very High,Yes,Sales,7510,3,0
+296,53,High,Yes,Sales,10964,3,0
+297,43,High,No,Human Resources,8493,27,1
+298,44,High,No,Human Resources,12759,7,0
+299,23,Low,No,Human Resources,7439,1,0
+300,48,High,No,Human Resources,16473,21,0
+301,23,High,Yes,Research & Development,11765,15,0
+302,47,Very High,No,Human Resources,15279,28,0
+303,38,High,No,Research & Development,8511,29,0
+304,54,High,No,Research & Development,13483,11,1
+305,30,Medium,Yes,Research & Development,19630,34,0
+306,50,Very High,No,Sales,4376,10,0
+307,47,Very High,No,Research & Development,13824,20,0
+308,56,Very High,Yes,Research & Development,8979,20,1
+309,46,Very High,No,Sales,11832,4,0
+310,45,Very High,Yes,Sales,14504,19,0
+311,34,Very High,No,Sales,8910,36,0
+312,28,Low,No,Human Resources,16089,2,0
+313,57,High,Yes,Sales,4196,32,0
+314,41,Very High,No,Sales,7978,8,0
+315,22,High,No,Research & Development,19153,8,0
+316,29,High,No,Sales,2780,3,0
+317,37,Low,No,Human Resources,11908,34,0
+318,35,Very High,No,Sales,8303,16,0
+319,33,Medium,No,Human Resources,16686,33,0
+320,44,Low,No,Sales,5983,23,1
+321,36,Medium,Yes,Sales,11503,31,1
+322,49,High,No,Sales,18905,0,0
+323,55,High,Yes,Sales,15070,7,1
+324,23,Low,No,Human Resources,14232,22,0
+325,53,Low,No,Human Resources,6583,39,0
+326,44,Medium,Yes,Research & Development,7946,11,0
+327,43,Very High,No,Human Resources,18377,11,0
+328,46,Medium,No,Sales,9128,14,0
+329,43,Low,Yes,Research & Development,13889,18,0
+330,43,Medium,No,Research & Development,14275,25,0
+331,27,Low,No,Research & Development,4461,28,0
+332,36,Medium,Yes,Sales,16291,21,0
+333,58,Low,No,Human Resources,16036,39,0
+334,54,Low,Yes,Sales,13435,20,0
+335,29,Low,No,Research & Development,2685,37,0
+336,26,Very High,No,Sales,14258,19,1
+337,25,Medium,No,Sales,17990,28,1
+338,27,Medium,No,Human Resources,18422,3,0
+339,53,Medium,No,Human Resources,12736,6,1
+340,51,Low,No,Research & Development,6875,27,0
+341,56,Medium,No,Sales,19640,27,1
+342,37,Medium,No,Sales,13182,3,0
+343,34,Low,Yes,Human Resources,4196,21,0
+344,51,High,No,Sales,9165,11,0
+345,40,Low,Yes,Sales,17997,2,0
+346,38,Medium,Yes,Sales,16215,21,0
+347,40,Low,Yes,Human Resources,2301,1,0
+348,49,High,No,Research & Development,19030,23,0
+349,47,Low,No,Research & Development,16571,33,0
+350,58,Medium,No,Sales,11951,26,0
+351,47,High,Yes,Research & Development,12773,0,1
+352,44,Very High,No,Human Resources,18140,7,0
+353,30,Medium,No,Human Resources,15057,22,0
+354,33,High,No,Research & Development,14500,37,0
+355,22,High,No,Research & Development,17921,5,0
+356,22,Very High,No,Sales,13870,21,0
+357,55,Low,No,Research & Development,6082,24,1
+358,53,Low,No,Sales,15718,17,0
+359,46,Medium,Yes,Sales,12517,16,0
+360,22,Very High,Yes,Human Resources,5754,11,1
+361,37,Low,No,Human Resources,3724,5,0
+362,26,Very High,Yes,Human Resources,3376,25,0
+363,43,Low,No,Human Resources,10706,26,0
+364,50,High,No,Research & Development,10894,7,0
+365,24,Low,No,Human Resources,18406,18,0
+366,33,Very High,No,Research & Development,7926,0,0
+367,47,High,No,Human Resources,8251,28,0
+368,37,High,No,Research & Development,11496,34,1
+369,58,High,No,Sales,5300,39,0
+370,43,Very High,No,Research & Development,10553,13,0
+371,50,Medium,No,Research & Development,5727,34,0
+372,35,Medium,No,Human Resources,18898,19,0
+373,49,Medium,No,Research & Development,18832,12,0
+374,26,Very High,No,Sales,8019,37,0
+375,51,High,No,Sales,17463,7,1
+376,26,Medium,No,Human Resources,12047,19,0
+377,33,Very High,No,Sales,13754,32,0
+378,37,Medium,No,Research & Development,4520,25,0
+379,47,Low,Yes,Sales,5081,38,0
+380,47,Medium,Yes,Human Resources,3428,20,0
+381,42,Medium,No,Research & Development,5967,8,0
+382,57,High,Yes,Human Resources,8445,23,0
+383,54,Very High,Yes,Research & Development,16566,36,0
+384,51,High,Yes,Sales,16042,16,1
+385,58,High,Yes,Human Resources,13329,23,1
+386,44,High,Yes,Human Resources,4159,20,0
+387,31,High,No,Research & Development,7132,38,1
+388,26,High,No,Human Resources,16933,38,0
+389,57,Medium,No,Research & Development,12473,12,1
+390,55,High,No,Research & Development,12805,10,0
+391,52,High,Yes,Research & Development,5083,18,1
+392,31,Very High,No,Research & Development,19421,10,1
+393,40,Low,No,Sales,15944,12,0
+394,53,Medium,Yes,Research & Development,9604,0,1
+395,22,Medium,No,Human Resources,17379,39,0
+396,26,Medium,No,Sales,5983,18,0
+397,25,High,No,Human Resources,3778,11,0
+398,37,High,No,Sales,7110,7,0
+399,45,High,No,Research & Development,14087,7,0
+400,37,Very High,Yes,Sales,19508,11,0
+401,23,Low,No,Sales,19081,32,1
+402,49,High,Yes,Human Resources,4179,25,0
+403,53,Low,No,Human Resources,11596,38,0
+404,48,Very High,No,Research & Development,7251,27,1
+405,41,Medium,No,Sales,11235,4,1
+406,45,High,No,Sales,16871,7,1
+407,33,Low,Yes,Sales,3013,24,0
+408,56,Low,Yes,Research & Development,18610,26,1
+409,54,High,Yes,Research & Development,3828,22,0
+410,54,Medium,Yes,Research & Development,9909,29,0
+411,58,Medium,No,Research & Development,7588,22,0
+412,33,Medium,No,Research & Development,15109,19,0
+413,24,Very High,Yes,Human Resources,4023,17,0
+414,22,Low,No,Sales,16537,17,0
+415,54,Low,No,Sales,7891,1,0
+416,31,Low,No,Sales,3080,3,0
+417,50,Very High,No,Sales,7036,29,0
+418,34,Low,Yes,Sales,17379,32,0
+419,33,Very High,No,Sales,12822,35,0
+420,52,Medium,No,Sales,4563,17,0
+421,23,High,No,Sales,5292,36,0
+422,56,Low,Yes,Human Resources,5586,18,0
+423,44,Low,No,Sales,18087,27,1
+424,38,Medium,Yes,Human Resources,18100,39,0
+425,47,High,Yes,Research & Development,8643,19,0
+426,29,Very High,No,Sales,5959,32,0
+427,50,High,No,Research & Development,13005,11,0
+428,47,Medium,No,Research & Development,12775,14,1
+429,31,Medium,Yes,Research & Development,2161,38,0
+430,47,High,No,Human Resources,18029,1,0
+431,55,Very High,Yes,Research & Development,18977,28,0
+432,28,Very High,Yes,Research & Development,16226,9,0
+433,25,Low,No,Research & Development,13154,1,0
+434,32,Very High,No,Sales,14080,10,0
+435,50,High,No,Sales,5390,12,0
+436,57,Medium,No,Human Resources,7997,9,0
+437,46,Low,No,Human Resources,14693,13,0
+438,42,Low,No,Sales,19047,17,1
+439,57,Medium,Yes,Human Resources,11324,8,1
+440,31,Very High,No,Sales,2541,38,0
+441,58,Medium,No,Research & Development,7093,27,0
+442,30,Very High,Yes,Research & Development,15428,2,0
+443,45,Medium,No,Human Resources,13166,19,0
+444,56,High,No,Sales,19251,5,0
+445,56,Very High,Yes,Sales,18063,26,1
+446,57,High,Yes,Human Resources,12258,1,1
+447,39,Low,No,Sales,18044,28,0
+448,53,Medium,Yes,Research & Development,7469,37,0
+449,45,Low,No,Human Resources,8256,2,0
+450,44,Low,No,Human Resources,12720,15,0
+451,53,Low,No,Sales,3169,29,0
+452,58,Low,No,Human Resources,2830,39,0
+453,33,Medium,No,Sales,3651,1,0
+454,34,Low,No,Sales,19520,16,0
+455,44,Medium,No,Sales,11518,11,0
+456,46,Medium,No,Sales,15258,34,1
+457,56,High,Yes,Sales,18184,0,0
+458,51,Very High,No,Human Resources,3019,14,0
+459,38,Very High,No,Research & Development,12028,25,0
+460,41,Medium,No,Research & Development,14448,36,0
+461,46,High,No,Human Resources,14485,20,0
+462,43,Medium,No,Human Resources,3283,30,0
+463,34,Medium,No,Research & Development,19043,24,1
+464,40,Medium,No,Research & Development,3733,22,0
+465,57,High,No,Research & Development,18230,23,1
+466,33,Very High,No,Research & Development,16472,37,0
+467,40,High,No,Research & Development,14889,27,0
+468,33,Low,No,Sales,5471,20,0
+469,30,High,Yes,Human Resources,11028,17,0
+470,28,High,No,Sales,10329,35,0
+471,49,High,No,Research & Development,4097,34,0
+472,35,High,Yes,Research & Development,16082,8,0
+473,52,Very High,No,Research & Development,15930,37,1
+474,40,Low,Yes,Sales,12077,29,1
+475,37,Very High,No,Sales,8397,33,1
+476,26,Very High,No,Research & Development,4757,31,0
+477,56,High,Yes,Sales,19833,2,0
+478,33,Medium,No,Sales,7017,2,0
+479,46,Medium,No,Research & Development,18370,27,0
+480,42,Very High,No,Sales,9999,14,0
+481,57,Very High,Yes,Human Resources,12195,22,0
+482,44,High,Yes,Human Resources,4096,39,0
+483,37,Very High,No,Human Resources,17433,10,0
+484,35,High,No,Human Resources,12595,31,1
+485,52,Medium,No,Research & Development,17941,35,0
+486,26,Medium,Yes,Research & Development,17078,32,0
+487,56,Low,No,Research & Development,7105,23,0
+488,44,Medium,No,Human Resources,4839,38,1
+489,50,Very High,No,Human Resources,5384,33,0
+490,32,Medium,Yes,Sales,12851,27,0
+491,39,High,No,Sales,12053,36,1
+492,33,Medium,No,Human Resources,15493,6,1
+493,30,Low,No,Human Resources,19069,3,0
+494,31,Medium,No,Human Resources,16139,36,0
+495,38,High,No,Human Resources,9531,0,0
+496,59,High,No,Sales,6283,0,0
+497,28,Very High,Yes,Human Resources,9736,19,0
+498,34,Medium,No,Sales,9710,18,1
+499,30,High,No,Human Resources,3619,28,0
+500,48,Low,Yes,Human Resources,15975,9,0

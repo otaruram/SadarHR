@@ -1,0 +1,202 @@
+{
+    "features": [
+        "Age",
+        "Gender",
+        "MaritalStatus",
+        "EducationLevel",
+        "NumDependents",
+        "DistanceFromHome_km",
+        "Department",
+        "JobRole",
+        "JobLevel",
+        "YearsAtCompany",
+        "YearsInCurrentRole",
+        "YearsWithCurrentManager",
+        "YearsSinceLastPromotion",
+        "NumCompaniesWorked",
+        "TotalWorkingYears",
+        "BaseSalary_USD",
+        "StockOptionLevel",
+        "PercentSalaryHike",
+        "BonusPct",
+        "OverTime",
+        "JobSatisfaction",
+        "EnvironmentSatisfaction",
+        "RelationshipSatisfaction",
+        "WorkLifeBalance",
+        "ManagerRating",
+        "CompanyCultureScore",
+        "PerformanceRating",
+        "TrainingHoursLastYear",
+        "NumProjects",
+        "AbsenteeismDays",
+        "TravelFrequency",
+        "RemoteWorkPct",
+        "PeerReviewScore"
+    ],
+    "categorical_mapping": {
+        "Gender": {
+            "Female": 0,
+            "Male": 1,
+            "Non-Binary": 2
+        },
+        "MaritalStatus": {
+            "Divorced": 0,
+            "Married": 1,
+            "Single": 2
+        },
+        "EducationLevel": {
+            "Bachelor": 0,
+            "High School": 1,
+            "Master": 2,
+            "PhD": 3
+        },
+        "Department": {
+            "Engineering": 0,
+            "Finance": 1,
+            "HR": 2,
+            "Marketing": 3,
+            "Operations": 4,
+            "R&D": 5,
+            "Sales": 6
+        },
+        "JobRole": {
+            "Account Manager": 0,
+            "Accountant": 1,
+            "Brand Manager": 2,
+            "Content Strategist": 3,
+            "Data Scientist": 4,
+            "DevOps Engineer": 5,
+            "Finance Manager": 6,
+            "Financial Analyst": 7,
+            "HR Manager": 8,
+            "HR Specialist": 9,
+            "Logistics Coordinator": 10,
+            "ML Engineer": 11,
+            "Marketing Analyst": 12,
+            "Operations Analyst": 13,
+            "QA Engineer": 14,
+            "Recruiter": 15,
+            "Research Scientist": 16,
+            "Sales Lead": 17,
+            "Sales Rep": 18,
+            "Software Engineer": 19,
+            "Supply Chain Specialist": 20,
+            "Tech Lead": 21
+        },
+        "OverTime": {
+            "No": 0,
+            "Yes": 1
+        },
+        "TravelFrequency": {
+            "Frequently": 0,
+            "Rarely": 1
+        }
+    },
+    "numerical_scaling": {
+        "Age": {
+            "mean": 42.03916666666667,
+            "std": 11.589415923164074
+        },
+        "NumDependents": {
+            "mean": 1.4183333333333332,
+            "std": 1.192133188940047
+        },
+        "DistanceFromHome_km": {
+            "mean": 30.079166666666666,
+            "std": 16.89296824971247
+        },
+        "JobLevel": {
+            "mean": 2.595,
+            "std": 1.25921788877442
+        },
+        "YearsAtCompany": {
+            "mean": 4.619166666666667,
+            "std": 4.940088025224823
+        },
+        "YearsInCurrentRole": {
+            "mean": 1.4866666666666666,
+            "std": 1.8513990982694997
+        },
+        "YearsWithCurrentManager": {
+            "mean": 1.1433333333333333,
+            "std": 1.1778277834478916
+        },
+        "YearsSinceLastPromotion": {
+            "mean": 1.0233333333333334,
+            "std": 1.0584843944212166
+        },
+        "NumCompaniesWorked": {
+            "mean": 2.441666666666667,
+            "std": 1.540099719123059
+        },
+        "TotalWorkingYears": {
+            "mean": 20.075,
+            "std": 11.630366697770274
+        },
+        "BaseSalary_USD": {
+            "mean": 73761.62916666667,
+            "std": 16298.39454390851
+        },
+        "StockOptionLevel": {
+            "mean": 1.0275,
+            "std": 0.9716981258119324
+        },
+        "PercentSalaryHike": {
+            "mean": 13.033,
+            "std": 3.8751074886219152
+        },
+        "BonusPct": {
+            "mean": 7.967999999999999,
+            "std": 2.925851985582082
+        },
+        "JobSatisfaction": {
+            "mean": 3.3158333333333334,
+            "std": 1.253285645671779
+        },
+        "EnvironmentSatisfaction": {
+            "mean": 3.3958333333333335,
+            "std": 1.145386061515425
+        },
+        "RelationshipSatisfaction": {
+            "mean": 3.49,
+            "std": 1.1609004011762634
+        },
+        "WorkLifeBalance": {
+            "mean": 3.3766666666666665,
+            "std": 1.142019729736814
+        },
+        "ManagerRating": {
+            "mean": 3.465,
+            "std": 1.1618519340247984
+        },
+        "CompanyCultureScore": {
+            "mean": 3.5675,
+            "std": 1.1216768172704656
+        },
+        "PerformanceRating": {
+            "mean": 3.5925,
+            "std": 1.0609972569785922
+        },
+        "TrainingHoursLastYear": {
+            "mean": 40.46666666666667,
+            "std": 23.15435147473872
+        },
+        "NumProjects": {
+            "mean": 4.105,
+            "std": 1.9817284643517683
+        },
+        "AbsenteeismDays": {
+            "mean": 3.0,
+            "std": 1.7519201904276414
+        },
+        "RemoteWorkPct": {
+            "mean": 40.6875,
+            "std": 31.225428204517275
+        },
+        "PeerReviewScore": {
+            "mean": 3.498825,
+            "std": 0.6684391359281464
+        }
+    }
+}

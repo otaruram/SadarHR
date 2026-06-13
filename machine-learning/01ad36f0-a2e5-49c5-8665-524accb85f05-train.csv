@@ -1,0 +1,1201 @@
+EmployeeID,Age,Gender,MaritalStatus,EducationLevel,NumDependents,DistanceFromHome_km,Department,JobRole,JobLevel,YearsAtCompany,YearsInCurrentRole,YearsWithCurrentManager,YearsSinceLastPromotion,NumCompaniesWorked,TotalWorkingYears,BaseSalary_USD,StockOptionLevel,PercentSalaryHike,BonusPct,OverTime,JobSatisfaction,EnvironmentSatisfaction,RelationshipSatisfaction,WorkLifeBalance,ManagerRating,CompanyCultureScore,PerformanceRating,TrainingHoursLastYear,NumProjects,AbsenteeismDays,TravelFrequency,RemoteWorkPct,PeerReviewScore,Attrition
+EMP00154,34,Female,Single,Master,1,17,Finance,Finance Manager,5,10,6,2,0,1,13,103147,3,5.8,10.2,No,2,3,4,2,3,3,3,31,1,3,Rarely,0,4.28,0
+EMP01216,30,Female,Married,High School,0,42,HR,HR Manager,1,15,2,0,1,2,8,53155,0,10.1,9.0,No,3,3,3,5,5,4,1,61,3,6,None,0,4.08,0
+EMP01247,44,Non-Binary,Married,Bachelor,1,28,Engineering,QA Engineer,1,5,0,1,1,3,24,48671,2,17.1,2.2,No,2,1,4,3,4,4,4,79,6,5,Rarely,75,4.28,0
+EMP00974,41,Female,Single,Bachelor,1,47,Engineering,QA Engineer,4,8,2,3,0,1,21,90641,2,5.3,7.4,No,3,5,3,5,4,4,5,75,4,1,Frequently,75,2.96,0
+EMP00734,42,Male,Single,Bachelor,2,17,Marketing,Brand Manager,3,14,4,0,3,2,18,69962,0,6.4,11.5,Yes,4,4,4,5,5,5,4,79,5,4,Rarely,25,3.15,0
+EMP00513,60,Male,Married,High School,0,28,Engineering,DevOps Engineer,1,8,0,1,0,1,37,53584,0,11.8,4.9,Yes,1,2,5,4,4,4,5,77,5,4,Rarely,100,4.46,1
+EMP01169,59,Female,Married,Bachelor,2,45,Finance,Finance Manager,3,3,3,1,3,2,38,81701,1,14.4,9.3,No,2,3,3,5,3,1,4,33,2,2,Frequently,50,2.25,0
+EMP00408,57,Male,Single,Bachelor,0,15,Sales,Sales Rep,2,0,0,1,1,1,36,73232,2,12.9,6.8,No,4,4,3,2,2,5,4,11,7,2,Rarely,0,3.18,1
+EMP01982,42,Female,Single,Master,1,2,R&D,Data Scientist,2,2,0,0,1,2,21,67744,3,11.9,4.1,No,3,3,4,5,5,4,5,56,6,1,None,75,2.63,0
+EMP01069,49,Female,Married,Master,0,50,Operations,Logistics Coordinator,3,11,1,2,1,2,27,77563,1,14.0,9.0,Yes,2,4,5,4,4,3,3,69,4,1,Rarely,0,4.02,1
+EMP01263,38,Male,Married,Master,2,1,Engineering,QA Engineer,4,3,3,0,0,2,14,92457,1,11.1,7.4,No,5,3,2,5,3,3,4,42,2,3,Rarely,50,2.3,0
+EMP00624,26,Male,Married,Bachelor,1,45,Engineering,Tech Lead,2,3,2,0,3,0,3,60483,0,9.1,10.8,No,5,2,3,4,3,5,3,26,4,1,None,50,3.5,0
+EMP01712,59,Male,Divorced,Master,2,9,Finance,Finance Manager,2,3,0,1,0,2,35,75344,2,15.0,8.7,Yes,1,5,3,3,2,2,4,6,3,4,Frequently,50,4.09,1
+EMP01394,32,Male,Married,Bachelor,2,8,Marketing,Marketing Analyst,1,3,1,2,0,3,8,49092,0,13.4,4.8,No,3,5,1,5,4,3,4,32,6,3,Rarely,50,4.15,0
+EMP01641,27,Female,Single,Master,0,19,Operations,Supply Chain Specialist,3,5,1,2,2,2,3,79196,1,17.3,7.9,No,4,4,4,2,4,5,5,77,7,1,Frequently,50,4.4,0
+EMP00104,56,Female,Married,Bachelor,2,26,Marketing,Marketing Analyst,1,2,2,2,3,3,35,54102,3,7.4,12.5,No,4,4,3,4,1,4,2,64,6,3,Rarely,50,2.86,0
+EMP00401,26,Male,Single,Bachelor,1,12,R&D,ML Engineer,1,10,0,1,1,1,2,42922,0,12.3,7.8,No,4,4,3,3,2,5,3,14,1,3,Frequently,75,4.31,1
+EMP00621,23,Male,Married,Bachelor,3,26,Engineering,QA Engineer,2,0,0,1,1,3,0,64694,1,19.9,10.3,No,4,5,5,3,3,3,5,66,7,2,None,75,4.35,0
+EMP01185,33,Male,Married,Bachelor,1,18,Finance,Finance Manager,4,0,0,0,1,5,9,87275,2,12.3,12.4,No,3,2,2,4,3,4,4,1,6,5,Rarely,25,2.5,0
+EMP01814,37,Female,Single,Bachelor,1,8,Finance,Financial Analyst,2,3,1,2,2,8,14,61968,2,7.8,6.7,No,4,5,3,1,2,5,2,59,3,3,Rarely,50,3.87,0
+EMP00464,46,Female,Married,Master,3,7,HR,HR Manager,1,3,2,1,3,2,25,53631,0,10.0,0.0,No,1,1,4,2,3,5,2,66,7,3,None,50,2.83,1
+EMP01793,26,Male,Married,Bachelor,0,31,HR,HR Specialist,1,10,1,2,1,3,3,47402,0,12.4,3.9,No,5,4,1,3,5,2,5,40,1,0,Rarely,50,3.74,0
+EMP01296,25,Male,Married,High School,1,35,Finance,Finance Manager,3,2,0,0,0,1,1,73310,1,20.2,12.7,No,4,1,5,5,5,3,4,12,5,2,Rarely,0,4.18,0
+EMP01275,50,Female,Married,Bachelor,2,13,Sales,Sales Lead,2,0,0,1,1,3,30,76299,0,9.9,10.8,Yes,4,3,4,3,4,4,2,71,4,2,Rarely,50,3.93,1
+EMP00412,44,Female,Married,Bachelor,3,21,Engineering,Software Engineer,1,5,2,2,0,2,21,60553,2,14.9,5.1,No,5,5,3,2,1,2,5,76,4,2,None,50,4.08,0
+EMP00178,58,Male,Married,High School,2,14,Marketing,Content Strategist,5,2,2,2,1,2,38,105555,1,11.1,6.9,Yes,5,4,3,4,3,1,2,42,3,5,Rarely,50,3.23,0
+EMP00725,25,Female,Married,Bachelor,0,57,Marketing,Content Strategist,4,3,3,0,2,1,2,81572,1,13.7,7.4,Yes,3,4,3,4,2,4,5,34,6,3,Frequently,25,3.93,1
+EMP00791,25,Male,Divorced,Bachelor,2,59,Engineering,Tech Lead,2,6,5,2,0,2,5,57773,0,10.5,8.7,Yes,5,4,4,3,4,5,4,52,4,1,None,50,3.84,0
+EMP01241,45,Male,Single,Bachelor,1,37,Operations,Operations Analyst,2,3,3,0,4,1,22,67100,2,12.5,7.4,No,3,4,3,5,1,5,4,78,6,6,Rarely,25,3.45,0
+EMP00149,46,Female,Divorced,Bachelor,3,20,Sales,Sales Rep,4,0,0,1,1,4,23,94121,2,10.8,10.4,No,3,5,2,1,2,5,4,56,5,4,None,50,1.72,0
+EMP01211,41,Male,Married,High School,2,21,HR,HR Specialist,2,7,0,1,1,4,17,69163,1,5.0,7.1,Yes,4,4,4,4,3,4,5,69,1,4,Rarely,75,4.12,0
+EMP01666,49,Female,Married,High School,2,42,Marketing,Content Strategist,2,1,1,0,0,4,26,79391,0,10.7,7.1,No,1,3,5,4,1,3,5,23,6,4,Frequently,100,4.46,1
+EMP01826,34,Male,Married,Bachelor,4,20,Operations,Logistics Coordinator,4,0,0,1,0,1,12,98714,1,16.8,7.8,Yes,4,2,4,3,4,4,1,17,1,6,Frequently,25,3.16,1
+EMP00049,35,Male,Married,Master,2,22,Engineering,QA Engineer,4,2,1,2,2,2,14,87452,0,15.5,5.7,No,5,4,4,4,5,3,3,67,7,6,Rarely,0,2.58,0
+EMP01156,30,Female,Married,Bachelor,0,37,Engineering,QA Engineer,3,1,1,0,2,5,8,70888,0,19.5,12.1,No,4,5,2,5,5,3,3,22,1,4,None,100,3.28,1
+EMP00839,29,Non-Binary,Married,Master,2,5,Sales,Sales Lead,3,3,2,3,0,3,8,71001,2,10.0,6.2,Yes,5,4,3,3,3,1,5,26,1,2,Frequently,25,4.28,0
+EMP01238,31,Male,Single,Master,2,20,HR,HR Specialist,3,4,0,1,1,3,8,70943,1,10.2,10.8,No,1,1,3,4,3,3,3,63,5,1,Rarely,50,4.48,0
+EMP00483,44,Male,Married,Bachelor,2,37,Marketing,Marketing Analyst,1,2,2,3,1,6,20,54294,0,12.4,6.8,Yes,1,3,4,4,3,4,4,21,4,6,Rarely,50,2.81,1
+EMP01531,40,Male,Single,Master,2,35,Marketing,Content Strategist,3,20,1,2,0,1,19,73169,1,15.9,8.7,No,3,4,4,5,5,4,3,79,3,4,Rarely,50,2.85,0
+EMP00128,25,Male,Single,Bachelor,2,33,Marketing,Content Strategist,1,0,0,0,0,0,4,51774,3,19.8,15.0,Yes,4,3,3,3,4,2,4,1,7,4,Rarely,100,3.75,1
+EMP01344,45,Male,Divorced,High School,3,49,Engineering,Tech Lead,2,2,0,1,0,0,21,66576,1,13.5,6.2,Yes,2,2,3,5,4,4,1,57,2,1,None,25,3.04,1
+EMP01251,29,Female,Married,Bachelor,2,5,Sales,Account Manager,1,2,2,3,2,3,9,52558,1,15.4,8.8,No,4,3,4,1,4,4,4,62,2,4,None,25,4.34,0
+EMP01729,33,Male,Married,High School,3,35,Finance,Finance Manager,1,2,2,3,1,4,11,45403,2,14.5,4.4,No,2,2,5,4,4,5,3,63,1,3,None,50,3.53,1
+EMP01356,47,Male,Married,Bachelor,0,57,Engineering,QA Engineer,2,2,1,0,0,3,26,63579,0,19.7,10.1,No,2,3,4,4,4,1,4,53,7,2,Frequently,0,3.73,1
+EMP01860,47,Male,Married,PhD,0,30,Engineering,Tech Lead,5,6,2,0,1,1,27,100798,2,18.5,5.2,No,4,4,4,5,4,5,3,6,2,6,Rarely,0,4.09,0
+EMP00822,58,Male,Divorced,High School,2,26,Sales,Sales Rep,3,11,1,2,0,2,35,81397,1,13.4,5.3,No,3,3,2,4,4,5,4,43,6,2,Frequently,75,4.15,0
+EMP01290,58,Male,Married,Master,0,11,Sales,Account Manager,1,8,8,0,2,3,36,67378,0,13.4,10.0,Yes,5,4,4,3,4,3,4,32,5,4,Rarely,75,2.09,0
+EMP00059,47,Male,Married,High School,0,2,Sales,Account Manager,1,0,0,0,1,2,27,58898,0,13.0,8.6,No,3,3,4,3,2,1,4,37,2,1,Rarely,75,3.03,0
+EMP01450,53,Female,Married,Bachelor,3,4,Operations,Logistics Coordinator,2,1,1,0,1,1,30,74047,1,14.3,6.6,No,2,4,3,3,3,5,4,54,5,2,Rarely,50,4.98,0
+EMP01509,34,Male,Divorced,PhD,1,47,Operations,Logistics Coordinator,4,22,1,2,0,1,10,81592,1,16.5,6.4,No,5,4,3,4,5,4,4,74,4,3,None,50,4.09,0
+EMP01114,31,Female,Divorced,High School,2,51,Marketing,Marketing Analyst,4,9,1,0,1,1,11,92578,3,12.9,13.4,No,5,4,3,5,2,3,5,11,5,3,Frequently,25,3.23,0
+EMP00468,58,Female,Single,Bachelor,3,53,Operations,Operations Analyst,3,5,0,1,0,1,38,81978,2,9.3,5.6,No,2,3,5,4,2,3,4,26,6,3,Rarely,100,4.43,1
+EMP00597,49,Male,Married,Master,2,49,Operations,Logistics Coordinator,2,3,3,0,0,2,27,68549,1,10.2,9.5,No,2,3,3,3,3,5,3,53,6,4,None,0,4.6,0
+EMP00131,44,Male,Married,Bachelor,0,19,R&D,ML Engineer,3,7,0,0,1,4,21,81670,1,16.1,11.3,Yes,3,3,2,4,4,1,4,38,7,3,None,100,2.86,0
+EMP01107,25,Male,Married,Bachelor,3,52,Engineering,Software Engineer,2,9,0,1,1,1,5,53817,0,13.3,10.1,No,5,3,2,4,4,4,3,59,2,6,None,100,3.98,0
+EMP01902,25,Male,Single,PhD,4,35,Finance,Finance Manager,4,1,1,2,2,4,3,89737,1,14.0,13.4,Yes,4,1,4,2,4,5,3,62,6,3,Rarely,0,3.64,1
+EMP00170,23,Female,Married,High School,1,24,Operations,Supply Chain Specialist,3,14,0,1,1,5,0,67461,3,9.2,10.0,Yes,4,4,4,5,5,2,3,51,3,3,None,100,3.19,0
+EMP00184,47,Male,Single,High School,1,4,Sales,Sales Lead,2,0,0,0,1,3,26,66796,0,16.0,8.6,No,4,4,4,1,1,4,4,46,1,10,Rarely,0,3.72,1
+EMP01416,61,Male,Married,High School,2,4,HR,HR Manager,4,22,10,2,6,1,40,109654,2,18.3,4.1,Yes,1,4,2,4,5,3,4,32,5,2,Rarely,100,2.79,0
+EMP01026,28,Female,Married,Bachelor,2,48,Sales,Sales Rep,5,0,0,0,1,0,8,92868,0,6.3,5.8,Yes,2,3,3,1,4,4,2,25,6,3,Rarely,0,3.56,1
+EMP01832,25,Female,Married,Bachelor,1,9,Marketing,Brand Manager,4,1,0,1,0,2,2,86134,1,14.3,8.3,Yes,2,2,3,2,3,4,3,17,1,5,Frequently,25,3.41,1
+EMP01198,32,Male,Divorced,Bachelor,1,19,Marketing,Brand Manager,4,1,0,1,1,1,12,89242,2,15.9,12.7,No,4,4,4,4,2,3,3,0,6,4,Rarely,0,2.74,0
+EMP01338,25,Male,Single,Bachelor,2,53,Sales,Sales Lead,1,17,0,0,0,1,2,47540,2,12.8,10.2,No,2,4,4,4,3,4,5,58,5,4,Frequently,0,2.49,1
+EMP00579,41,Female,Married,Bachelor,0,38,R&D,ML Engineer,2,1,0,1,1,1,19,69072,3,9.6,6.8,No,3,5,4,3,2,4,4,63,1,2,Frequently,0,2.79,1
+EMP00867,61,Male,Single,Bachelor,1,13,Marketing,Marketing Analyst,3,2,0,1,1,1,38,86436,1,17.3,5.1,No,3,4,4,3,1,5,4,21,2,4,Rarely,100,2.28,0
+EMP01103,45,Female,Divorced,Bachelor,2,52,Operations,Supply Chain Specialist,1,3,2,1,0,2,24,49361,3,14.8,7.0,No,5,4,4,4,4,5,1,37,5,3,Rarely,50,2.44,0
+EMP00837,36,Female,Married,Bachelor,1,20,Finance,Accountant,3,2,0,1,1,4,14,68199,1,5.0,5.1,Yes,3,5,2,4,5,4,4,39,2,2,Rarely,25,3.25,0
+EMP01203,61,Female,Married,Bachelor,0,20,Engineering,Software Engineer,3,0,0,1,0,2,37,89027,1,12.4,5.9,No,2,3,4,3,3,3,4,6,7,3,Frequently,50,2.54,1
+EMP01325,51,Male,Single,Bachelor,2,9,R&D,Data Scientist,1,3,3,1,2,2,30,51703,0,12.4,9.0,No,2,5,2,4,4,4,3,5,4,5,None,25,2.81,0
+EMP00330,46,Male,Single,High School,0,53,Finance,Financial Analyst,5,0,0,1,0,2,23,101966,1,16.2,8.0,Yes,2,4,1,1,5,3,3,55,3,2,Frequently,25,2.76,1
+EMP01754,58,Female,Single,PhD,1,38,HR,Recruiter,4,0,0,1,1,2,36,94512,1,11.5,0.3,No,5,2,3,5,1,4,4,32,2,2,Frequently,25,2.86,1
+EMP00215,61,Male,Single,High School,1,58,Marketing,Marketing Analyst,3,1,1,0,0,1,38,84308,0,16.2,11.5,No,3,4,5,5,5,3,3,45,7,6,Rarely,100,3.99,0
+EMP00342,36,Female,Married,Master,2,50,HR,Recruiter,4,7,1,2,1,3,12,82693,2,9.8,9.4,No,4,5,4,4,1,4,3,66,7,2,Rarely,50,3.16,0
+EMP01493,28,Female,Married,Bachelor,2,38,Finance,Financial Analyst,4,0,0,1,1,3,6,86184,3,15.3,7.0,No,4,5,3,3,3,4,2,0,5,2,Rarely,50,3.63,0
+EMP01668,56,Female,Married,Bachelor,4,52,R&D,Data Scientist,2,4,4,2,5,6,36,61713,1,8.3,15.0,No,4,4,4,4,3,5,3,67,3,4,Frequently,0,3.06,0
+EMP01194,57,Male,Divorced,Master,1,31,Finance,Accountant,1,11,1,0,2,3,35,63615,1,14.5,13.0,No,2,4,3,4,3,1,4,54,4,3,None,25,2.57,0
+EMP00812,25,Female,Single,Bachelor,4,20,Finance,Financial Analyst,1,0,0,1,0,2,1,54014,3,17.5,2.9,No,1,1,5,1,2,4,5,0,2,7,Frequently,100,4.1,1
+EMP01556,45,Male,Married,Bachelor,2,11,Engineering,DevOps Engineer,1,0,0,1,1,4,21,57344,2,13.1,9.7,No,4,3,5,5,4,3,5,52,3,4,Frequently,100,3.66,1
+EMP01014,36,Male,Married,Master,3,50,Sales,Account Manager,2,0,0,1,1,5,13,62912,1,7.3,5.5,Yes,5,4,4,5,4,4,2,49,5,2,Frequently,0,2.96,1
+EMP01938,30,Male,Married,Master,2,43,Sales,Sales Lead,2,6,5,3,6,3,9,64468,0,12.4,3.8,No,3,4,5,4,3,3,3,78,4,4,Rarely,75,3.25,0
+EMP00267,41,Female,Married,Bachelor,1,53,HR,HR Manager,2,1,0,0,1,0,18,72438,1,9.5,7.1,No,4,3,3,2,5,3,1,10,6,3,None,25,3.75,0
+EMP00007,40,Female,Divorced,Master,2,41,R&D,Data Scientist,1,0,0,1,0,1,17,57311,2,13.9,5.1,No,5,1,4,4,4,4,3,49,6,2,Rarely,50,3.36,0
+EMP00679,44,Male,Single,Master,2,28,Engineering,Tech Lead,2,5,3,4,2,1,22,65709,0,14.1,12.0,No,2,3,3,3,5,5,3,36,2,2,Rarely,25,3.85,0
+EMP00236,30,Male,Single,Master,0,46,R&D,Research Scientist,4,2,1,0,0,2,8,77787,1,15.4,9.2,No,4,3,4,5,5,1,3,40,7,2,None,25,3.31,0
+EMP01560,46,Female,Married,Master,2,14,Sales,Account Manager,1,0,0,0,1,2,23,68226,1,9.1,5.9,No,4,3,4,1,4,5,5,47,5,3,None,0,3.99,0
+EMP01514,32,Female,Married,Bachelor,0,13,R&D,ML Engineer,3,0,0,1,0,4,10,67989,2,16.0,8.8,No,4,4,3,2,3,4,4,39,1,0,Rarely,100,2.65,0
+EMP01237,38,Male,Single,High School,1,6,Sales,Sales Rep,2,8,1,2,1,4,17,72538,2,8.4,6.7,No,3,3,4,3,3,1,3,69,3,2,Frequently,50,3.32,0
+EMP00369,38,Male,Married,Bachelor,3,1,Operations,Logistics Coordinator,4,0,0,1,1,2,16,95860,1,16.2,4.9,No,5,3,3,4,3,4,3,63,7,7,Frequently,75,3.87,0
+EMP01453,38,Female,Married,Bachelor,3,12,Finance,Finance Manager,3,0,0,0,0,1,18,76937,0,12.7,10.0,No,4,2,3,4,3,4,3,54,3,3,Rarely,50,2.97,0
+EMP00057,50,Male,Married,Master,0,2,R&D,ML Engineer,3,3,2,0,0,1,30,84830,1,5.0,4.7,Yes,3,2,2,4,5,2,3,20,1,3,Rarely,0,1.74,0
+EMP00719,52,Female,Married,High School,0,32,Finance,Financial Analyst,3,2,2,3,0,1,29,81686,0,16.5,11.0,No,1,3,5,3,5,2,3,23,4,2,Rarely,50,4.04,1
+EMP00157,27,Male,Divorced,Bachelor,4,14,Sales,Sales Lead,3,1,1,0,1,3,6,78893,1,12.3,7.5,No,5,3,4,3,3,2,4,14,5,1,None,75,4.65,0
+EMP01697,61,Non-Binary,Married,Master,0,53,Operations,Logistics Coordinator,3,2,2,1,0,2,39,81472,1,13.0,8.2,No,3,1,3,3,4,1,4,70,4,0,Frequently,75,2.82,0
+EMP00113,24,Male,Married,Master,0,21,Marketing,Marketing Analyst,4,10,3,3,2,3,2,98150,1,13.0,4.6,No,1,3,2,5,4,5,3,6,6,5,None,100,4.29,0
+EMP00876,36,Male,Married,Master,2,58,Sales,Sales Lead,4,0,0,1,1,2,12,84082,0,7.3,6.4,No,5,2,5,4,5,4,3,14,5,2,Rarely,50,4.91,1
+EMP01781,44,Male,Married,Bachelor,0,55,Finance,Accountant,2,7,3,0,3,3,22,64022,0,11.9,9.9,No,4,4,4,5,2,3,2,61,6,3,Rarely,50,5.0,0
+EMP00962,26,Male,Single,Bachelor,4,32,Marketing,Brand Manager,1,8,1,2,2,3,3,52605,1,23.1,9.7,No,4,2,4,3,4,4,5,23,2,2,Rarely,25,4.54,0
+EMP01013,61,Female,Single,High School,2,32,Operations,Logistics Coordinator,3,0,0,1,1,6,40,79804,1,20.0,0.5,No,5,1,2,3,4,3,2,61,1,5,Rarely,75,4.15,1
+EMP00982,47,Female,Married,Master,1,28,Operations,Logistics Coordinator,1,0,0,0,1,1,26,66896,1,14.0,8.4,No,4,4,4,4,3,1,5,25,4,5,Rarely,100,4.11,0
+EMP01289,24,Female,Single,Bachelor,1,6,Sales,Account Manager,1,6,1,0,1,0,0,50023,0,15.9,9.9,Yes,3,4,4,5,4,2,4,66,7,3,Rarely,25,3.68,0
+EMP01401,47,Male,Single,Master,0,55,Engineering,QA Engineer,4,2,1,0,1,1,25,90922,3,12.8,5.2,Yes,2,5,1,2,5,3,3,51,6,3,None,25,3.02,1
+EMP01166,39,Male,Married,Bachelor,0,49,Operations,Supply Chain Specialist,1,7,3,0,0,2,18,50437,0,13.5,8.0,No,4,3,1,4,5,4,3,36,7,5,Rarely,50,3.24,0
+EMP00841,26,Male,Divorced,Master,2,37,Engineering,QA Engineer,3,0,0,1,1,1,5,66772,0,15.4,7.5,No,3,5,5,4,3,4,4,32,6,9,Frequently,50,3.33,0
+EMP00393,37,Male,Married,Master,2,18,Marketing,Brand Manager,3,0,0,0,0,3,13,81375,1,18.4,2.6,No,3,5,3,5,3,1,3,63,4,5,None,50,3.23,0
+EMP01342,27,Female,Married,Bachelor,0,54,Operations,Logistics Coordinator,4,2,2,1,0,4,6,95843,2,13.8,8.3,No,4,5,4,2,3,4,4,28,2,9,None,0,3.39,0
+EMP01329,25,Female,Single,Master,1,49,Operations,Operations Analyst,4,8,8,0,4,2,1,81593,2,8.0,8.2,Yes,2,2,1,3,1,1,5,17,1,2,Rarely,25,2.84,1
+EMP00629,32,Male,Divorced,Bachelor,1,14,Sales,Sales Rep,3,3,3,4,2,1,8,74711,0,10.8,6.3,Yes,2,4,5,2,3,4,3,78,4,5,Rarely,75,3.45,1
+EMP01728,61,Female,Married,Bachelor,0,18,Finance,Accountant,4,6,5,0,0,0,37,108435,1,10.2,9.7,No,2,4,3,4,4,5,5,12,6,5,Frequently,0,4.13,0
+EMP00045,49,Female,Married,PhD,2,35,R&D,ML Engineer,4,5,2,0,3,2,25,82719,1,24.1,13.7,No,3,4,5,2,5,5,2,65,6,4,Rarely,50,4.13,0
+EMP00255,50,Female,Married,Bachelor,0,23,R&D,Data Scientist,5,29,6,1,3,8,27,97895,2,5.0,7.6,Yes,4,3,5,2,5,4,4,60,4,2,Frequently,25,3.94,0
+EMP00504,26,Female,Married,Bachelor,4,57,Engineering,Tech Lead,1,6,3,1,0,3,6,49511,1,8.4,7.1,Yes,5,3,4,3,3,4,5,12,6,4,Rarely,25,3.81,0
+EMP01312,53,Male,Single,High School,0,58,HR,Recruiter,3,4,0,0,0,5,29,72317,0,18.2,7.2,No,3,2,3,1,4,4,3,59,1,3,None,100,3.91,1
+EMP01316,50,Female,Married,Master,0,18,HR,Recruiter,2,5,1,0,0,0,28,66604,0,15.4,10.1,No,5,4,1,3,2,5,2,27,4,2,Rarely,0,2.93,0
+EMP01649,44,Female,Divorced,Bachelor,2,7,R&D,Research Scientist,1,7,0,1,1,2,23,50850,1,17.1,4.4,No,2,4,3,1,4,5,3,37,3,4,None,75,3.72,0
+EMP01894,36,Female,Single,Bachelor,3,52,Operations,Logistics Coordinator,3,1,1,0,2,1,14,79128,0,14.2,5.9,Yes,5,1,2,3,5,2,4,28,4,5,Rarely,100,3.83,1
+EMP01361,44,Male,Single,Bachelor,0,30,R&D,ML Engineer,5,2,1,0,0,5,20,100043,0,13.4,7.0,No,4,5,5,3,4,2,4,71,5,8,Rarely,50,5.0,0
+EMP00987,39,Female,Single,Master,2,55,Operations,Supply Chain Specialist,2,2,2,3,0,3,16,63540,2,9.0,7.2,No,4,4,3,4,5,4,3,52,7,5,None,50,3.73,0
+EMP01540,45,Female,Divorced,Master,3,38,Marketing,Marketing Analyst,3,2,0,1,1,0,23,78105,1,21.9,10.1,No,5,4,3,4,4,2,3,76,5,3,Frequently,50,4.43,0
+EMP01001,35,Female,Divorced,Bachelor,1,7,R&D,Data Scientist,3,5,1,2,2,0,11,86255,1,10.2,14.3,No,3,2,5,1,4,2,2,22,6,6,None,50,3.72,0
+EMP00578,40,Male,Married,Bachelor,0,16,Finance,Accountant,2,0,0,0,1,4,17,62379,3,11.5,10.7,Yes,1,4,5,3,4,4,5,32,6,3,Rarely,50,4.33,1
+EMP01112,39,Male,Single,Bachelor,2,19,Marketing,Content Strategist,5,2,2,3,0,4,15,102390,1,16.0,11.3,No,4,5,3,4,3,4,2,20,6,1,Rarely,25,3.29,0
+EMP01809,25,Female,Single,High School,2,26,Engineering,QA Engineer,2,3,3,3,0,1,4,71392,0,7.1,8.6,No,1,5,4,3,5,5,3,60,6,5,Rarely,100,2.98,0
+EMP01120,40,Female,Single,Bachelor,3,52,Marketing,Brand Manager,2,4,0,0,1,5,18,71121,0,14.1,8.9,No,3,5,3,2,4,3,4,56,4,7,None,75,2.96,0
+EMP01570,23,Male,Divorced,Master,0,58,Sales,Sales Rep,3,13,0,0,1,3,2,72578,1,10.2,3.6,No,1,5,5,3,3,3,3,70,3,2,Rarely,50,3.59,0
+EMP01711,26,Male,Married,Bachelor,1,56,Engineering,QA Engineer,2,6,1,2,1,4,3,65932,0,10.4,6.3,Yes,4,2,5,3,5,2,4,43,7,4,Rarely,75,4.2,1
+EMP01267,43,Male,Married,Bachelor,0,58,Operations,Logistics Coordinator,2,2,2,1,3,3,22,66806,3,7.3,7.1,Yes,3,3,5,4,4,4,5,51,7,0,Frequently,25,3.28,1
+EMP01725,58,Male,Married,Master,0,11,Marketing,Brand Manager,2,15,3,0,4,2,35,55106,0,6.9,3.9,No,1,4,2,5,4,3,3,42,4,3,Rarely,0,3.29,1
+EMP00958,45,Female,Married,High School,1,49,Finance,Accountant,5,2,2,0,2,1,23,110199,1,11.6,8.5,No,2,4,3,3,3,3,3,41,1,6,None,100,4.31,0
+EMP00638,56,Female,Married,Bachelor,0,56,Operations,Supply Chain Specialist,3,3,2,2,1,1,34,88972,1,17.4,12.9,No,3,4,3,2,4,3,1,59,2,2,Rarely,0,2.84,0
+EMP00466,57,Male,Single,Bachelor,0,22,Marketing,Marketing Analyst,4,1,1,0,0,5,36,87304,1,18.8,10.4,No,3,2,4,4,3,2,5,77,6,1,Frequently,0,3.43,1
+EMP01893,32,Male,Married,Bachelor,0,28,Marketing,Content Strategist,3,0,0,1,1,3,12,74099,2,9.7,6.4,No,4,1,5,4,4,2,2,38,1,3,Rarely,100,4.0,0
+EMP01772,35,Female,Single,Bachelor,3,46,Finance,Accountant,3,1,0,1,0,1,11,69529,0,8.2,12.4,Yes,4,4,4,3,4,5,3,42,5,5,None,75,3.29,1
+EMP00142,27,Male,Single,High School,0,56,Engineering,Tech Lead,5,0,0,1,0,1,5,93776,1,11.8,8.8,No,5,4,3,5,5,1,2,13,4,3,Rarely,50,4.56,0
+EMP00650,58,Female,Married,Bachelor,2,47,Sales,Account Manager,2,1,1,0,1,2,36,68421,0,16.4,4.5,No,5,5,4,5,5,2,3,44,5,3,Rarely,0,4.0,0
+EMP00572,37,Female,Divorced,Bachelor,0,16,Marketing,Brand Manager,4,0,0,0,0,2,14,85290,1,15.5,8.5,No,4,4,3,3,4,4,5,10,4,2,Frequently,50,3.27,0
+EMP00943,54,Female,Married,Bachelor,3,3,Engineering,DevOps Engineer,1,1,0,1,0,2,32,57662,2,5.0,6.8,No,4,5,3,5,5,3,3,37,3,1,Rarely,50,4.38,0
+EMP00728,53,Female,Divorced,Master,2,17,Operations,Logistics Coordinator,3,2,2,0,0,2,33,75987,3,15.2,10.5,No,1,4,5,4,5,5,4,73,1,1,Rarely,75,5.0,0
+EMP00258,23,Female,Married,PhD,2,9,Engineering,QA Engineer,3,2,1,0,0,3,2,76142,0,20.7,8.4,No,1,3,3,3,4,5,4,39,6,2,Frequently,25,3.81,1
+EMP01696,39,Female,Single,Master,2,55,HR,Recruiter,2,2,0,0,1,3,16,58911,1,20.2,7.0,No,2,4,3,1,3,3,4,28,1,5,Rarely,75,2.6,1
+EMP00158,29,Male,Married,Bachelor,2,20,R&D,Research Scientist,1,0,0,1,1,2,8,48401,1,14.1,5.2,No,1,4,4,3,4,4,2,1,1,6,Rarely,25,3.66,1
+EMP00515,52,Female,Single,Master,1,11,Finance,Finance Manager,4,1,1,2,0,4,31,93039,2,14.3,4.9,No,5,5,4,3,5,3,2,39,4,2,Rarely,25,2.73,0
+EMP00439,24,Male,Married,Bachelor,2,13,HR,HR Specialist,4,2,0,1,1,2,0,86474,0,13.2,9.3,No,3,2,5,3,4,5,2,2,3,1,Rarely,25,3.63,1
+EMP01249,37,Female,Married,Bachelor,2,42,Marketing,Marketing Analyst,3,8,0,1,0,3,13,83743,1,14.2,9.1,No,4,4,4,4,5,4,3,75,7,5,Rarely,25,3.27,0
+EMP00731,50,Female,Married,PhD,0,29,Operations,Operations Analyst,1,0,0,1,0,1,28,53980,2,14.7,4.7,No,1,3,5,3,4,3,5,22,7,3,None,50,2.91,0
+EMP00990,61,Male,Married,Bachelor,1,36,Operations,Supply Chain Specialist,1,0,0,0,0,2,38,61004,0,8.4,5.2,No,5,3,3,1,2,4,3,33,3,4,Rarely,25,3.52,1
+EMP00954,59,Female,Married,Bachelor,0,57,HR,HR Manager,3,9,0,1,1,1,39,91775,2,12.5,8.5,Yes,4,4,4,4,4,4,2,49,2,2,Rarely,0,3.09,0
+EMP01564,38,Male,Single,Bachelor,0,39,Finance,Financial Analyst,3,0,0,1,1,2,17,74388,1,8.9,13.0,No,2,5,1,1,3,4,5,7,3,2,Rarely,25,3.38,1
+EMP01901,35,Female,Married,Bachelor,0,25,Engineering,DevOps Engineer,1,8,2,0,0,1,11,54997,0,7.4,9.6,No,2,3,4,4,1,5,3,48,6,2,Rarely,75,3.22,1
+EMP01117,44,Female,Single,Master,0,43,Engineering,DevOps Engineer,2,0,0,1,1,1,24,60101,2,19.2,6.6,No,1,2,3,2,4,4,4,70,2,0,None,50,2.63,1
+EMP01439,60,Male,Single,Master,2,6,Operations,Logistics Coordinator,2,8,1,0,2,4,38,82794,0,10.1,8.2,No,2,3,4,4,5,4,3,23,7,5,Frequently,0,4.33,1
+EMP00983,33,Female,Divorced,Master,0,7,HR,Recruiter,1,2,2,1,3,3,12,44304,2,17.8,7.6,No,4,4,1,3,3,3,2,30,3,2,Rarely,25,2.12,0
+EMP01191,49,Female,Married,Bachelor,4,44,HR,HR Manager,4,6,2,3,0,2,27,93332,0,11.8,6.7,No,5,4,4,2,3,3,5,9,3,1,Rarely,50,3.73,0
+EMP01496,54,Male,Divorced,Bachelor,1,56,HR,HR Specialist,4,12,1,1,2,2,33,98630,1,19.2,8.9,No,4,4,4,2,2,4,2,73,7,4,Rarely,25,2.46,0
+EMP00136,34,Male,Single,High School,2,13,Engineering,Tech Lead,4,7,3,4,0,4,13,94009,3,17.7,11.9,No,4,4,3,3,5,3,2,63,7,3,Frequently,50,4.09,0
+EMP00061,31,Female,Married,Bachelor,2,45,Sales,Sales Lead,1,5,1,2,0,3,11,52155,1,10.5,5.7,No,1,3,4,5,2,4,1,25,1,3,Rarely,100,4.17,1
+EMP00836,23,Male,Married,Master,0,13,HR,Recruiter,4,5,0,0,1,1,0,91492,1,19.8,7.7,Yes,2,1,2,5,4,4,4,79,6,4,None,50,3.41,1
+EMP01071,59,Male,Single,Bachelor,0,58,Engineering,DevOps Engineer,5,0,0,1,0,3,38,113987,1,16.7,8.2,No,4,3,3,4,4,3,4,56,5,1,Frequently,50,3.39,1
+EMP01187,31,Male,Divorced,PhD,0,1,Engineering,Software Engineer,1,6,1,2,2,1,7,53507,1,12.3,12.1,No,4,4,4,2,5,5,3,13,4,3,Frequently,50,2.71,0
+EMP00766,45,Female,Married,Master,2,17,Engineering,Tech Lead,1,1,0,1,1,3,22,56674,1,12.2,8.4,No,5,3,2,3,2,4,4,58,3,4,Rarely,0,2.36,0
+EMP01906,56,Female,Single,Master,0,26,Finance,Finance Manager,2,6,3,0,3,3,35,74983,1,9.5,10.3,No,5,1,4,4,2,5,3,57,1,1,Rarely,75,2.67,0
+EMP01473,41,Male,Married,PhD,0,39,HR,HR Specialist,2,10,0,1,1,4,20,57594,2,11.6,10.2,Yes,4,4,3,5,4,4,5,74,6,1,Rarely,50,3.77,1
+EMP01969,56,Female,Married,Master,1,52,R&D,ML Engineer,3,7,2,3,1,0,32,83589,0,5.5,9.9,Yes,3,2,4,3,5,4,5,32,1,3,Rarely,75,4.3,0
+EMP00904,35,Male,Married,High School,2,14,Sales,Sales Rep,2,0,0,1,1,3,13,61196,0,5.2,9.0,Yes,5,4,3,5,5,3,4,26,2,1,None,25,3.92,0
+EMP01225,61,Male,Married,Bachelor,0,11,HR,Recruiter,3,9,0,1,1,1,40,88092,0,13.0,7.3,No,1,4,2,5,5,5,5,36,5,7,Frequently,25,4.53,0
+EMP00298,58,Female,Single,Bachelor,1,9,Sales,Sales Lead,1,6,0,1,1,4,35,59637,0,20.1,8.9,No,3,2,5,2,4,4,5,52,2,3,Rarely,25,3.89,1
+EMP00989,54,Male,Divorced,Bachelor,2,41,Finance,Financial Analyst,1,11,2,1,3,0,33,64429,0,12.1,13.8,No,3,4,1,1,1,3,5,60,2,2,None,25,4.52,0
+EMP01459,27,Female,Single,Bachelor,1,22,Marketing,Brand Manager,4,16,1,2,1,1,6,85219,0,17.9,1.6,No,1,4,4,3,3,3,3,26,5,2,Rarely,25,2.9,0
+EMP01830,55,Male,Divorced,Master,0,7,Engineering,Tech Lead,1,2,2,0,1,5,33,58394,2,13.2,5.5,No,4,3,3,5,5,5,5,57,3,5,None,50,3.86,0
+EMP00912,60,Male,Single,Master,1,39,Marketing,Brand Manager,3,0,0,1,1,2,39,89444,3,16.0,5.4,No,5,4,4,3,5,2,5,37,5,5,Rarely,50,3.8,0
+EMP01033,46,Male,Single,Master,2,54,Engineering,QA Engineer,4,5,5,3,2,3,26,92462,0,12.7,6.5,No,3,5,4,3,4,3,4,40,5,1,Frequently,75,2.57,0
+EMP00306,44,Female,Married,Bachelor,1,8,Engineering,DevOps Engineer,3,14,1,1,2,0,22,85471,0,14.1,8.8,No,4,5,4,1,5,4,5,17,4,2,None,25,3.86,0
+EMP00079,46,Male,Single,Master,0,2,Marketing,Marketing Analyst,2,6,3,1,3,1,25,66351,0,10.8,9.9,No,2,4,5,2,4,4,2,39,5,3,None,25,3.49,1
+EMP00069,61,Male,Married,Master,1,42,Finance,Accountant,1,6,3,0,1,0,39,48350,0,21.0,6.7,No,3,3,2,4,5,3,4,13,5,4,None,75,2.71,0
+EMP00470,45,Female,Single,Master,0,7,Sales,Account Manager,2,0,0,0,0,3,22,70141,1,15.9,3.8,No,3,1,4,4,3,3,4,28,7,3,Rarely,0,4.15,1
+EMP01256,36,Female,Married,Bachelor,4,28,Operations,Supply Chain Specialist,3,6,1,2,0,2,16,85933,0,16.5,9.7,Yes,5,3,2,3,3,1,4,20,1,2,Rarely,50,3.34,0
+EMP01309,34,Male,Single,Bachelor,0,3,Sales,Sales Lead,4,3,0,0,0,3,13,88850,0,11.3,5.9,No,5,4,4,4,4,3,3,7,6,3,Rarely,100,3.68,0
+EMP00594,59,Male,Single,High School,0,32,Engineering,Tech Lead,2,3,3,2,3,4,38,71464,0,10.2,8.6,No,3,4,3,4,4,3,3,56,5,1,Frequently,50,3.28,0
+EMP00888,56,Male,Married,Master,0,7,Engineering,QA Engineer,4,15,0,1,0,3,35,88575,1,15.8,5.9,No,4,4,3,4,5,4,3,68,4,6,Frequently,0,3.8,0
+EMP00552,47,Male,Single,Bachelor,0,26,Marketing,Marketing Analyst,5,4,4,0,2,3,25,114657,3,9.2,5.9,No,4,1,3,2,5,4,4,26,5,0,None,50,4.0,0
+EMP01797,47,Male,Single,High School,2,22,Operations,Supply Chain Specialist,1,2,0,0,1,0,25,52470,1,15.2,7.1,No,5,3,4,5,1,4,2,42,6,1,None,50,3.19,1
+EMP00013,61,Male,Single,Bachelor,3,52,Sales,Sales Lead,1,10,2,0,0,2,37,57049,0,12.8,7.3,No,4,5,5,4,3,4,3,62,2,4,Rarely,50,3.51,0
+EMP00458,55,Male,Married,Bachelor,2,41,HR,HR Manager,3,3,2,3,0,3,34,82586,1,8.8,12.0,No,5,4,5,4,5,3,4,13,4,5,Rarely,50,3.77,0
+EMP00022,42,Female,Single,Bachelor,0,28,Operations,Supply Chain Specialist,2,1,1,2,2,2,21,60578,1,17.0,6.9,Yes,4,3,2,3,2,5,4,30,2,6,None,0,2.41,0
+EMP01202,60,Male,Single,Bachelor,1,9,Sales,Sales Rep,1,3,0,0,0,2,40,53330,0,14.8,8.8,No,3,1,4,5,5,3,3,32,1,4,Rarely,50,3.05,0
+EMP00757,29,Male,Single,PhD,3,17,Engineering,Tech Lead,1,4,4,1,0,0,5,56408,1,12.9,12.1,No,4,4,1,4,4,4,5,57,3,2,None,0,3.14,0
+EMP00323,61,Male,Married,PhD,0,19,Operations,Logistics Coordinator,4,1,0,1,1,2,37,91976,0,11.7,5.9,Yes,2,3,3,2,3,5,5,61,5,5,Rarely,75,3.53,1
+EMP01892,57,Female,Married,Master,2,43,Operations,Operations Analyst,1,0,0,0,1,2,35,48909,3,6.9,3.6,No,1,2,4,3,4,3,3,11,7,4,None,0,4.03,1
+EMP01058,51,Female,Married,High School,1,2,Sales,Sales Rep,1,11,3,4,0,0,27,57227,2,10.1,5.4,Yes,3,4,3,2,1,4,4,27,3,1,None,25,4.06,1
+EMP01970,49,Male,Married,High School,1,15,Engineering,Software Engineer,5,7,5,0,0,2,26,92898,0,20.2,9.8,No,3,3,3,4,3,3,3,12,2,4,Rarely,75,3.57,0
+EMP00078,22,Male,Married,Master,1,10,Engineering,Software Engineer,2,6,3,0,2,5,1,63370,1,15.7,12.9,No,4,2,2,2,1,3,5,2,6,2,Frequently,0,3.19,1
+EMP00669,60,Female,Married,Master,3,45,Operations,Supply Chain Specialist,3,0,0,1,0,3,40,71180,0,11.7,7.3,No,4,4,5,5,3,4,5,1,3,3,Rarely,100,4.02,0
+EMP01730,57,Male,Single,Bachelor,1,3,Marketing,Brand Manager,1,26,0,1,0,1,33,58007,1,12.4,9.5,No,5,2,2,2,2,4,2,46,2,0,Rarely,75,3.3,1
+EMP00550,48,Female,Single,Bachelor,0,29,Sales,Sales Lead,1,1,0,0,1,2,25,57813,0,16.3,10.1,Yes,4,4,5,3,5,4,4,15,2,1,Rarely,50,3.39,1
+EMP01553,28,Female,Married,Bachelor,3,16,Engineering,DevOps Engineer,3,3,0,1,1,4,4,69064,1,14.8,10.3,No,4,4,5,2,3,3,4,58,3,3,None,50,3.96,0
+EMP00932,28,Male,Married,High School,1,13,Marketing,Brand Manager,3,0,0,1,0,5,8,72909,0,18.4,5.7,No,5,5,4,4,3,4,4,7,1,3,None,50,4.02,0
+EMP00944,58,Male,Single,Bachelor,2,34,R&D,ML Engineer,3,2,0,1,0,5,36,78279,0,9.7,5.3,No,4,2,3,4,4,4,5,24,6,2,Rarely,0,4.43,1
+EMP00750,47,Male,Married,PhD,1,27,Engineering,QA Engineer,2,2,2,1,0,3,25,68784,2,8.3,3.1,Yes,5,3,2,3,3,5,3,61,6,3,Rarely,25,4.98,0
+EMP01373,34,Male,Married,Bachelor,1,14,Finance,Accountant,3,1,1,1,1,6,10,69313,3,11.5,6.9,No,3,2,1,4,4,4,3,68,2,2,Rarely,50,3.45,0
+EMP01023,32,Male,Divorced,Master,4,15,Sales,Sales Rep,1,2,1,2,0,1,9,48515,2,13.7,10.5,No,4,3,5,2,4,4,5,57,5,3,None,25,3.68,0
+EMP01139,55,Female,Married,Bachelor,1,8,Engineering,QA Engineer,2,6,0,1,0,1,33,73144,2,7.5,7.0,No,2,2,5,3,1,3,4,25,3,3,Rarely,0,2.31,0
+EMP00798,29,Male,Divorced,Bachelor,0,22,HR,HR Manager,4,1,0,1,0,0,9,81502,1,16.8,9.1,Yes,3,4,4,5,4,4,4,40,3,2,Rarely,50,3.48,0
+EMP00866,34,Female,Divorced,Master,0,20,Finance,Finance Manager,4,4,3,0,0,1,14,84115,1,12.0,4.6,No,4,3,2,4,4,3,3,66,5,1,Rarely,50,4.28,0
+EMP00421,22,Male,Married,Bachelor,0,58,HR,HR Specialist,2,0,0,1,0,3,0,58224,2,15.6,10.5,No,3,3,3,3,4,4,2,58,7,3,Rarely,0,2.62,0
+EMP00658,30,Male,Single,Master,0,28,Operations,Supply Chain Specialist,3,9,1,2,2,4,9,68112,0,19.1,10.7,No,5,4,4,3,4,2,2,35,7,5,None,50,3.82,0
+EMP01195,47,Female,Single,Bachelor,1,44,Operations,Logistics Coordinator,1,5,1,0,2,1,27,53907,0,11.7,8.6,No,4,5,5,2,4,4,3,17,2,4,Frequently,50,4.36,1
+EMP00848,41,Male,Single,Bachelor,1,48,HR,HR Manager,5,1,1,2,0,3,21,100450,0,10.6,9.3,Yes,4,4,2,4,5,5,5,9,5,3,Rarely,50,2.78,1
+EMP00537,40,Male,Married,Master,2,48,R&D,Data Scientist,1,5,0,0,0,4,20,56026,2,11.1,6.6,No,5,4,3,4,4,1,5,67,2,4,Rarely,0,3.27,0
+EMP00809,42,Female,Single,Bachelor,0,43,HR,HR Manager,5,7,0,1,0,2,22,105104,0,9.1,7.6,Yes,2,2,3,2,1,3,3,44,2,7,Rarely,100,4.3,1
+EMP00817,45,Male,Married,Master,1,17,R&D,Research Scientist,1,3,1,1,1,3,21,55344,1,12.9,7.7,No,4,4,3,4,3,4,3,49,2,2,Frequently,0,2.61,0
+EMP00180,54,Female,Married,PhD,3,26,Operations,Logistics Coordinator,4,9,0,0,0,1,31,101359,3,15.0,5.5,No,2,4,4,3,4,4,4,50,4,5,Frequently,50,4.26,0
+EMP01780,52,Female,Single,Master,0,12,HR,Recruiter,2,10,2,3,0,2,30,72383,1,13.4,7.1,Yes,3,3,5,4,4,5,5,7,4,4,None,25,3.95,0
+EMP00842,27,Male,Married,Bachelor,0,20,Engineering,DevOps Engineer,4,12,0,0,1,3,7,86355,0,9.0,7.5,No,2,2,3,2,1,4,4,65,4,2,Rarely,100,3.85,1
+EMP00517,56,Female,Divorced,Bachelor,1,24,Marketing,Brand Manager,3,5,1,0,2,2,34,75586,2,12.2,9.7,Yes,4,5,1,3,3,4,5,0,7,1,Frequently,0,3.06,0
+EMP00793,24,Female,Married,Bachelor,2,41,R&D,ML Engineer,3,3,3,1,4,5,3,61118,1,18.7,9.1,No,3,2,4,5,4,1,5,44,2,3,Rarely,25,2.26,0
+EMP00993,25,Female,Married,Bachelor,2,57,Sales,Sales Lead,3,14,14,3,3,4,5,68705,1,11.9,8.4,Yes,1,4,5,3,1,4,3,73,4,2,Frequently,50,3.08,1
+EMP00538,29,Female,Divorced,High School,2,12,R&D,Data Scientist,1,7,3,1,4,1,6,44108,1,9.1,7.7,No,5,5,5,4,2,5,4,31,3,2,Frequently,0,3.32,1
+EMP00577,56,Male,Married,Master,0,17,Engineering,QA Engineer,4,2,2,1,3,1,34,101066,1,17.4,8.3,No,4,3,5,3,5,4,3,44,1,4,Rarely,50,3.18,0
+EMP01360,26,Male,Single,Bachelor,2,18,Sales,Sales Rep,5,1,1,0,1,1,4,101345,1,17.1,8.2,Yes,2,4,4,3,5,3,5,5,5,2,Rarely,100,3.29,1
+EMP01766,22,Male,Married,Bachelor,3,23,R&D,Data Scientist,4,17,2,1,0,5,0,88614,0,14.1,10.2,No,4,5,2,4,4,4,4,14,1,3,Frequently,0,3.82,0
+EMP01201,57,Female,Married,Bachelor,1,31,HR,HR Specialist,3,1,0,1,1,3,33,83894,0,10.8,6.6,No,4,4,3,4,2,3,3,77,4,2,Rarely,25,3.37,0
+EMP00913,61,Male,Single,High School,3,52,Finance,Accountant,4,4,0,1,0,6,40,97007,1,17.3,6.6,Yes,4,5,5,3,4,1,4,40,4,7,Frequently,50,2.56,1
+EMP00503,37,Male,Married,Bachelor,1,18,Finance,Finance Manager,3,1,1,2,2,2,17,78084,1,18.0,5.0,No,4,1,3,3,3,4,2,16,5,5,Frequently,25,2.93,0
+EMP00241,41,Male,Married,Bachelor,0,57,Engineering,QA Engineer,1,3,3,2,1,3,20,57268,0,5.0,7.2,No,5,2,4,2,4,4,4,49,6,1,Rarely,100,3.27,1
+EMP01111,52,Female,Single,Bachelor,1,27,Marketing,Marketing Analyst,3,3,3,0,0,1,32,87279,0,13.5,6.7,No,4,3,3,4,1,3,4,47,1,0,Rarely,75,3.64,0
+EMP01677,45,Male,Single,Bachelor,2,34,Sales,Sales Lead,1,1,1,2,0,3,24,48842,1,6.6,6.6,No,3,4,4,4,5,2,4,4,6,3,Frequently,25,4.75,1
+EMP00446,33,Female,Married,Master,3,16,R&D,Research Scientist,2,2,0,1,1,3,9,67040,0,10.4,5.3,No,4,3,5,4,2,3,4,79,6,3,None,75,2.09,0
+EMP01917,51,Female,Divorced,Bachelor,2,54,Marketing,Content Strategist,4,0,0,1,0,2,31,91959,0,9.8,3.9,Yes,4,4,5,2,1,3,3,5,3,5,Frequently,25,2.64,1
+EMP00054,23,Male,Married,Bachelor,3,40,Sales,Sales Lead,4,3,3,4,4,3,0,84447,1,22.1,7.0,No,1,2,3,4,5,3,2,37,4,6,Frequently,50,4.77,1
+EMP01559,36,Male,Single,Bachelor,0,22,Engineering,Tech Lead,5,5,1,0,1,3,16,98795,2,8.3,7.4,No,3,4,3,1,3,2,3,68,2,2,Rarely,50,3.99,0
+EMP00275,43,Male,Single,Bachelor,3,12,Engineering,QA Engineer,1,25,2,1,0,1,21,47464,2,17.0,9.3,Yes,4,5,5,4,4,4,3,47,7,3,None,25,2.55,0
+EMP00302,56,Female,Married,Master,2,15,R&D,ML Engineer,5,2,2,3,2,1,35,103077,1,11.3,8.6,No,5,5,4,4,4,3,4,18,7,2,Rarely,25,2.84,0
+EMP00062,57,Male,Single,Bachelor,3,23,Operations,Supply Chain Specialist,4,10,0,1,1,4,35,96385,3,12.0,4.9,No,4,3,4,1,2,4,3,21,7,4,Rarely,50,2.83,0
+EMP01528,58,Male,Single,Bachelor,2,36,R&D,Data Scientist,2,3,2,0,1,4,34,73094,1,10.9,7.0,No,2,5,4,2,4,4,5,42,5,1,Rarely,75,3.46,1
+EMP01035,27,Female,Married,High School,3,35,Finance,Accountant,3,19,0,1,0,3,7,72470,0,10.6,6.5,Yes,4,4,2,5,5,3,4,35,2,1,Frequently,0,3.83,1
+EMP00239,37,Female,Single,Bachelor,1,24,HR,HR Manager,4,1,1,0,1,1,14,88864,1,21.1,6.8,Yes,4,3,5,4,3,1,5,34,2,1,Frequently,25,3.66,1
+EMP00289,40,Female,Single,Master,1,1,Engineering,Tech Lead,5,5,2,2,1,0,19,103352,0,12.0,4.3,No,2,4,4,4,2,4,5,28,7,2,None,50,2.9,1
+EMP00695,55,Female,Single,Master,3,41,Finance,Financial Analyst,3,4,4,1,1,1,31,87332,0,12.1,4.6,No,4,4,5,4,4,5,5,44,3,0,Rarely,25,1.88,0
+EMP01320,46,Female,Single,Master,0,13,Operations,Logistics Coordinator,1,15,7,1,3,2,24,59470,0,14.6,10.7,Yes,3,4,3,4,4,1,5,50,1,5,Rarely,50,4.39,0
+EMP01432,28,Female,Married,Bachelor,0,14,HR,Recruiter,2,6,0,1,1,1,8,57134,0,15.9,10.3,No,5,5,2,1,3,5,3,3,7,2,Frequently,50,4.13,0
+EMP01888,44,Female,Married,PhD,1,27,Operations,Operations Analyst,4,6,0,0,0,3,20,90949,2,19.0,5.5,No,5,2,2,3,5,4,3,73,6,2,None,50,4.04,0
+EMP00347,44,Male,Single,Bachelor,4,27,Sales,Account Manager,5,15,3,2,2,0,23,97151,1,14.1,6.6,No,2,4,3,3,4,2,1,12,3,7,Frequently,75,4.57,0
+EMP01393,26,Female,Divorced,Master,2,26,Sales,Sales Rep,1,7,0,1,0,3,5,54493,3,5.0,7.1,Yes,4,5,4,2,3,4,4,45,3,5,Rarely,25,3.15,0
+EMP00803,47,Female,Single,Bachelor,3,2,Engineering,Tech Lead,2,4,4,5,1,5,24,56944,1,16.9,8.2,Yes,4,4,3,4,4,5,4,42,6,5,Rarely,25,3.59,0
+EMP00894,29,Female,Single,Bachelor,3,16,Engineering,QA Engineer,2,2,0,1,1,2,5,68407,1,11.5,8.8,No,4,4,4,4,3,4,5,24,5,1,None,0,3.76,0
+EMP00486,51,Female,Married,Bachelor,2,41,Sales,Account Manager,1,11,0,1,0,1,29,58999,2,16.6,5.9,No,3,4,4,1,4,3,5,7,4,3,Rarely,50,3.37,0
+EMP01919,28,Male,Married,Master,0,18,HR,HR Specialist,5,7,0,1,1,4,4,96409,1,11.9,17.6,Yes,3,4,5,3,3,5,2,18,4,2,Rarely,0,4.72,0
+EMP00657,35,Female,Single,Master,0,42,Sales,Sales Lead,5,6,3,3,0,6,14,108521,0,14.3,10.1,No,5,5,2,2,4,2,5,15,1,2,None,0,3.22,1
+EMP01673,33,Female,Married,High School,0,3,Sales,Account Manager,3,1,0,1,0,7,12,85168,3,18.7,8.9,No,1,2,4,5,4,4,3,26,1,3,Rarely,50,3.6,1
+EMP01336,36,Male,Divorced,High School,2,8,Finance,Accountant,5,7,1,0,2,2,14,103673,0,8.5,7.6,Yes,4,3,1,3,3,5,5,69,6,5,None,0,3.16,0
+EMP01032,45,Female,Single,Bachelor,3,16,Marketing,Brand Manager,1,0,0,1,1,2,25,57655,1,21.2,4.0,No,5,5,5,2,3,4,4,74,3,2,None,0,3.42,0
+EMP01100,55,Male,Married,Bachelor,1,36,R&D,ML Engineer,3,6,0,1,1,1,31,85425,0,18.1,8.7,No,2,4,5,5,1,3,5,14,6,3,Frequently,50,2.86,1
+EMP00708,38,Female,Divorced,Bachelor,2,24,Engineering,Software Engineer,2,6,0,1,0,1,16,60239,1,11.4,9.6,Yes,5,5,2,3,4,1,3,18,4,3,Rarely,25,3.8,0
+EMP00826,27,Female,Married,Master,0,59,Sales,Account Manager,2,3,3,4,1,5,3,66679,0,17.3,10.3,Yes,2,4,2,3,4,1,3,53,1,5,Rarely,50,2.86,1
+EMP01383,50,Male,Married,Bachelor,1,41,Finance,Accountant,2,0,0,1,0,1,28,66533,1,15.5,9.1,No,4,4,3,4,2,2,3,42,5,3,Frequently,100,1.81,1
+EMP00736,39,Female,Single,High School,1,24,Operations,Supply Chain Specialist,4,3,2,3,0,4,15,84883,0,9.1,10.0,No,4,5,4,5,5,5,4,8,2,6,Rarely,0,3.13,0
+EMP00521,39,Female,Married,Bachelor,4,40,Sales,Account Manager,2,2,1,0,1,1,16,66340,0,7.5,7.4,No,3,3,4,2,4,3,5,59,7,1,Rarely,50,2.97,0
+EMP00539,22,Male,Married,Master,1,14,Engineering,QA Engineer,4,1,1,1,2,1,1,103645,0,9.3,11.7,No,5,3,4,4,5,3,5,44,3,2,Frequently,100,3.43,0
+EMP00441,54,Female,Married,High School,1,16,R&D,ML Engineer,5,2,0,1,1,0,32,108905,1,14.0,8.4,No,5,4,4,4,2,3,3,23,5,5,Rarely,50,3.28,0
+EMP00915,53,Male,Married,Master,0,44,Engineering,QA Engineer,3,6,2,0,0,2,30,83064,2,14.0,2.0,No,5,5,5,2,4,5,3,63,6,4,Rarely,75,3.31,0
+EMP00090,56,Female,Married,Bachelor,2,7,R&D,Data Scientist,5,2,0,0,1,4,33,106618,0,8.9,6.6,Yes,3,3,4,1,5,4,3,10,5,5,Frequently,25,3.37,1
+EMP01722,49,Female,Married,Bachelor,1,27,Sales,Sales Rep,2,3,3,2,1,3,26,75074,0,13.8,10.7,Yes,4,3,5,2,4,1,3,72,5,3,Frequently,50,4.09,1
+EMP00118,60,Male,Single,Master,0,3,Finance,Accountant,2,8,3,0,0,2,40,67649,1,18.4,0.0,No,3,4,5,3,3,3,3,74,6,1,Rarely,25,2.98,0
+EMP01110,35,Male,Married,Bachelor,2,21,R&D,Research Scientist,2,1,0,1,0,0,13,68146,2,7.6,5.0,No,3,3,2,5,3,3,4,17,2,4,None,100,3.96,0
+EMP00777,46,Female,Single,Bachelor,0,38,Engineering,DevOps Engineer,1,5,5,0,0,2,25,50605,1,7.1,13.6,No,5,5,4,3,4,3,4,51,4,1,None,0,1.89,0
+EMP01488,50,Male,Divorced,Bachelor,3,24,Finance,Finance Manager,2,3,1,2,2,4,30,71686,0,16.8,5.8,No,4,3,4,3,3,5,3,69,4,1,None,25,3.6,0
+EMP00525,38,Male,Single,Master,1,5,Marketing,Brand Manager,2,0,0,0,1,3,17,61052,1,15.6,7.6,Yes,4,4,3,5,2,3,4,20,3,6,Frequently,0,3.03,1
+EMP00081,30,Female,Married,Bachelor,0,23,Marketing,Marketing Analyst,1,0,0,1,1,6,6,52144,1,16.7,4.0,No,1,5,4,3,3,4,4,52,1,3,Frequently,0,3.21,1
+EMP01863,29,Female,Married,High School,1,2,Engineering,Software Engineer,2,2,0,1,1,3,6,58079,1,8.4,8.3,Yes,3,5,5,2,5,5,2,48,7,1,Frequently,100,4.0,1
+EMP01138,30,Female,Single,Master,0,47,R&D,Research Scientist,3,13,0,1,1,7,8,77728,3,13.9,11.2,Yes,2,4,5,2,5,5,5,56,5,1,Rarely,75,2.78,1
+EMP01848,22,Female,Single,Bachelor,0,4,Operations,Operations Analyst,3,7,0,1,0,4,0,75007,2,13.7,2.9,Yes,3,2,4,3,4,4,5,6,4,8,Rarely,50,3.96,0
+EMP00878,59,Female,Divorced,Bachelor,2,6,Finance,Accountant,1,0,0,1,0,3,35,57693,0,17.9,8.6,Yes,2,3,5,4,5,1,5,61,3,1,None,0,3.37,1
+EMP00856,57,Non-Binary,Divorced,High School,2,55,Finance,Accountant,3,2,2,3,3,0,35,89605,0,11.2,6.2,No,3,4,2,4,4,5,3,47,7,3,Frequently,25,4.29,1
+EMP00200,30,Male,Married,Master,0,22,R&D,ML Engineer,1,1,1,1,2,3,10,49615,0,11.9,6.9,Yes,3,2,5,3,4,3,4,4,7,3,Frequently,0,4.02,1
+EMP00276,51,Female,Single,Master,0,37,R&D,Research Scientist,1,3,2,3,2,2,30,46836,1,8.6,8.0,No,4,4,1,2,5,5,4,23,3,2,None,75,2.87,0
+EMP00448,23,Female,Married,High School,1,15,Sales,Sales Lead,4,1,1,1,0,2,3,93096,1,10.8,13.2,No,5,1,5,1,2,4,4,29,5,2,Rarely,50,4.4,1
+EMP00608,38,Female,Married,Bachelor,1,1,Sales,Sales Rep,2,5,0,1,1,2,16,72601,2,20.0,5.8,No,2,1,4,3,3,5,5,60,1,2,Rarely,0,3.66,0
+EMP01800,39,Female,Married,Bachelor,1,9,Engineering,Software Engineer,3,4,0,1,0,1,19,73809,3,13.8,7.6,No,3,3,4,2,3,4,2,9,6,3,None,75,2.34,0
+EMP00507,46,Male,Married,Bachelor,1,32,Sales,Sales Lead,3,1,1,1,1,0,23,79246,3,15.5,8.4,Yes,4,4,3,5,4,4,2,64,3,5,Rarely,50,2.99,0
+EMP01332,46,Male,Single,Bachelor,2,40,Sales,Sales Rep,3,4,1,0,0,1,24,85225,1,7.7,9.3,Yes,1,1,5,4,3,2,3,59,4,2,Frequently,50,3.74,1
+EMP00456,31,Male,Married,Bachelor,1,53,R&D,ML Engineer,4,1,1,2,2,3,7,83223,0,9.2,9.3,No,1,4,4,3,5,4,5,16,7,5,Frequently,25,3.79,1
+EMP00887,33,Female,Single,Bachelor,2,27,Engineering,QA Engineer,2,2,2,3,1,1,11,60754,2,12.0,10.0,No,4,4,4,4,3,3,4,68,5,4,Rarely,25,4.16,0
+EMP00161,58,Male,Single,High School,0,26,R&D,Research Scientist,1,4,1,2,2,3,34,58656,1,14.5,6.3,Yes,5,4,4,4,4,5,3,22,5,1,Rarely,100,2.87,0
+EMP00942,59,Female,Married,Bachelor,0,35,Engineering,QA Engineer,3,1,1,1,0,0,39,88028,0,16.5,7.4,No,4,2,4,4,3,3,4,43,6,1,None,75,2.95,0
+EMP00217,39,Female,Divorced,Master,2,50,Marketing,Marketing Analyst,2,2,2,0,0,4,15,60084,0,7.5,5.0,No,4,3,1,4,4,5,4,31,4,4,None,50,4.07,0
+EMP01891,46,Female,Married,Master,1,37,Marketing,Content Strategist,1,10,0,0,0,5,26,48288,2,9.8,5.7,No,2,2,4,3,3,1,2,75,7,5,None,100,3.49,1
+EMP00425,45,Female,Married,Master,2,1,Finance,Accountant,5,2,2,3,0,5,22,105055,3,14.1,10.2,No,3,2,2,4,2,1,4,38,7,3,Frequently,75,3.85,1
+EMP00133,36,Female,Divorced,Bachelor,1,6,Marketing,Marketing Analyst,3,4,4,2,1,0,12,74749,0,12.1,8.8,No,4,4,3,3,4,5,4,78,2,3,None,50,2.89,0
+EMP01079,31,Female,Divorced,High School,1,39,Sales,Sales Rep,3,6,1,1,2,1,7,72876,3,6.6,4.9,No,2,4,4,2,5,4,3,26,7,2,Rarely,75,3.71,0
+EMP00115,26,Male,Married,Bachelor,0,10,Engineering,QA Engineer,3,6,4,0,5,2,6,70759,0,14.7,7.8,Yes,2,3,2,2,2,5,1,74,7,1,Frequently,50,2.16,1
+EMP00282,55,Female,Single,Master,0,44,Sales,Sales Rep,4,7,2,1,0,1,35,94652,3,11.2,8.7,No,2,3,2,4,5,5,4,59,1,1,Frequently,75,3.93,0
+EMP01065,39,Male,Divorced,Bachelor,4,15,Operations,Supply Chain Specialist,4,1,1,2,0,2,19,96137,3,14.8,7.9,Yes,1,5,5,4,3,2,3,37,6,0,None,100,5.0,1
+EMP01683,45,Male,Single,Master,3,49,HR,Recruiter,3,0,0,1,0,0,24,84481,1,15.5,8.7,No,1,3,5,5,1,1,5,74,7,5,None,50,3.9,1
+EMP01406,49,Non-Binary,Single,Bachelor,2,25,HR,Recruiter,3,8,8,1,0,3,28,87787,1,12.0,8.4,No,5,5,5,3,2,3,3,31,4,5,None,50,3.34,0
+EMP00410,51,Female,Married,High School,0,29,HR,HR Specialist,1,13,3,2,4,5,28,52795,1,14.1,7.6,No,3,4,2,4,1,2,2,19,5,3,Rarely,50,2.8,1
+EMP01846,42,Female,Married,Master,2,30,Operations,Logistics Coordinator,1,1,1,2,2,3,18,60827,1,5.6,5.4,No,5,5,5,5,4,1,1,16,5,1,Rarely,50,3.93,0
+EMP00281,48,Male,Divorced,High School,2,58,Engineering,DevOps Engineer,2,7,6,0,0,4,26,71858,0,15.3,7.8,No,3,4,4,4,2,4,4,64,5,1,Rarely,50,4.31,0
+EMP01208,26,Female,Married,Master,2,41,Sales,Sales Rep,2,1,1,2,0,0,6,59488,2,12.8,7.8,No,4,4,3,3,4,4,4,3,2,7,Rarely,25,2.63,0
+EMP00542,28,Male,Married,PhD,1,27,Operations,Logistics Coordinator,4,9,4,0,3,3,7,84264,1,10.4,12.4,No,4,3,5,5,4,5,4,4,6,7,None,50,3.38,0
+EMP00046,28,Female,Married,PhD,2,19,Finance,Accountant,3,2,2,0,3,0,4,74121,0,15.4,7.4,No,4,4,3,5,5,4,3,49,2,0,Rarely,25,3.09,0
+EMP00219,22,Female,Single,Bachelor,0,6,Sales,Account Manager,3,14,0,1,1,4,0,72510,0,14.8,7.0,No,4,4,5,4,4,4,5,8,2,2,Rarely,50,5.0,0
+EMP00875,32,Male,Married,Bachelor,2,37,Sales,Account Manager,1,2,0,1,1,4,12,52889,3,11.9,5.0,Yes,4,2,5,4,4,4,3,57,4,4,Rarely,50,5.0,1
+EMP00740,27,Female,Divorced,Master,2,37,Sales,Sales Lead,5,0,0,0,1,1,3,110079,0,12.5,12.3,No,2,3,4,3,2,3,3,40,7,3,None,25,3.47,1
+EMP01574,34,Male,Single,Bachelor,2,6,Finance,Finance Manager,2,0,0,1,1,3,11,63146,1,10.7,8.5,No,3,3,1,3,2,3,4,77,7,2,None,0,4.08,0
+EMP00596,45,Male,Married,High School,2,21,Marketing,Brand Manager,1,3,1,1,2,2,21,49626,0,12.9,8.5,Yes,2,3,5,4,2,3,2,8,2,4,Rarely,25,3.56,1
+EMP00442,61,Female,Divorced,Bachelor,4,55,HR,HR Specialist,4,1,1,0,2,4,39,98945,2,17.0,16.5,No,5,3,2,4,3,4,4,28,6,7,None,50,4.4,0
+EMP00961,29,Male,Single,Bachelor,1,59,Sales,Sales Rep,4,3,0,0,1,3,7,83633,0,13.0,4.9,No,4,3,1,3,3,4,4,40,1,3,Rarely,25,3.51,0
+EMP00931,24,Non-Binary,Single,Bachelor,0,8,Sales,Account Manager,4,11,11,0,2,3,4,85297,0,6.6,10.9,Yes,3,4,3,5,4,5,3,31,4,7,Rarely,0,3.95,0
+EMP01513,50,Male,Single,Master,0,20,Operations,Logistics Coordinator,3,4,1,1,2,4,28,80471,1,23.4,9.0,No,4,4,4,3,5,4,4,48,1,1,Rarely,100,3.83,0
+EMP00096,30,Male,Married,Master,1,8,R&D,ML Engineer,1,3,3,4,1,1,7,52072,0,10.2,9.5,No,4,4,3,4,3,1,4,52,1,1,Rarely,50,3.92,0
+EMP01386,46,Female,Divorced,Master,2,58,Engineering,Tech Lead,1,0,0,1,1,5,22,49567,0,16.5,11.2,No,3,2,5,5,4,5,5,20,3,3,None,75,4.36,1
+EMP01684,53,Male,Married,Bachelor,3,4,Engineering,Tech Lead,4,3,3,0,4,3,33,104885,0,19.6,6.2,No,3,3,2,3,2,3,2,42,5,1,None,25,3.66,0
+EMP00666,49,Male,Married,High School,2,41,Finance,Accountant,2,9,0,1,1,3,26,75108,0,10.9,9.4,Yes,4,1,2,3,3,2,3,73,5,2,None,75,4.41,1
+EMP01318,31,Female,Divorced,Bachelor,2,44,Sales,Sales Lead,3,2,0,0,1,1,11,72220,2,9.6,8.6,No,4,2,4,5,4,3,1,20,7,2,Frequently,50,3.82,1
+EMP00144,49,Male,Married,Bachelor,4,47,Marketing,Marketing Analyst,2,1,1,2,2,6,29,72354,0,18.5,10.7,No,3,1,4,3,4,3,4,66,5,0,Rarely,50,1.93,1
+EMP00145,41,Male,Married,Bachelor,1,44,Sales,Sales Lead,4,0,0,1,1,2,20,94617,0,7.3,3.1,No,4,1,3,4,2,3,4,4,7,3,Rarely,50,2.81,1
+EMP01810,54,Male,Single,High School,0,14,Engineering,QA Engineer,1,4,3,0,1,4,30,56308,3,9.4,10.9,Yes,4,1,4,5,3,4,5,19,3,5,Rarely,0,3.29,1
+EMP00710,45,Female,Single,Master,2,39,Engineering,Software Engineer,1,1,1,2,0,3,25,54417,1,14.3,9.5,Yes,3,4,3,3,3,5,4,52,1,3,Frequently,0,3.41,1
+EMP01755,49,Female,Divorced,High School,2,12,Finance,Finance Manager,4,4,0,1,1,3,28,84997,0,10.3,7.1,Yes,2,5,2,2,1,4,3,61,1,0,None,25,3.13,1
+EMP01153,23,Female,Married,Bachelor,2,23,Operations,Supply Chain Specialist,3,4,1,0,1,2,1,78713,1,8.5,8.5,Yes,2,4,2,4,5,2,3,38,2,2,Frequently,0,3.95,1
+EMP01694,33,Female,Single,Bachelor,1,41,Sales,Sales Rep,2,2,1,2,0,0,12,61331,0,15.5,2.4,No,1,3,4,3,5,4,5,69,4,3,None,50,4.02,1
+EMP01418,34,Female,Married,High School,2,30,Marketing,Content Strategist,2,1,1,0,2,8,12,60279,0,12.6,3.5,Yes,5,4,3,5,3,5,5,54,1,1,Frequently,0,3.62,1
+EMP00493,57,Male,Married,Master,2,14,Engineering,Software Engineer,3,6,6,2,4,1,33,87886,3,14.7,8.1,No,1,5,5,5,3,3,3,8,6,2,None,100,2.94,0
+EMP01174,59,Female,Single,Bachelor,2,21,Marketing,Marketing Analyst,2,1,0,1,1,5,39,68171,0,10.9,8.7,No,4,4,2,2,2,3,5,28,6,5,Frequently,25,3.88,1
+EMP01988,45,Male,Married,Master,1,48,HR,HR Specialist,1,2,2,0,1,3,24,49190,1,10.1,10.7,No,5,1,4,3,4,3,5,53,3,1,Rarely,50,3.15,1
+EMP01454,61,Female,Married,Bachelor,4,2,Engineering,Tech Lead,2,5,3,0,2,3,38,76556,1,20.5,8.2,No,3,4,2,2,1,4,5,59,2,2,Rarely,100,3.16,0
+EMP00124,34,Male,Divorced,Bachelor,2,42,Marketing,Marketing Analyst,1,9,0,0,1,2,12,39749,1,14.7,9.2,No,5,3,5,1,5,4,4,44,2,4,Rarely,50,2.97,0
+EMP00019,51,Non-Binary,Married,Master,4,45,Sales,Account Manager,2,1,1,1,2,2,30,77761,0,9.8,7.9,No,2,3,2,3,2,4,5,21,6,4,Rarely,100,3.96,1
+EMP00916,59,Female,Single,Bachelor,1,9,Operations,Operations Analyst,2,0,0,1,1,1,37,69704,1,18.4,14.2,No,4,3,4,1,2,4,3,55,4,0,Rarely,25,4.0,1
+EMP00543,46,Female,Divorced,Master,0,28,Engineering,DevOps Engineer,2,0,0,1,1,2,22,67190,3,5.0,3.7,No,4,5,1,4,4,4,3,16,3,3,None,25,4.2,0
+EMP01662,43,Female,Single,Master,1,42,Sales,Sales Lead,2,2,2,2,3,1,23,59374,0,6.1,10.0,No,3,4,5,2,1,5,4,60,7,3,Frequently,0,4.92,1
+EMP01420,27,Male,Divorced,Bachelor,2,56,Operations,Operations Analyst,1,0,0,1,1,5,6,58066,0,11.0,10.0,No,5,2,4,4,5,4,3,35,1,2,Frequently,100,2.83,1
+EMP00073,45,Female,Married,High School,4,35,Marketing,Marketing Analyst,1,16,0,0,1,1,23,44217,0,6.5,10.2,No,5,3,5,5,4,1,3,59,5,2,Frequently,25,2.76,0
+EMP01243,29,Male,Married,Master,0,26,Sales,Sales Lead,2,4,2,3,3,2,6,61694,1,13.6,13.9,No,2,3,5,1,5,5,4,72,6,2,None,25,4.46,0
+EMP01471,43,Female,Married,High School,0,55,Operations,Supply Chain Specialist,1,7,6,3,2,2,23,52289,1,7.7,10.4,No,3,4,5,1,4,5,3,48,3,1,Frequently,25,3.09,0
+EMP00754,47,Male,Divorced,Master,2,46,Finance,Finance Manager,4,6,5,0,1,4,25,94176,3,17.2,7.4,Yes,4,4,1,3,4,4,4,76,2,0,Rarely,50,3.14,0
+EMP00358,60,Female,Divorced,Bachelor,4,32,HR,HR Manager,2,3,1,1,2,7,39,65518,2,14.9,8.5,No,4,5,1,4,3,3,3,23,2,6,Rarely,0,4.37,0
+EMP01876,47,Female,Single,Master,2,34,HR,HR Manager,1,0,0,1,1,8,26,62677,1,14.0,9.1,No,5,4,3,5,3,4,4,1,5,3,Frequently,0,2.94,1
+EMP00273,33,Male,Single,High School,1,41,R&D,Research Scientist,2,13,0,1,0,3,12,73287,1,19.2,5.6,Yes,4,5,1,4,4,5,5,72,3,5,Rarely,100,3.08,0
+EMP01465,55,Female,Married,Bachelor,0,48,Sales,Account Manager,5,2,2,2,3,4,33,107243,0,7.8,7.8,No,3,3,4,4,5,3,5,8,3,3,None,75,3.66,0
+EMP00774,59,Male,Divorced,Master,2,56,Marketing,Content Strategist,3,0,0,1,1,3,35,77935,0,16.6,8.3,No,5,4,4,4,3,2,2,79,1,4,Frequently,100,3.3,1
+EMP01498,36,Male,Single,Master,3,59,Sales,Sales Rep,2,2,2,3,3,4,14,73958,0,16.8,8.2,Yes,2,4,1,5,4,2,5,67,3,8,Frequently,50,2.92,1
+EMP00129,51,Male,Married,High School,1,22,HR,HR Specialist,4,4,0,1,1,2,29,102386,0,14.1,6.6,No,5,3,3,3,1,3,2,56,5,2,None,50,2.92,0
+EMP01889,37,Male,Married,Master,1,9,Engineering,QA Engineer,4,1,1,0,0,1,15,84761,1,13.9,12.1,No,5,4,1,4,5,4,5,64,3,1,None,0,3.27,0
+EMP00307,54,Female,Single,Bachelor,1,55,Marketing,Marketing Analyst,3,0,0,0,1,1,30,89948,0,15.1,8.4,No,3,3,3,1,5,4,4,39,3,3,None,75,3.29,1
+EMP00751,43,Male,Married,Bachelor,4,59,HR,Recruiter,2,4,1,0,2,0,23,62386,0,14.0,8.3,Yes,4,3,3,4,4,4,3,12,2,6,None,0,3.24,0
+EMP01647,39,Male,Married,Bachelor,0,33,R&D,ML Engineer,3,5,1,2,2,3,17,76687,1,13.0,7.6,No,1,3,4,3,5,3,3,35,7,2,None,0,1.8,0
+EMP01957,57,Male,Married,Bachelor,0,5,Sales,Sales Rep,1,1,0,1,0,5,37,69653,3,20.3,4.5,No,4,4,1,5,2,3,2,78,5,2,Rarely,50,2.76,0
+EMP01276,39,Female,Divorced,Bachelor,0,33,Engineering,DevOps Engineer,2,2,2,0,0,3,19,70112,2,13.5,11.7,Yes,3,3,5,3,4,4,3,78,7,2,None,0,2.56,0
+EMP00772,44,Male,Married,Bachelor,2,31,Marketing,Marketing Analyst,1,1,1,2,2,2,21,56345,1,12.1,3.5,No,4,3,4,4,4,2,3,41,3,3,Rarely,50,4.41,0
+EMP00494,33,Male,Married,PhD,0,37,Finance,Finance Manager,2,7,7,1,1,4,12,65140,2,16.4,10.3,No,1,4,5,3,3,4,4,58,4,6,Rarely,75,3.66,0
+EMP00164,36,Male,Married,PhD,3,32,Sales,Account Manager,1,23,7,3,0,2,14,46799,0,12.4,10.4,No,5,5,2,5,4,2,2,12,5,5,None,75,3.94,0
+EMP00712,55,Male,Married,Bachelor,2,54,Marketing,Marketing Analyst,4,4,1,2,2,1,33,87181,1,14.9,6.6,No,3,5,3,4,2,5,5,4,6,2,Rarely,50,2.58,0
+EMP01056,40,Female,Married,Bachelor,1,22,Finance,Financial Analyst,3,5,5,1,6,0,19,72395,1,14.5,1.8,No,2,3,5,5,4,4,4,53,5,4,Frequently,100,2.66,0
+EMP01632,29,Male,Single,Master,2,57,HR,Recruiter,2,0,0,1,0,6,8,57582,0,15.8,6.7,No,4,3,2,1,3,5,3,20,1,0,Frequently,0,2.56,1
+EMP00591,53,Female,Married,High School,0,15,Engineering,DevOps Engineer,5,10,2,0,1,3,30,100579,0,12.9,13.0,Yes,3,3,4,4,2,4,4,76,3,3,None,75,3.5,0
+EMP01189,47,Male,Married,Bachelor,0,27,Operations,Operations Analyst,3,6,6,0,2,1,23,77689,3,10.6,7.8,Yes,4,2,3,3,3,4,3,44,7,3,None,100,3.8,0
+EMP01222,38,Female,Divorced,PhD,1,30,Operations,Logistics Coordinator,5,15,3,0,0,3,15,95764,1,15.1,10.1,No,2,3,2,5,4,5,5,9,2,4,None,100,3.17,0
+EMP00851,47,Male,Married,High School,3,19,Operations,Operations Analyst,4,9,2,0,1,2,25,93040,1,15.9,6.4,No,5,3,1,3,4,4,3,26,4,3,None,0,3.33,0
+EMP01012,22,Male,Divorced,Bachelor,1,14,Engineering,Tech Lead,3,1,1,2,0,1,1,75562,1,14.1,7.4,No,2,3,4,4,4,4,3,52,1,4,Rarely,0,3.42,0
+EMP01475,57,Male,Married,Master,3,53,R&D,ML Engineer,5,2,2,3,3,2,35,102322,1,16.5,5.1,No,5,4,4,2,3,5,4,37,1,2,None,50,3.6,1
+EMP00095,28,Male,Single,Bachelor,0,33,Sales,Sales Lead,2,1,0,1,0,1,4,53416,3,13.2,9.3,No,3,5,5,3,4,3,4,30,6,3,Rarely,25,3.91,0
+EMP00099,55,Male,Married,High School,0,48,HR,HR Manager,5,25,1,2,2,4,35,105466,1,17.0,7.6,No,4,5,3,4,4,4,4,40,6,1,None,0,2.62,0
+EMP00415,57,Male,Divorced,Master,1,47,Operations,Logistics Coordinator,2,5,1,2,2,1,36,65531,1,12.5,11.2,No,4,2,5,4,4,2,4,44,1,3,Rarely,25,3.25,0
+EMP01984,24,Female,Married,Master,0,13,Operations,Operations Analyst,2,0,0,1,0,2,1,56725,0,15.0,14.0,No,1,4,3,4,4,3,3,51,2,0,None,25,3.72,1
+EMP01573,32,Male,Single,Master,2,32,Operations,Supply Chain Specialist,3,12,5,3,5,1,8,76349,2,16.8,11.0,Yes,1,4,3,4,4,5,5,15,2,2,Frequently,75,3.41,1
+EMP00609,30,Female,Married,Master,3,41,Sales,Account Manager,4,0,0,1,1,1,9,91630,0,10.8,8.6,No,5,4,4,5,4,1,5,43,4,4,Frequently,50,3.6,1
+EMP01486,39,Male,Married,Bachelor,2,24,Operations,Supply Chain Specialist,2,5,0,1,0,1,18,71779,1,13.4,8.3,No,2,3,4,1,3,5,5,2,6,2,None,50,3.47,0
+EMP00477,45,Female,Married,Master,2,2,Operations,Supply Chain Specialist,5,3,1,0,2,1,21,103450,1,10.8,7.9,Yes,2,4,5,5,3,4,5,14,7,0,None,50,3.99,0
+EMP00293,49,Female,Married,Bachelor,0,57,Engineering,DevOps Engineer,2,3,0,0,0,3,29,64791,1,10.3,11.3,No,4,2,4,3,3,3,2,72,6,0,Rarely,50,3.76,0
+EMP01866,23,Male,Married,Master,2,8,Operations,Operations Analyst,2,1,1,2,2,3,2,57477,2,11.1,9.6,No,1,2,4,3,3,3,3,11,4,0,Frequently,25,3.35,1
+EMP01407,26,Female,Married,Master,1,25,Marketing,Content Strategist,3,3,0,1,1,2,2,80794,2,18.0,11.3,No,2,3,1,1,4,3,4,71,2,4,Rarely,0,4.3,0
+EMP00522,33,Male,Married,High School,2,34,Marketing,Content Strategist,2,1,0,0,1,2,9,66370,3,22.2,5.0,Yes,1,5,2,4,4,3,5,4,3,3,Rarely,0,3.49,1
+EMP00956,52,Male,Married,Bachelor,2,2,HR,HR Manager,3,4,4,0,2,2,32,93229,0,13.9,8.2,Yes,5,3,5,3,4,5,4,6,6,4,Rarely,25,2.24,0
+EMP00474,39,Female,Married,Bachelor,1,38,Sales,Account Manager,3,0,0,1,0,2,18,79127,0,12.8,13.5,Yes,4,4,5,5,1,2,2,27,6,0,Rarely,25,3.86,1
+EMP01456,55,Male,Divorced,Master,1,35,Finance,Finance Manager,3,8,2,2,1,5,34,78342,0,14.7,9.0,No,2,1,5,3,2,3,3,38,1,5,Rarely,50,2.88,1
+EMP01213,56,Female,Single,Master,0,24,Operations,Operations Analyst,4,4,1,1,0,2,35,87391,3,12.9,2.7,No,5,4,4,3,1,5,3,61,1,3,None,75,4.99,0
+EMP00773,39,Female,Married,Bachelor,2,11,Finance,Finance Manager,4,7,3,4,3,2,18,89902,0,13.0,6.0,No,3,1,4,3,3,3,4,64,1,2,Rarely,50,2.75,0
+EMP01951,57,Male,Single,Bachelor,2,41,Marketing,Brand Manager,2,0,0,1,0,3,34,78244,2,18.1,9.9,No,4,5,4,4,5,4,2,55,6,1,Rarely,100,3.79,0
+EMP01687,57,Female,Married,Master,2,57,HR,HR Manager,4,0,0,1,1,5,34,80130,3,10.7,10.2,No,2,3,4,2,4,5,1,68,7,2,Rarely,50,4.94,1
+EMP01674,51,Female,Divorced,High School,0,27,Marketing,Content Strategist,3,0,0,1,0,3,27,86017,0,5.0,4.8,No,5,4,4,4,4,4,3,17,3,4,Rarely,50,2.3,0
+EMP01206,45,Female,Single,Master,1,27,Engineering,QA Engineer,2,4,2,3,0,2,25,67693,0,14.8,7.5,No,4,3,4,5,3,5,3,48,2,7,Rarely,25,2.22,0
+EMP00814,32,Female,Married,High School,2,45,Marketing,Brand Manager,3,5,5,1,0,4,11,73171,1,14.7,11.8,No,4,4,3,3,3,5,5,35,1,3,Rarely,100,3.8,0
+EMP00568,59,Female,Married,Bachelor,0,58,Sales,Sales Lead,4,3,1,2,2,4,36,88492,0,11.0,5.3,Yes,3,5,4,2,3,1,4,63,5,2,None,75,5.0,1
+EMP01000,50,Female,Married,Bachelor,0,24,Marketing,Marketing Analyst,3,8,8,0,2,5,28,86471,3,12.5,7.2,Yes,5,4,1,4,4,4,4,61,6,3,None,75,3.38,0
+EMP00897,35,Female,Married,Bachelor,1,24,Operations,Operations Analyst,2,2,0,1,1,2,12,67253,0,12.1,4.9,Yes,5,5,4,4,5,4,2,13,2,8,Rarely,0,3.55,0
+EMP00311,52,Male,Married,Master,2,20,Engineering,Software Engineer,1,0,0,1,1,6,30,60266,1,15.1,4.2,No,2,1,5,5,5,4,4,76,6,2,Rarely,75,4.02,1
+EMP00860,27,Female,Married,PhD,2,27,Sales,Sales Rep,4,1,1,2,2,6,6,87758,2,15.5,5.6,No,1,3,5,3,3,4,4,27,1,1,Frequently,0,3.62,1
+EMP00781,60,Male,Single,Bachelor,1,30,Finance,Accountant,5,9,1,2,0,3,36,108263,1,15.0,6.7,No,2,2,4,3,5,4,3,51,2,2,Rarely,75,3.2,1
+EMP00936,54,Female,Married,Master,0,20,Sales,Sales Rep,4,25,4,1,2,4,32,85231,2,16.5,5.3,No,5,4,3,1,5,3,3,75,3,3,Frequently,25,3.22,0
+EMP00292,38,Female,Single,Master,0,9,R&D,ML Engineer,5,0,0,0,0,1,17,102901,2,19.7,1.5,No,1,4,5,2,3,1,2,18,4,3,Rarely,0,3.74,1
+EMP00440,22,Male,Married,Bachelor,0,1,Operations,Supply Chain Specialist,4,9,0,0,0,5,1,89081,1,8.2,4.2,No,1,3,5,3,4,4,3,30,5,1,None,75,3.4,0
+EMP00565,49,Female,Divorced,High School,0,32,HR,Recruiter,1,2,2,3,2,5,27,59001,1,16.2,8.3,No,1,3,2,2,5,4,4,40,5,0,Rarely,50,4.8,1
+EMP00489,46,Male,Married,Master,0,26,Finance,Accountant,4,3,1,2,0,1,25,94608,2,11.7,7.3,No,3,4,5,3,2,3,3,6,2,0,None,50,3.6,0
+EMP00392,47,Male,Married,Master,3,14,Sales,Account Manager,2,12,5,0,1,0,24,70583,0,12.8,9.9,Yes,5,5,3,4,5,4,3,2,5,3,Rarely,25,3.01,0
+EMP00380,55,Male,Married,Bachelor,3,10,Finance,Finance Manager,3,5,4,0,3,3,33,82463,3,13.8,7.4,Yes,5,3,2,1,4,1,4,19,7,2,Rarely,25,3.97,0
+EMP01925,28,Male,Single,Master,1,16,HR,HR Manager,1,23,3,3,0,2,5,46614,1,16.5,10.2,No,2,5,1,3,3,4,2,7,4,2,Frequently,50,2.87,1
+EMP00811,27,Male,Married,Bachelor,1,33,Sales,Sales Lead,5,4,4,5,1,2,7,100897,0,5.0,6.0,No,3,2,4,4,2,3,4,48,6,10,None,50,4.0,1
+EMP00508,42,Female,Married,High School,0,22,Engineering,QA Engineer,1,4,1,0,1,3,20,54950,1,11.0,11.6,No,3,4,3,3,5,3,5,22,1,1,Frequently,75,2.57,0
+EMP01643,47,Female,Divorced,Bachelor,1,48,HR,HR Specialist,4,4,0,1,0,6,24,93075,2,8.6,10.5,No,3,3,4,4,4,4,4,78,3,2,Frequently,50,3.16,0
+EMP01041,49,Male,Single,Bachelor,1,29,Finance,Financial Analyst,3,4,3,4,0,4,28,79449,1,10.8,14.7,No,5,5,5,2,2,3,3,77,4,6,None,75,4.08,0
+EMP01370,53,Male,Married,High School,2,47,HR,Recruiter,5,3,3,0,1,1,29,100129,1,7.3,6.1,No,3,2,4,5,2,5,5,53,7,0,None,0,3.75,0
+EMP00730,48,Female,Single,Bachelor,0,47,HR,HR Manager,3,1,1,2,1,2,25,73637,1,18.4,15.2,No,4,3,3,4,3,3,4,32,4,3,Rarely,100,3.34,0
+EMP01588,29,Male,Single,High School,1,22,R&D,Data Scientist,2,5,5,2,2,2,8,71200,2,13.2,7.4,Yes,1,4,2,1,3,3,4,75,5,4,Rarely,0,3.38,1
+EMP01637,32,Female,Single,Master,2,26,Marketing,Brand Manager,4,2,2,0,1,1,11,83973,0,9.7,10.8,No,4,4,3,3,3,3,2,75,7,2,Rarely,100,2.95,0
+EMP00862,26,Male,Married,Master,2,45,Engineering,DevOps Engineer,5,2,0,0,0,4,6,99745,2,11.9,8.5,Yes,4,2,4,3,3,4,5,37,6,2,Frequently,0,3.44,1
+EMP00097,29,Male,Single,Master,3,12,Engineering,QA Engineer,5,21,2,3,3,5,8,98627,3,16.0,4.6,No,4,2,3,2,4,3,1,44,5,2,Frequently,0,4.49,1
+EMP01229,24,Male,Married,PhD,3,36,Marketing,Content Strategist,5,2,0,1,1,1,1,95298,1,12.0,8.1,No,3,3,3,2,1,5,5,45,1,3,Rarely,25,4.22,1
+EMP01879,26,Female,Married,High School,1,14,HR,HR Manager,1,1,1,2,2,1,4,40922,0,18.2,8.1,Yes,2,4,4,3,5,5,4,8,7,5,Rarely,0,2.63,1
+EMP01828,32,Male,Married,High School,2,33,Marketing,Brand Manager,1,1,1,1,2,1,12,69310,1,16.3,6.2,No,3,1,3,3,5,4,3,51,1,3,Rarely,0,3.03,1
+EMP00693,36,Female,Married,Master,0,15,R&D,Data Scientist,3,1,1,2,2,3,12,73790,1,10.3,12.0,No,4,1,3,5,4,2,5,0,4,4,Frequently,50,3.15,0
+EMP00570,53,Male,Single,Bachelor,2,54,Finance,Accountant,2,1,1,0,2,1,32,65035,1,5.0,4.8,No,3,4,4,5,3,3,1,61,6,5,Rarely,0,2.43,0
+EMP01253,39,Female,Married,Master,0,5,Marketing,Marketing Analyst,4,0,0,0,1,2,16,98932,0,13.6,5.5,No,1,3,2,4,1,2,3,13,4,4,Rarely,0,2.29,1
+EMP01946,48,Male,Single,Bachelor,1,58,Finance,Finance Manager,1,0,0,1,0,1,28,58183,3,10.1,6.8,Yes,1,2,4,5,4,3,5,12,5,3,None,75,4.08,1
+EMP01885,44,Female,Divorced,Bachelor,0,29,Finance,Finance Manager,2,15,0,0,0,2,21,72380,3,11.8,8.4,Yes,5,4,4,2,5,5,4,71,7,2,None,75,3.31,0
+EMP00120,30,Male,Single,Bachelor,0,24,Engineering,QA Engineer,1,2,2,0,1,2,9,40059,1,17.8,8.3,No,3,3,4,2,5,4,1,55,6,1,Rarely,0,4.12,1
+EMP00237,56,Male,Single,Master,3,5,Sales,Sales Lead,4,1,1,1,2,4,33,100737,3,15.5,12.4,No,4,4,3,2,2,4,5,3,6,5,Rarely,50,4.07,1
+EMP00201,27,Male,Married,Bachelor,3,16,R&D,Research Scientist,3,8,6,2,3,2,7,68757,0,13.8,11.8,No,3,2,1,3,2,4,4,11,6,5,Rarely,0,4.01,0
+EMP00230,23,Male,Single,Bachelor,1,29,Finance,Accountant,1,10,3,4,1,3,1,53756,1,11.3,10.4,No,3,2,5,4,3,4,1,44,7,1,Rarely,75,4.25,0
+EMP01446,50,Female,Single,Master,1,35,HR,HR Manager,1,17,1,1,1,1,26,55559,1,8.1,10.4,Yes,3,2,4,4,4,2,1,77,5,0,Rarely,25,3.71,1
+EMP00108,56,Male,Divorced,PhD,1,39,HR,HR Manager,1,6,4,0,1,2,36,52732,2,18.1,7.7,No,3,3,5,4,4,3,4,7,4,3,None,50,3.76,0
+EMP00783,60,Female,Married,Bachelor,0,26,Marketing,Brand Manager,3,0,0,1,1,5,36,93289,1,17.4,18.2,No,5,3,5,3,4,5,5,4,1,1,Rarely,75,3.56,0
+EMP01717,23,Male,Divorced,Bachelor,2,26,Marketing,Marketing Analyst,3,0,0,0,1,1,2,79540,3,19.5,6.6,No,4,4,4,2,3,2,5,21,3,2,Frequently,0,3.98,0
+EMP01236,58,Female,Married,Bachelor,1,11,Engineering,Software Engineer,3,2,0,1,1,3,38,81007,1,11.5,13.0,No,1,3,5,3,3,1,4,67,2,1,Rarely,0,3.37,0
+EMP01388,33,Male,Married,Master,2,49,Finance,Finance Manager,5,7,0,0,0,2,13,90993,1,16.8,6.8,No,1,5,5,4,4,2,5,32,6,3,Rarely,50,2.59,0
+EMP00269,28,Female,Single,Bachelor,1,42,Engineering,QA Engineer,2,5,0,1,1,1,5,71753,0,6.6,8.2,No,5,4,4,1,4,4,2,37,2,1,Rarely,0,3.92,1
+EMP00056,25,Male,Single,Bachelor,0,37,Finance,Finance Manager,1,9,0,1,1,2,1,48101,1,17.5,5.8,No,4,4,5,3,4,4,2,12,7,3,None,50,2.76,0
+EMP00748,48,Female,Single,Master,3,48,Engineering,DevOps Engineer,3,11,11,1,4,2,25,78260,2,11.4,6.0,No,3,4,5,4,1,4,2,42,5,1,Frequently,50,3.3,1
+EMP01451,34,Male,Married,Master,1,26,Sales,Sales Lead,1,1,0,1,0,1,12,53039,2,7.0,3.9,Yes,4,4,4,4,3,5,5,44,6,1,None,0,3.96,0
+EMP00098,33,Male,Single,Bachelor,3,46,R&D,Research Scientist,1,7,6,7,1,3,13,50199,3,10.5,6.8,No,4,1,3,4,5,5,4,66,2,3,Frequently,50,2.29,1
+EMP01490,57,Female,Married,PhD,1,32,R&D,ML Engineer,2,3,1,1,2,3,35,77699,0,10.5,3.8,No,4,2,4,4,4,4,5,36,6,1,None,50,3.97,0
+EMP00125,53,Female,Married,Bachelor,3,45,Engineering,DevOps Engineer,1,2,2,0,2,4,30,65186,0,12.5,3.9,No,5,4,4,3,1,5,5,5,3,6,None,75,2.82,1
+EMP01786,29,Female,Married,Bachelor,3,28,Marketing,Content Strategist,2,17,1,2,2,1,9,67230,1,17.4,12.2,No,4,4,4,2,1,3,2,54,1,2,Frequently,0,4.56,0
+EMP01735,24,Male,Married,PhD,1,21,Finance,Finance Manager,3,1,1,2,1,2,1,66237,3,9.8,5.0,No,3,1,5,3,5,4,4,1,1,3,Frequently,75,3.77,0
+EMP00496,33,Female,Single,Bachelor,3,39,Sales,Account Manager,3,2,2,0,0,3,13,84709,1,13.0,7.3,No,2,4,4,4,5,3,5,64,4,2,Rarely,75,3.74,0
+EMP01461,51,Male,Divorced,High School,4,43,Engineering,QA Engineer,4,6,2,0,3,3,28,97268,1,12.0,5.0,No,2,1,2,3,5,4,2,51,6,7,None,0,3.72,1
+EMP00795,57,Female,Married,Bachelor,0,23,Engineering,Software Engineer,3,15,0,0,0,1,33,88805,1,10.7,7.3,No,3,3,5,3,4,5,4,1,4,3,None,0,2.31,0
+EMP00165,53,Female,Divorced,Bachelor,4,14,Finance,Finance Manager,1,7,5,0,0,3,32,66432,0,10.6,7.2,No,5,3,5,3,4,4,3,39,3,3,Frequently,0,3.51,0
+EMP01693,60,Male,Single,High School,2,21,HR,HR Specialist,2,7,0,0,1,3,37,74557,0,14.4,9.3,Yes,3,3,5,4,4,4,4,47,5,5,Rarely,75,2.11,0
+EMP00277,59,Female,Married,High School,1,50,R&D,ML Engineer,1,6,4,1,0,1,38,55001,2,11.2,8.0,Yes,2,2,4,2,4,5,4,35,7,3,Frequently,100,4.49,1
+EMP00050,38,Male,Divorced,Master,2,17,Sales,Account Manager,3,6,0,1,1,3,16,82383,0,8.6,10.2,Yes,4,4,2,2,3,4,3,12,3,7,Frequently,0,3.37,1
+EMP00012,57,Female,Married,Master,3,51,R&D,Research Scientist,4,1,1,2,2,7,35,92695,0,12.1,6.9,No,1,4,4,3,3,5,4,20,1,3,None,25,2.77,1
+EMP01760,23,Female,Divorced,Bachelor,0,20,Sales,Sales Lead,2,1,1,0,0,2,0,59925,1,9.5,1.5,No,1,2,3,3,3,4,1,32,2,6,Rarely,0,3.11,1
+EMP01431,59,Female,Married,Master,1,28,Sales,Sales Lead,1,7,0,0,0,2,35,64444,3,12.9,8.9,Yes,2,4,4,3,4,3,4,16,5,3,Rarely,50,2.45,1
+EMP01808,46,Male,Divorced,Bachelor,0,2,Operations,Supply Chain Specialist,3,0,0,1,0,1,26,79487,1,12.2,10.3,No,2,1,4,4,2,3,4,34,4,2,Frequently,50,3.21,1
+EMP01134,26,Non-Binary,Single,Bachelor,4,52,Finance,Financial Analyst,4,0,0,1,1,2,2,84062,1,8.2,2.8,No,1,5,5,3,4,5,4,32,2,9,None,25,3.68,0
+EMP01389,30,Male,Married,Bachelor,1,34,Engineering,QA Engineer,4,0,0,1,1,5,6,82556,2,8.4,13.6,No,2,3,4,2,3,2,5,32,7,3,Rarely,25,3.39,1
+EMP01303,37,Female,Married,Bachelor,0,38,HR,HR Specialist,5,12,4,4,0,1,13,102159,0,12.4,13.9,Yes,2,3,2,2,2,3,2,53,7,3,Rarely,25,3.79,1
+EMP00371,49,Female,Single,Bachelor,0,9,Sales,Account Manager,4,1,1,2,0,3,27,93458,0,6.9,10.7,No,1,4,2,2,2,4,4,37,1,5,Frequently,50,2.57,1
+EMP01534,22,Female,Married,Master,0,35,Operations,Supply Chain Specialist,3,0,0,1,1,5,0,67594,0,20.0,11.0,Yes,5,4,5,4,5,3,3,76,5,2,Frequently,0,5.0,1
+EMP01205,55,Female,Divorced,Master,2,37,Operations,Operations Analyst,1,3,3,4,0,1,35,59757,2,13.0,8.8,Yes,1,3,5,4,4,3,4,68,4,2,Frequently,50,2.59,1
+EMP00672,24,Female,Single,Master,1,27,Operations,Operations Analyst,5,8,0,1,1,1,2,101367,0,8.6,7.5,Yes,4,5,4,4,4,4,3,10,5,0,Rarely,50,4.31,0
+EMP01164,32,Male,Married,PhD,0,2,Operations,Logistics Coordinator,1,11,5,6,0,3,10,46147,0,13.8,3.3,No,5,3,2,3,3,5,4,42,2,5,None,50,4.32,0
+EMP00235,53,Female,Single,Bachelor,2,8,Marketing,Marketing Analyst,4,4,1,0,2,1,32,90626,0,11.7,3.8,No,5,5,5,3,3,4,1,52,5,3,Rarely,50,4.03,0
+EMP00190,38,Female,Married,High School,1,47,Sales,Sales Lead,1,0,0,1,0,2,17,52314,0,8.8,13.8,No,3,3,4,1,3,5,3,19,5,5,None,25,1.99,1
+EMP01748,22,Female,Married,Master,1,41,Finance,Financial Analyst,1,3,0,1,0,1,2,50514,1,14.2,9.7,Yes,2,3,5,4,1,3,4,22,5,4,Rarely,50,2.74,1
+EMP00519,50,Female,Divorced,Master,2,30,Operations,Supply Chain Specialist,3,5,1,0,0,2,26,77740,0,20.4,10.1,No,2,4,4,5,5,4,5,49,4,3,Frequently,0,3.61,0
+EMP01354,31,Female,Married,Bachelor,2,1,Marketing,Content Strategist,4,2,0,1,1,0,9,84162,1,19.2,7.0,No,3,1,5,4,4,4,4,22,1,2,Rarely,25,3.92,0
+EMP00834,51,Female,Married,High School,1,57,Sales,Sales Rep,3,3,0,1,1,2,27,83240,2,13.3,8.4,No,4,4,5,5,4,3,5,68,3,3,Frequently,75,5.0,0
+EMP00951,26,Female,Single,Bachelor,4,23,Operations,Supply Chain Specialist,1,5,0,1,1,1,5,63919,2,11.7,6.4,No,4,2,5,5,3,4,3,63,4,2,Rarely,75,3.3,0
+EMP00205,41,Female,Single,Bachelor,1,46,Operations,Operations Analyst,3,3,1,2,2,3,18,84063,1,13.2,9.6,Yes,4,4,2,4,4,5,3,73,4,5,Frequently,25,3.67,0
+EMP00833,27,Male,Married,Bachelor,0,4,Engineering,Software Engineer,3,1,1,0,2,2,3,76482,3,10.6,8.9,No,5,3,4,4,2,3,5,70,4,2,Rarely,25,4.12,0
+EMP00220,32,Female,Divorced,Bachelor,2,21,Marketing,Content Strategist,3,0,0,0,1,3,10,71219,1,16.3,11.8,No,3,5,4,4,3,3,4,49,3,1,None,25,3.84,0
+EMP00891,61,Male,Married,High School,2,33,Sales,Sales Rep,2,5,2,1,1,4,38,69861,1,15.0,6.5,No,2,5,3,5,3,3,5,29,1,2,Rarely,25,3.69,0
+EMP00761,35,Female,Married,Master,3,48,Sales,Account Manager,3,13,0,0,1,2,12,73005,2,17.0,15.3,No,2,2,3,5,4,3,1,54,4,2,None,100,4.12,1
+EMP00168,33,Female,Married,Master,3,1,Sales,Account Manager,2,10,0,0,1,1,12,68832,1,6.6,6.0,No,2,5,3,4,1,4,3,38,6,3,None,25,4.12,0
+EMP00155,24,Male,Married,Master,2,4,Engineering,QA Engineer,1,10,0,1,1,2,3,45321,1,12.2,13.6,No,3,4,1,1,4,3,3,27,3,3,Rarely,0,3.26,0
+EMP01981,28,Female,Single,Bachelor,1,14,Sales,Sales Lead,2,0,0,1,1,3,7,53883,2,19.2,6.2,No,3,4,5,5,3,1,2,78,7,4,Rarely,100,3.58,0
+EMP01371,56,Male,Single,High School,2,25,Operations,Logistics Coordinator,2,2,2,3,3,5,33,63402,0,11.3,8.2,Yes,4,3,5,4,4,3,2,13,5,1,None,25,3.41,1
+EMP01811,22,Male,Single,Bachelor,2,59,Sales,Account Manager,4,3,2,3,3,1,0,75798,0,12.5,10.3,No,3,2,3,1,4,4,5,57,7,4,Frequently,0,2.78,1
+EMP00402,33,Male,Single,Master,1,25,HR,HR Manager,1,12,3,1,4,1,10,47385,2,18.4,8.7,No,3,5,3,4,5,3,5,78,6,3,Rarely,0,3.26,0
+EMP00080,28,Male,Single,Bachelor,3,44,Engineering,Software Engineer,4,11,5,0,0,6,5,91814,0,20.0,6.4,No,3,4,4,3,5,4,4,75,3,3,None,0,2.94,0
+EMP01522,24,Female,Married,Bachelor,1,45,R&D,Research Scientist,1,5,2,0,3,0,2,50999,1,17.3,1.1,Yes,4,4,3,4,4,4,4,5,3,4,Rarely,0,4.62,0
+EMP01872,23,Male,Single,Bachelor,0,13,Engineering,Tech Lead,2,3,2,0,1,2,0,70889,0,7.1,11.2,Yes,2,3,4,4,4,4,1,13,5,5,Rarely,25,2.74,1
+EMP00089,56,Female,Single,Master,2,29,R&D,Research Scientist,3,3,2,3,1,1,34,87498,0,11.7,5.6,No,1,5,3,4,4,3,4,0,5,2,Rarely,25,3.91,0
+EMP01365,56,Male,Married,Bachelor,2,30,Operations,Logistics Coordinator,3,1,1,0,2,4,35,82945,1,19.1,2.0,No,3,4,3,3,3,4,3,69,7,2,Rarely,50,1.75,0
+EMP00074,47,Male,Divorced,Bachelor,4,24,Sales,Sales Rep,2,4,2,1,0,2,26,64489,0,18.8,9.0,No,5,3,4,4,1,5,5,57,5,1,Rarely,75,3.36,0
+EMP00534,50,Male,Single,Bachelor,2,39,HR,HR Manager,5,7,0,1,1,2,29,108166,0,14.5,6.7,No,4,3,1,3,1,4,3,73,6,4,Rarely,0,3.91,0
+EMP00588,32,Female,Single,High School,1,44,Sales,Sales Rep,2,2,2,0,3,1,8,56892,2,12.8,2.4,Yes,5,3,1,4,4,5,5,63,3,4,None,0,4.62,0
+EMP00846,41,Female,Married,PhD,0,58,Operations,Operations Analyst,2,1,1,0,1,1,19,62937,1,12.1,7.9,No,3,4,4,3,5,5,5,28,5,1,Rarely,75,3.09,0
+EMP01734,31,Male,Married,High School,0,30,Engineering,QA Engineer,2,9,0,0,1,5,8,54976,2,15.9,10.6,No,3,4,1,3,3,5,5,68,6,4,Frequently,50,3.72,0
+EMP00920,54,Female,Married,Master,0,33,Engineering,Tech Lead,2,9,0,1,0,2,30,61946,0,17.6,9.7,No,2,3,5,1,4,2,3,79,2,5,Rarely,75,3.12,0
+EMP01044,38,Non-Binary,Divorced,High School,2,12,Marketing,Marketing Analyst,1,5,0,1,1,1,18,44574,0,8.8,4.9,Yes,4,4,4,2,3,5,3,76,2,0,Rarely,0,4.45,0
+EMP01027,39,Male,Single,High School,1,52,R&D,Data Scientist,1,10,0,1,1,4,18,49682,1,11.7,9.1,No,2,2,3,4,3,4,3,62,7,2,Frequently,75,3.21,1
+EMP00630,42,Female,Married,Bachelor,0,17,Sales,Sales Rep,3,0,0,1,0,0,18,77643,1,17.5,10.6,No,4,4,2,5,4,3,4,52,1,3,Frequently,25,3.92,0
+EMP00134,50,Female,Single,Bachelor,1,45,Sales,Sales Rep,3,7,3,1,4,1,29,84496,2,16.1,7.0,Yes,3,4,1,4,3,3,5,42,6,4,Rarely,25,4.91,0
+EMP00303,54,Female,Married,Bachelor,2,2,Sales,Sales Lead,2,1,1,2,0,4,32,76536,1,18.0,15.8,No,4,5,1,5,4,5,3,70,5,6,None,50,2.76,0
+EMP00224,52,Male,Married,PhD,2,36,Engineering,DevOps Engineer,2,16,1,2,2,2,31,61277,0,15.6,8.0,Yes,3,3,4,5,3,4,5,43,2,1,None,50,2.62,0
+EMP01936,30,Female,Married,High School,2,36,R&D,Research Scientist,2,28,4,5,5,2,7,61683,2,13.4,7.7,No,5,5,3,2,2,2,3,79,7,5,Rarely,100,4.91,1
+EMP01768,27,Female,Divorced,Bachelor,0,54,Engineering,Tech Lead,1,9,1,2,1,1,3,48760,1,19.2,7.7,No,3,3,1,5,2,5,5,30,6,3,Rarely,25,3.65,0
+EMP01580,39,Male,Married,Bachelor,0,7,Engineering,QA Engineer,4,13,3,4,1,3,15,89934,1,21.9,3.2,Yes,3,4,5,3,5,3,5,44,7,1,None,0,2.6,0
+EMP01092,45,Male,Married,Bachelor,2,31,Marketing,Content Strategist,1,7,3,1,1,2,22,53978,1,16.8,14.2,No,3,1,5,3,4,4,4,12,1,2,None,50,3.82,0
+EMP01542,39,Male,Single,Bachelor,2,52,Operations,Logistics Coordinator,4,1,1,2,0,3,18,101402,3,19.6,10.4,No,4,2,5,2,3,5,3,69,4,0,None,25,2.94,1
+EMP01608,34,Male,Married,Master,3,13,Marketing,Brand Manager,3,11,1,2,1,2,11,77127,0,12.6,5.1,Yes,2,2,4,4,4,3,5,45,3,1,Rarely,0,5.0,1
+EMP00197,32,Female,Single,PhD,3,11,Operations,Operations Analyst,2,13,1,1,2,4,12,67741,1,13.1,8.8,No,5,1,4,3,3,2,4,9,7,4,None,50,3.62,0
+EMP00765,35,Male,Married,Bachelor,2,4,HR,HR Manager,4,1,0,0,1,2,11,86129,3,17.0,6.9,No,5,2,4,4,3,5,4,79,4,4,Rarely,75,3.34,0
+EMP01829,25,Male,Single,Master,0,44,Engineering,Tech Lead,1,0,0,0,1,3,1,57819,1,11.7,7.7,No,5,4,2,3,5,2,3,69,3,5,None,0,3.84,0
+EMP00305,53,Male,Single,Master,0,11,Operations,Supply Chain Specialist,3,0,0,1,0,2,29,77803,0,18.6,2.6,No,2,4,3,3,4,5,3,1,2,6,Rarely,50,3.91,1
+EMP00476,53,Male,Single,Master,2,14,Sales,Sales Lead,3,3,2,1,1,1,31,81638,1,16.3,9.9,No,4,1,4,5,3,5,5,14,2,4,None,0,4.9,0
+EMP00450,44,Male,Single,Bachelor,1,46,Engineering,Tech Lead,4,0,0,1,1,1,24,88381,2,5.1,10.7,No,4,4,5,2,1,5,2,59,5,2,Rarely,75,3.54,1
+EMP01410,61,Male,Married,Bachelor,2,38,Finance,Accountant,2,1,1,2,1,1,37,76471,1,9.6,10.7,No,4,3,5,3,5,5,4,41,1,2,None,75,3.52,0
+EMP00540,43,Male,Single,Bachelor,3,56,Sales,Account Manager,4,5,2,1,3,2,22,96610,1,12.4,12.3,No,2,1,4,3,5,3,5,39,3,2,None,0,4.39,0
+EMP01918,32,Female,Married,Master,0,12,Engineering,Tech Lead,2,2,1,1,2,2,10,68516,0,13.0,4.7,No,1,2,3,4,2,3,5,22,1,2,Rarely,75,2.48,1
+EMP01856,54,Female,Married,Bachelor,2,13,Engineering,QA Engineer,3,6,2,1,0,5,34,78989,1,8.8,6.5,No,3,4,3,4,3,5,3,63,6,1,None,75,3.63,0
+EMP00339,35,Female,Married,Bachelor,3,45,Engineering,QA Engineer,1,0,0,1,0,8,11,61897,1,17.7,9.1,Yes,3,4,2,4,3,3,3,53,1,3,Frequently,0,4.08,1
+EMP00191,59,Male,Single,Bachelor,0,33,Marketing,Brand Manager,4,2,2,3,0,4,39,94502,3,13.3,8.6,No,3,3,3,2,2,5,3,55,2,0,Frequently,100,3.43,1
+EMP01064,40,Female,Divorced,Master,3,30,Engineering,Tech Lead,2,9,1,2,0,3,17,65563,1,8.6,6.7,No,3,3,3,4,1,3,3,67,4,4,Frequently,100,2.17,0
+EMP01362,30,Male,Married,PhD,2,58,Engineering,QA Engineer,4,2,2,3,0,4,10,83660,2,20.2,6.4,No,5,5,3,5,2,5,4,39,1,4,Frequently,100,2.9,1
+EMP00132,60,Female,Married,High School,4,19,Finance,Financial Analyst,2,3,3,3,0,0,37,68831,3,14.3,7.3,No,4,4,2,3,2,5,4,21,2,2,Rarely,50,4.04,0
+EMP00660,34,Male,Divorced,Master,0,20,Marketing,Content Strategist,1,3,1,2,1,4,12,59171,1,19.6,8.3,No,5,1,3,4,5,4,2,74,4,3,None,75,3.12,0
+EMP00093,60,Female,Single,Bachelor,3,37,Engineering,DevOps Engineer,2,2,2,0,1,2,37,70807,2,17.1,4.5,No,4,5,3,5,5,5,4,44,4,3,Rarely,50,3.13,0
+EMP01994,60,Male,Divorced,PhD,2,23,Sales,Account Manager,1,12,1,0,0,4,37,66182,3,14.5,8.4,No,4,5,4,4,5,3,4,60,6,4,Rarely,0,2.34,0
+EMP00959,36,Male,Single,Bachelor,0,18,Engineering,Tech Lead,3,1,1,2,2,1,14,66236,1,10.3,9.7,No,4,5,3,3,3,4,3,66,5,4,None,0,4.11,0
+EMP01529,41,Male,Single,Bachelor,3,27,Finance,Accountant,2,1,0,1,1,2,20,62194,0,19.1,7.3,No,3,5,3,5,2,4,3,57,3,6,None,0,3.5,1
+EMP00616,56,Female,Divorced,Bachelor,0,39,Sales,Sales Lead,1,5,2,2,2,0,33,48998,1,5.0,4.9,Yes,3,4,4,4,3,1,4,68,6,3,None,100,2.68,0
+EMP00714,23,Male,Divorced,Bachelor,4,17,Engineering,DevOps Engineer,3,0,0,1,1,3,0,74841,0,18.0,5.6,No,4,1,4,4,4,4,2,57,2,3,Rarely,75,2.64,1
+EMP01482,31,Male,Married,Bachelor,2,10,Operations,Logistics Coordinator,1,6,2,3,1,3,9,57980,2,16.6,3.9,Yes,3,5,4,4,5,4,2,2,4,2,Frequently,75,3.73,0
+EMP00810,27,Male,Single,Master,2,5,Engineering,Software Engineer,5,3,2,1,0,4,3,98061,1,15.3,3.2,No,2,5,5,4,4,4,4,70,2,2,Rarely,50,3.44,0
+EMP00898,51,Female,Single,High School,0,15,Operations,Supply Chain Specialist,2,0,0,0,0,3,27,69861,0,7.4,6.8,No,3,1,3,3,2,4,4,3,6,1,None,75,4.17,1
+EMP00260,37,Female,Single,Bachelor,1,8,Engineering,QA Engineer,2,0,0,0,0,3,17,59197,1,6.3,9.8,No,4,3,3,3,4,5,3,19,4,4,Rarely,25,3.94,0
+EMP00052,61,Male,Married,Master,3,4,Engineering,DevOps Engineer,3,0,0,1,1,1,40,87787,0,13.4,8.7,Yes,3,5,4,2,4,5,5,8,3,4,Rarely,0,3.65,1
+EMP00988,46,Male,Single,Bachelor,2,36,Engineering,QA Engineer,3,0,0,1,1,1,23,81334,1,9.3,13.9,No,5,5,2,2,4,2,4,71,5,5,Rarely,25,2.95,0
+EMP01993,53,Female,Married,Master,2,22,R&D,Research Scientist,4,4,3,4,0,2,33,102148,2,9.8,7.4,No,2,4,4,2,2,5,3,47,3,2,Rarely,0,4.55,0
+EMP00511,37,Female,Single,Master,0,23,Finance,Financial Analyst,5,1,1,2,1,0,14,102590,2,11.2,10.8,Yes,1,5,5,4,3,5,3,35,5,1,Rarely,100,3.57,1
+EMP00976,31,Male,Married,Master,0,56,Marketing,Brand Manager,1,5,3,0,0,2,7,54849,0,13.3,6.3,No,4,1,4,4,4,4,3,42,6,5,Frequently,25,3.35,1
+EMP00646,26,Female,Married,Bachelor,1,28,Sales,Sales Rep,1,11,6,2,2,1,2,54515,3,13.6,10.1,No,5,2,4,5,5,5,3,10,1,0,Frequently,50,3.49,0
+EMP01116,54,Female,Married,Bachelor,0,51,Marketing,Marketing Analyst,4,8,1,0,2,4,30,96907,0,13.1,6.3,No,4,2,4,4,3,5,3,30,4,3,Rarely,75,2.17,0
+EMP01657,53,Male,Single,PhD,1,56,Marketing,Content Strategist,2,0,0,1,0,3,32,71036,0,12.6,4.9,Yes,1,5,3,3,4,5,4,18,4,3,Rarely,50,3.22,1
+EMP00192,45,Non-Binary,Divorced,Master,4,7,HR,Recruiter,3,1,0,1,1,0,23,91434,1,11.6,11.7,No,5,4,2,3,3,4,4,1,6,1,Frequently,50,3.05,0
+EMP00271,38,Female,Single,Bachelor,2,14,R&D,ML Engineer,2,4,1,0,0,1,17,59822,1,14.9,4.1,No,4,4,4,2,1,3,5,62,5,2,Rarely,0,3.02,0
+EMP01099,29,Male,Single,Bachelor,1,1,Operations,Operations Analyst,1,6,1,0,0,1,7,41944,0,12.7,8.5,No,2,4,5,3,4,4,3,39,5,3,Rarely,0,3.49,0
+EMP01614,60,Male,Married,Master,2,39,Finance,Financial Analyst,1,11,6,6,4,0,39,57241,1,14.8,9.2,Yes,4,5,5,5,3,3,2,67,7,1,Rarely,75,3.32,1
+EMP01278,51,Male,Married,Bachelor,3,8,Sales,Sales Lead,4,3,1,2,2,1,27,90803,2,15.1,12.1,Yes,5,5,5,2,3,5,4,27,6,4,None,25,4.05,0
+EMP00739,42,Female,Married,Master,2,57,Operations,Logistics Coordinator,1,1,1,0,0,4,19,61627,3,15.6,6.9,No,3,4,4,4,4,4,3,26,6,3,Rarely,25,3.62,0
+EMP01955,39,Male,Married,Bachelor,0,50,HR,Recruiter,2,6,0,1,1,3,17,69209,1,14.4,9.7,No,1,4,4,3,2,5,3,33,3,1,Rarely,0,2.74,0
+EMP01197,42,Male,Divorced,PhD,1,36,Marketing,Marketing Analyst,3,0,0,1,1,2,21,74899,3,12.8,6.7,Yes,4,2,3,3,2,4,4,53,5,4,None,0,2.93,1
+EMP01575,38,Female,Married,High School,2,34,Sales,Sales Lead,2,1,1,2,2,1,17,64632,1,13.7,13.1,Yes,4,3,3,5,5,1,4,73,2,4,Rarely,0,2.64,0
+EMP01143,38,Female,Divorced,Bachelor,0,13,Operations,Operations Analyst,1,11,6,0,0,2,15,49668,2,13.8,10.1,No,4,4,3,4,4,3,3,53,7,2,Rarely,100,2.83,0
+EMP00970,57,Male,Single,Master,4,39,Finance,Finance Manager,5,1,0,1,1,5,33,110270,1,11.8,8.3,No,3,4,5,2,2,4,2,73,3,0,None,50,3.25,1
+EMP00482,34,Male,Married,Bachelor,2,37,Engineering,Software Engineer,2,7,2,1,0,1,10,68945,0,11.1,8.2,No,4,1,4,2,2,3,5,1,7,2,None,100,4.11,1
+EMP00029,37,Male,Single,Bachelor,0,37,Sales,Account Manager,3,3,1,1,1,0,16,75625,1,9.7,4.2,Yes,2,3,4,5,3,1,3,7,7,0,Rarely,50,3.49,1
+EMP01518,41,Male,Single,High School,2,4,R&D,Research Scientist,1,4,0,1,0,1,19,54910,1,7.7,5.2,Yes,5,4,2,5,4,2,3,69,6,3,None,25,3.58,0
+EMP01441,39,Male,Married,Bachelor,0,15,Marketing,Content Strategist,4,4,0,1,1,1,17,83764,0,23.7,8.8,No,3,4,2,5,4,5,5,43,7,3,Rarely,50,2.82,0
+EMP01587,59,Female,Married,Bachelor,0,25,Engineering,Tech Lead,4,3,3,4,4,4,39,100916,0,9.0,2.9,No,3,3,5,3,3,3,2,79,1,4,Rarely,25,3.7,0
+EMP00918,44,Female,Married,Bachelor,0,46,Finance,Accountant,4,5,1,1,0,9,23,96797,3,5.0,11.0,Yes,3,1,5,2,4,5,3,58,3,2,Rarely,50,3.43,1
+EMP01053,34,Male,Single,Bachelor,1,1,R&D,Research Scientist,1,5,3,0,0,4,11,54063,0,15.2,9.5,No,2,3,4,4,4,5,4,36,4,2,Rarely,75,3.16,1
+EMP01732,52,Male,Single,Bachelor,3,27,Finance,Finance Manager,2,1,1,2,0,2,28,65960,0,20.9,5.1,No,3,2,1,5,5,4,3,14,2,3,Frequently,0,3.84,1
+EMP00162,54,Male,Married,Bachelor,2,26,Finance,Accountant,4,1,1,1,1,5,32,95825,2,16.6,9.4,Yes,3,2,4,3,3,4,5,25,2,4,None,100,1.93,1
+EMP01226,46,Male,Married,High School,1,55,Finance,Financial Analyst,5,5,0,1,1,3,26,106933,2,15.7,2.2,No,1,2,4,5,3,3,4,27,7,1,Frequently,50,3.78,1
+EMP01745,41,Male,Divorced,High School,0,38,Operations,Operations Analyst,3,5,2,0,1,1,21,76968,3,17.3,6.1,No,4,2,4,3,3,3,5,50,7,1,Rarely,0,3.8,0
+EMP00480,58,Female,Married,Bachelor,4,55,Marketing,Content Strategist,1,15,0,1,1,2,37,58968,0,11.0,7.1,No,3,1,4,1,2,4,3,39,5,1,Rarely,0,2.79,1
+EMP01610,54,Male,Married,PhD,0,14,Marketing,Content Strategist,3,3,2,3,2,2,34,81981,1,16.6,6.5,No,4,3,2,4,1,3,5,74,2,5,Rarely,0,3.54,0
+EMP01864,35,Male,Married,Master,1,58,Engineering,DevOps Engineer,2,0,0,1,1,3,15,53996,2,14.4,9.3,No,5,5,5,3,5,5,5,56,2,3,None,0,2.93,0
+EMP01621,61,Male,Single,PhD,2,40,Operations,Supply Chain Specialist,2,3,3,3,4,2,38,67969,1,15.3,10.5,No,3,4,4,3,4,3,3,13,5,2,Rarely,0,2.69,0
+EMP01366,39,Female,Single,Master,3,2,Operations,Supply Chain Specialist,4,3,3,4,1,1,18,86949,1,13.8,6.4,No,1,4,4,4,3,4,5,67,7,6,None,50,4.74,0
+EMP00119,48,Male,Divorced,Bachelor,2,41,HR,Recruiter,3,4,4,5,0,1,26,79986,0,18.5,1.6,No,3,3,4,4,3,4,3,50,6,3,None,100,3.25,0
+EMP01484,43,Female,Single,Bachelor,1,41,Engineering,Software Engineer,1,7,3,1,3,2,22,53030,2,9.5,7.5,No,5,4,3,3,5,4,4,4,5,3,Frequently,0,2.77,0
+EMP00001,60,Male,Single,High School,0,4,Sales,Sales Rep,1,11,0,1,0,1,39,56706,1,11.1,4.2,No,3,4,2,3,3,4,3,28,7,2,None,75,3.24,0
+EMP01842,22,Female,Divorced,Bachelor,2,38,Engineering,QA Engineer,2,8,8,1,0,1,2,61838,0,12.4,15.5,No,5,3,2,1,4,3,4,49,6,1,Rarely,25,3.07,0
+EMP00366,34,Male,Single,Master,0,5,Finance,Accountant,3,5,2,3,3,3,10,71421,1,18.7,7.6,No,4,4,1,3,5,5,3,46,7,2,Rarely,25,3.3,0
+EMP01150,35,Female,Married,Master,2,29,Finance,Financial Analyst,5,9,0,1,0,2,14,101174,0,11.4,7.7,Yes,4,4,1,1,3,3,2,25,1,2,Frequently,0,2.81,1
+EMP01581,52,Female,Married,PhD,0,27,Engineering,Software Engineer,5,1,0,0,1,0,30,111428,2,14.4,9.3,Yes,3,3,4,5,5,3,3,19,7,3,None,50,2.88,0
+EMP01719,27,Male,Married,Bachelor,1,40,R&D,ML Engineer,4,3,1,2,0,1,6,87036,2,17.8,8.8,No,4,3,5,3,2,2,4,53,3,8,Rarely,75,3.59,0
+EMP00759,36,Non-Binary,Single,Bachelor,2,44,Engineering,Software Engineer,2,0,0,1,1,2,14,60669,1,16.9,6.8,No,3,4,3,5,4,3,4,18,7,5,Rarely,50,4.75,0
+EMP01374,46,Female,Married,Master,0,6,Marketing,Brand Manager,3,10,5,0,3,2,25,85830,1,5.0,7.6,No,2,1,4,4,3,5,3,55,3,2,Frequently,0,4.1,1
+EMP01920,52,Male,Single,Bachelor,0,56,Engineering,Software Engineer,4,6,6,1,1,3,28,90696,1,11.3,2.3,Yes,5,3,2,1,3,4,3,1,1,5,None,50,4.01,0
+EMP00411,58,Male,Married,High School,2,10,Finance,Accountant,1,1,1,0,2,3,37,58254,2,18.3,5.9,Yes,3,3,1,2,3,1,3,14,3,1,Rarely,75,4.11,1
+EMP01504,55,Female,Married,Bachelor,0,23,HR,HR Manager,3,18,0,1,1,1,31,86622,0,9.6,9.1,Yes,2,2,2,5,4,1,3,0,3,3,None,50,3.99,1
+EMP00829,49,Male,Married,Bachelor,3,35,R&D,Research Scientist,1,7,0,1,1,2,26,53873,0,14.5,9.3,No,4,4,5,5,5,2,5,29,6,4,Rarely,0,3.45,0
+EMP00729,24,Male,Single,Master,3,42,R&D,Data Scientist,4,0,0,0,1,2,4,75341,2,18.6,5.9,No,4,3,4,5,4,5,5,44,4,1,Rarely,50,3.42,0
+EMP01664,53,Female,Married,Bachelor,0,26,Operations,Logistics Coordinator,3,6,2,2,1,2,31,78558,0,8.6,6.3,No,4,4,5,4,3,5,3,64,2,3,None,0,2.77,0
+EMP00582,36,Male,Divorced,Bachelor,0,30,Sales,Account Manager,4,6,1,1,0,6,16,90665,2,15.8,6.6,No,2,3,4,4,1,4,4,77,6,5,None,50,3.49,0
+EMP01104,35,Male,Married,Bachelor,2,48,Engineering,QA Engineer,4,0,0,0,0,4,13,85724,2,6.0,8.0,No,4,3,5,5,4,2,5,7,5,4,None,25,4.5,0
+EMP01395,55,Female,Married,Master,0,14,HR,Recruiter,1,3,1,2,0,2,34,61061,0,5.7,11.2,No,4,4,4,5,4,5,3,68,5,4,Frequently,0,3.47,0
+EMP01437,53,Female,Divorced,PhD,2,28,R&D,Research Scientist,3,1,1,2,0,5,33,85397,0,14.5,5.8,Yes,2,4,2,4,4,4,4,51,5,2,Rarely,0,2.99,1
+EMP01452,48,Female,Single,Bachelor,0,51,Engineering,DevOps Engineer,3,1,1,2,2,4,24,77405,1,9.7,11.0,Yes,5,5,4,4,2,4,4,73,6,3,None,0,3.9,1
+EMP00892,43,Female,Married,Master,3,2,Sales,Sales Lead,2,5,5,2,0,2,22,74081,0,14.5,8.7,Yes,4,5,3,2,4,5,3,7,3,4,Rarely,0,5.0,0
+EMP01952,60,Male,Married,Bachelor,1,12,HR,HR Specialist,1,15,0,1,1,1,36,43181,0,14.8,9.8,No,3,4,3,4,5,5,4,65,1,3,Frequently,50,3.8,0
+EMP01066,22,Male,Divorced,High School,0,51,Operations,Logistics Coordinator,2,0,0,0,1,2,0,67701,2,6.9,6.0,No,5,3,1,3,4,4,4,49,4,5,Rarely,50,3.79,0
+EMP00820,52,Male,Divorced,Bachelor,1,3,R&D,ML Engineer,2,3,1,0,2,3,31,71793,3,14.5,3.2,Yes,3,5,3,1,2,3,3,9,5,3,Frequently,50,2.47,1
+EMP01685,57,Male,Single,Master,3,51,HR,HR Specialist,2,0,0,0,0,2,37,65971,0,10.0,7.2,Yes,5,1,3,2,4,5,3,40,7,6,None,25,3.65,1
+EMP00587,44,Male,Married,Bachelor,0,22,Engineering,DevOps Engineer,4,4,2,2,2,1,23,85879,0,13.3,10.9,Yes,3,2,3,5,3,3,5,34,7,6,Frequently,50,2.95,1
+EMP01457,45,Female,Married,Bachelor,4,10,Engineering,Tech Lead,4,2,2,0,0,0,24,95367,1,11.4,7.8,No,5,1,4,4,2,4,4,47,1,2,None,50,3.33,0
+EMP01634,49,Male,Married,Master,0,51,Operations,Supply Chain Specialist,1,6,1,0,0,4,25,64711,0,9.6,5.3,No,3,3,4,5,4,2,4,14,5,2,None,75,2.49,0
+EMP01317,37,Male,Single,Master,4,51,Sales,Sales Lead,2,1,1,2,1,3,17,65737,3,15.3,7.7,No,2,3,4,4,4,4,4,30,2,2,Frequently,25,3.81,1
+EMP00146,51,Male,Divorced,High School,1,30,Marketing,Marketing Analyst,4,5,4,1,0,4,28,92073,0,15.0,7.5,No,1,4,4,2,5,1,2,41,6,4,Frequently,25,3.44,1
+EMP00109,22,Female,Married,Bachelor,0,58,Engineering,Tech Lead,1,1,1,0,2,2,1,46342,0,15.3,9.1,No,3,5,5,3,3,3,5,19,2,5,Frequently,75,3.14,1
+EMP00117,35,Female,Single,High School,2,59,Operations,Operations Analyst,2,2,1,2,1,2,15,62681,0,13.2,12.9,No,3,3,4,2,5,2,4,33,3,2,Rarely,75,3.95,1
+EMP01898,43,Female,Single,Master,0,36,Marketing,Brand Manager,5,4,4,2,0,4,19,94680,2,17.1,10.4,No,2,5,4,3,3,4,4,76,1,2,None,50,2.57,0
+EMP01005,44,Male,Married,Bachelor,1,8,Sales,Sales Lead,3,2,0,1,0,2,20,76917,2,10.0,8.0,No,3,5,5,4,5,5,3,16,7,2,Frequently,50,3.85,0
+EMP01616,59,Male,Single,High School,1,54,Engineering,DevOps Engineer,4,11,2,3,0,2,37,93844,1,13.7,10.6,No,1,4,4,4,3,5,4,29,2,1,Rarely,100,3.25,0
+EMP00340,33,Male,Married,High School,0,57,Operations,Supply Chain Specialist,1,6,1,1,2,4,13,48210,1,15.8,8.4,No,1,1,1,1,1,4,3,75,6,1,None,0,4.07,1
+EMP01642,43,Female,Married,High School,3,27,Engineering,Software Engineer,1,4,0,0,1,1,22,56092,0,10.0,6.4,Yes,4,4,1,4,4,4,4,3,7,3,Frequently,50,2.55,1
+EMP01160,50,Female,Married,High School,2,8,HR,HR Specialist,2,12,5,1,1,5,30,67827,2,15.0,7.7,No,4,2,2,4,2,2,4,18,2,4,Frequently,0,3.43,1
+EMP01501,44,Female,Divorced,Bachelor,2,11,Finance,Financial Analyst,2,12,7,3,1,7,23,70867,1,11.4,10.1,No,2,1,5,4,5,4,4,11,5,2,Rarely,100,2.97,0
+EMP00721,37,Female,Divorced,Master,0,46,R&D,Data Scientist,3,5,5,1,1,3,15,72949,1,14.7,9.4,No,3,5,3,4,5,4,5,58,7,2,Rarely,25,2.15,0
+EMP00689,59,Female,Single,High School,3,10,Engineering,DevOps Engineer,3,1,1,2,1,1,38,81195,0,10.2,9.7,No,4,5,4,4,1,4,2,61,4,3,Frequently,50,3.85,1
+EMP00148,49,Female,Married,Master,0,7,Marketing,Marketing Analyst,2,1,1,2,2,3,25,72193,0,12.7,8.8,No,1,5,1,3,5,4,2,17,1,3,Frequently,25,3.67,1
+EMP01638,41,Female,Married,Bachelor,1,17,Sales,Sales Lead,4,0,0,0,0,3,19,83387,3,10.1,6.3,No,5,4,4,3,3,4,4,68,7,2,Frequently,100,4.37,0
+EMP00370,40,Female,Married,Master,0,14,Engineering,DevOps Engineer,2,0,0,1,0,0,17,65639,1,19.1,8.4,No,2,4,3,4,4,5,4,77,2,2,None,50,3.23,0
+EMP01034,28,Male,Single,PhD,4,16,Engineering,Tech Lead,2,17,3,2,0,2,6,71908,0,5.0,3.4,No,4,5,5,3,3,4,2,53,3,2,None,25,4.71,0
+EMP00644,26,Female,Single,Bachelor,1,54,Marketing,Marketing Analyst,4,3,1,2,2,1,5,86712,0,12.3,7.1,No,5,3,3,5,3,4,1,2,2,3,Rarely,25,4.02,0
+EMP00405,47,Male,Married,High School,1,4,Finance,Finance Manager,5,11,0,0,1,2,27,107829,0,7.0,7.4,No,3,4,3,4,4,3,2,20,2,1,Rarely,25,2.73,0
+EMP01171,38,Female,Married,Bachelor,3,44,HR,Recruiter,2,0,0,1,1,4,16,58812,1,19.6,10.0,Yes,1,3,1,5,4,4,4,41,7,2,None,75,4.09,1
+EMP01827,52,Female,Married,Master,2,31,Finance,Accountant,3,21,6,0,0,1,32,81302,1,13.0,6.3,No,4,4,4,2,4,3,3,33,1,3,Rarely,25,3.72,0
+EMP00122,36,Female,Married,Bachelor,0,49,Marketing,Content Strategist,1,11,6,3,2,2,15,57365,0,16.8,10.0,No,4,4,2,3,4,4,3,62,4,2,None,75,3.47,0
+EMP01485,47,Male,Single,High School,2,57,Finance,Accountant,5,7,4,0,1,1,26,108949,2,9.4,13.4,No,3,4,3,3,5,4,3,19,6,1,Frequently,50,3.1,0
+EMP00995,58,Female,Single,Bachelor,0,24,Marketing,Marketing Analyst,2,0,0,1,1,0,38,67772,1,18.9,11.0,No,4,4,4,5,2,4,3,68,7,4,None,75,3.9,0
+EMP01158,25,Male,Married,Master,2,29,Engineering,QA Engineer,2,2,0,1,1,3,5,59089,2,10.3,7.0,No,1,4,3,3,5,4,4,55,5,1,None,25,3.43,0
+EMP01113,28,Female,Single,Bachelor,3,23,Sales,Sales Lead,1,2,2,0,0,3,5,52584,1,5.0,6.3,No,4,2,1,3,4,3,3,55,2,1,None,0,4.32,0
+EMP01183,61,Non-Binary,Single,Bachelor,0,44,Operations,Logistics Coordinator,1,5,2,1,2,5,40,60902,3,7.9,8.6,Yes,4,2,4,4,4,4,4,72,1,0,None,25,3.05,1
+EMP00469,30,Female,Divorced,PhD,0,12,Sales,Account Manager,2,2,2,3,3,4,8,58778,0,19.2,11.5,No,2,5,4,4,5,5,3,70,5,5,Rarely,50,3.67,1
+EMP01547,46,Female,Single,Master,1,4,Finance,Accountant,4,2,2,0,2,0,24,94728,1,10.5,7.6,Yes,4,4,3,1,4,5,5,39,7,0,None,75,3.41,1
+EMP00304,42,Female,Married,High School,1,11,Operations,Logistics Coordinator,3,3,3,4,1,1,22,78246,2,12.5,7.7,No,5,4,3,5,4,5,3,76,5,4,None,50,3.87,0
+EMP00423,25,Male,Married,PhD,2,57,Finance,Finance Manager,1,6,4,1,1,1,5,42968,1,11.7,5.4,No,1,5,3,5,4,5,5,71,2,3,None,25,2.88,0
+EMP00889,56,Male,Single,Bachelor,3,3,Engineering,QA Engineer,3,6,0,1,0,4,34,73892,1,5.3,8.0,No,4,3,4,2,2,2,5,65,4,4,None,50,3.84,0
+EMP00619,26,Male,Married,High School,2,23,R&D,Data Scientist,4,4,1,0,2,4,6,81002,3,16.0,9.5,Yes,3,5,4,3,4,3,4,73,7,1,Rarely,0,3.22,0
+EMP00284,51,Male,Married,Bachelor,2,4,R&D,Research Scientist,4,18,5,0,3,0,27,98447,1,6.4,10.0,Yes,4,3,4,4,4,5,1,64,1,3,Rarely,50,4.06,0
+EMP01865,31,Male,Single,Bachelor,0,36,Finance,Financial Analyst,3,1,1,2,0,3,8,72533,0,7.7,4.6,No,5,5,5,3,5,3,5,67,6,0,Frequently,100,3.68,1
+EMP01029,55,Female,Single,Master,1,8,HR,HR Specialist,2,0,0,0,0,1,33,82020,1,11.4,10.2,No,3,3,3,2,4,3,5,33,3,0,Frequently,0,2.8,1
+EMP00569,27,Male,Single,Bachelor,4,57,Finance,Accountant,1,21,4,3,3,3,3,50630,0,8.4,5.8,No,4,4,4,4,3,2,5,39,2,2,Frequently,0,2.39,0
+EMP01207,43,Male,Single,PhD,0,13,Sales,Sales Rep,3,0,0,1,0,3,19,76395,0,15.4,4.8,No,4,4,4,2,4,3,4,73,6,3,None,0,3.94,0
+EMP00008,44,Male,Married,PhD,3,5,Finance,Financial Analyst,1,9,0,0,1,2,21,59412,3,5.0,10.9,No,5,5,5,2,4,4,2,10,3,1,None,25,2.64,0
+EMP00023,54,Male,Married,High School,2,55,Operations,Logistics Coordinator,1,4,2,3,2,2,31,61077,3,10.7,10.2,No,4,4,4,3,1,3,4,23,2,4,None,50,2.99,0
+EMP01472,25,Female,Single,High School,1,5,Engineering,Software Engineer,4,10,4,0,0,1,3,82395,1,17.1,8.6,No,3,3,5,5,4,1,5,43,3,2,Frequently,50,2.83,0
+EMP01744,26,Male,Married,Bachelor,1,48,Sales,Sales Rep,2,23,1,2,2,6,2,68080,3,11.4,6.6,Yes,2,4,5,4,1,3,4,16,7,1,None,50,3.91,1
+EMP01838,34,Female,Married,High School,0,42,HR,Recruiter,2,4,2,3,0,2,10,66036,2,13.1,9.1,No,1,4,4,4,3,3,5,58,3,2,Rarely,75,4.38,0
+EMP00297,56,Female,Married,Master,4,55,Marketing,Content Strategist,1,0,0,1,0,1,33,52157,3,10.5,12.5,No,3,3,4,5,4,3,2,57,1,4,Frequently,25,3.43,1
+EMP01429,57,Female,Single,High School,0,10,Sales,Sales Rep,2,5,3,4,0,3,36,64712,1,9.4,11.0,No,3,3,2,3,1,1,4,24,7,2,Frequently,0,4.56,0
+EMP00035,30,Male,Single,Bachelor,3,21,Engineering,Tech Lead,5,0,0,0,1,3,7,99807,0,11.3,3.7,No,2,4,4,4,4,4,3,67,2,2,None,100,3.66,1
+EMP01599,41,Female,Single,Bachelor,1,34,Sales,Sales Lead,2,13,0,0,1,1,17,73317,0,9.8,8.1,Yes,3,4,2,3,4,4,3,36,6,5,Rarely,25,2.74,0
+EMP00752,51,Male,Single,High School,3,19,Marketing,Content Strategist,4,1,1,1,2,4,29,87519,1,20.0,5.9,Yes,3,3,5,2,2,5,3,23,1,6,Rarely,100,3.56,1
+EMP01720,38,Male,Married,Master,0,15,Sales,Account Manager,4,8,0,0,0,0,15,92562,3,12.9,8.6,No,4,2,3,3,3,2,4,53,5,7,None,50,4.0,0
+EMP01086,53,Female,Married,Bachelor,1,39,Sales,Sales Rep,1,10,1,2,0,2,32,70541,2,16.5,5.8,No,4,4,4,2,4,3,4,73,4,4,None,100,2.8,0
+EMP00659,22,Female,Divorced,PhD,1,56,Engineering,Tech Lead,1,0,0,1,1,3,1,51436,1,17.9,8.8,No,4,4,1,5,4,5,3,49,7,0,Frequently,75,3.99,0
+EMP01097,54,Female,Single,Bachelor,0,21,R&D,Data Scientist,3,1,0,1,1,1,30,78957,0,13.2,7.3,Yes,3,1,5,5,3,1,4,31,2,4,Rarely,0,2.61,1
+EMP00676,51,Male,Single,Master,0,24,Operations,Logistics Coordinator,4,0,0,0,0,2,27,99282,3,6.7,9.2,No,3,4,3,4,4,3,3,4,2,2,Rarely,50,4.31,0
+EMP01792,59,Male,Single,Bachelor,2,35,Operations,Logistics Coordinator,5,6,0,1,1,1,36,105153,0,7.1,6.9,No,5,4,4,2,2,3,4,42,2,2,Rarely,100,4.31,1
+EMP00072,39,Male,Married,Bachelor,1,50,Sales,Sales Lead,3,2,2,3,0,6,18,78869,0,17.9,11.8,No,3,5,4,3,4,5,5,73,7,2,Frequently,0,2.57,0
+EMP01230,58,Male,Married,Bachelor,2,13,Finance,Accountant,1,0,0,0,1,5,34,67982,0,18.6,4.2,No,4,5,5,4,1,3,5,37,7,3,Frequently,25,4.19,1
+EMP00313,61,Male,Married,PhD,1,35,Marketing,Marketing Analyst,1,6,4,4,0,5,38,60912,2,16.9,1.2,Yes,3,3,2,2,3,5,4,43,3,2,None,0,2.96,1
+EMP00443,31,Non-Binary,Married,Bachelor,3,41,Sales,Sales Lead,3,9,1,0,2,1,11,76971,1,17.4,5.0,No,5,4,5,3,4,5,3,54,1,4,Rarely,50,2.83,0
+EMP01661,40,Female,Single,Bachelor,2,12,Sales,Sales Rep,5,3,3,4,0,3,19,108421,0,6.9,8.2,Yes,4,3,3,5,5,3,3,32,5,2,Rarely,0,3.7,0
+EMP01458,56,Male,Married,Bachelor,2,48,Operations,Logistics Coordinator,3,3,2,3,2,2,32,79859,1,12.9,7.4,Yes,4,4,3,1,2,4,1,79,1,5,None,75,3.72,1
+EMP00557,49,Female,Married,Master,3,9,Marketing,Brand Manager,4,0,0,1,0,2,28,94000,1,15.4,2.3,No,4,3,5,4,4,5,4,4,2,2,Rarely,50,3.29,0
+EMP00733,40,Female,Married,Bachelor,0,17,Operations,Operations Analyst,2,2,2,1,1,3,17,75663,0,14.2,13.5,No,2,3,4,3,5,4,3,68,5,2,Frequently,75,4.3,1
+EMP01585,46,Female,Married,Bachelor,1,41,Finance,Accountant,3,4,1,2,0,0,25,73234,1,19.7,6.5,No,2,2,4,3,3,2,4,26,7,4,Rarely,0,4.49,0
+EMP01942,29,Female,Married,Master,1,1,Marketing,Content Strategist,5,0,0,1,1,2,5,100884,0,16.1,9.4,No,1,5,2,5,4,5,4,40,4,0,Rarely,0,4.27,0
+EMP01478,38,Male,Married,Master,0,8,Marketing,Content Strategist,4,5,4,0,1,2,17,93319,1,8.2,9.6,No,4,3,3,3,3,2,3,62,6,4,None,0,3.54,0
+EMP00257,39,Male,Single,Master,1,37,Engineering,Tech Lead,2,4,0,1,0,3,17,62269,1,15.3,8.2,No,4,4,4,3,3,4,5,14,6,0,Rarely,50,2.08,0
+EMP00911,29,Male,Married,Bachelor,3,40,Engineering,Software Engineer,2,4,4,5,3,1,8,66139,2,9.3,2.3,No,2,3,3,1,2,4,3,39,2,3,None,0,2.89,0
+EMP01413,24,Male,Single,Bachelor,2,40,Operations,Operations Analyst,3,0,0,0,1,3,3,85559,0,12.9,4.7,No,5,4,3,3,3,5,4,20,5,2,Frequently,25,3.7,1
+EMP01565,41,Male,Married,Bachelor,1,26,Finance,Accountant,3,10,0,1,0,3,21,75764,0,11.3,18.4,No,5,4,3,5,5,4,5,77,1,1,Rarely,25,4.12,0
+EMP00463,57,Male,Married,Master,1,28,Engineering,Software Engineer,2,3,3,0,0,2,35,69448,2,16.4,9.5,No,5,4,1,3,4,1,4,47,2,3,Rarely,50,4.58,0
+EMP00831,25,Non-Binary,Married,Master,2,28,Finance,Accountant,2,8,0,1,1,1,4,64053,1,8.8,6.2,No,5,2,5,4,3,1,4,40,2,3,Rarely,50,2.55,0
+EMP01997,58,Female,Married,Bachelor,0,9,HR,HR Specialist,2,2,1,2,1,2,37,73134,1,8.5,5.0,Yes,5,2,5,2,4,3,4,36,6,3,None,50,3.2,1
+EMP00100,54,Female,Married,PhD,2,10,Operations,Supply Chain Specialist,1,17,0,0,0,6,33,56990,1,14.1,8.9,No,3,4,4,4,4,3,5,27,7,2,Frequently,25,3.89,0
+EMP01091,24,Female,Single,Master,0,36,Operations,Supply Chain Specialist,1,13,4,2,5,4,3,46699,0,9.2,6.5,Yes,3,3,4,4,3,4,4,36,6,2,Rarely,0,3.25,1
+EMP01818,49,Male,Single,Bachelor,0,46,Engineering,Tech Lead,4,3,3,2,3,2,29,95657,1,16.5,0.9,No,3,4,4,5,3,2,5,63,5,3,None,50,4.01,0
+EMP01051,22,Female,Divorced,Bachelor,2,52,Sales,Sales Rep,5,1,1,2,1,2,0,102568,1,8.0,12.5,Yes,3,5,3,4,3,3,4,64,1,2,Rarely,0,3.67,0
+EMP01741,33,Female,Divorced,Bachelor,2,18,Engineering,QA Engineer,2,3,3,0,1,4,9,62724,2,18.3,7.9,Yes,1,4,1,3,1,5,3,28,4,1,None,0,3.5,0
+EMP00417,52,Male,Married,Bachelor,3,29,Operations,Logistics Coordinator,3,2,2,3,3,4,29,75414,2,12.0,6.3,No,4,4,2,4,5,4,4,5,1,6,Rarely,75,3.49,0
+EMP00873,38,Female,Married,Master,0,19,Engineering,Tech Lead,3,17,3,2,1,1,15,75310,1,12.8,13.6,No,1,5,4,2,4,2,4,54,6,5,None,0,2.84,0
+EMP01319,51,Female,Single,High School,2,31,Marketing,Brand Manager,2,7,7,0,1,3,28,65691,2,17.8,9.0,No,5,4,4,4,5,3,5,73,7,3,Rarely,100,3.54,0
+EMP01168,57,Male,Single,Bachelor,0,50,Sales,Sales Lead,1,1,1,2,1,0,33,59378,0,11.6,7.0,No,1,3,4,5,4,4,5,23,1,2,Frequently,50,3.98,1
+EMP00455,47,Male,Married,Master,2,1,Marketing,Content Strategist,5,0,0,1,1,4,25,102881,2,13.7,0.1,No,4,4,3,4,3,3,4,65,4,3,Frequently,0,3.23,0
+EMP01106,37,Male,Married,Master,3,43,Sales,Account Manager,4,1,1,2,2,2,15,86396,0,12.2,4.0,No,2,4,5,1,1,5,3,38,5,3,None,0,2.64,1
+EMP00929,27,Non-Binary,Married,Bachelor,2,23,Sales,Sales Rep,3,1,1,1,1,2,4,72863,1,11.8,7.5,No,5,4,4,4,3,4,4,15,7,3,None,0,2.48,0
+EMP01346,34,Female,Married,Master,0,14,R&D,Data Scientist,2,0,0,1,0,3,13,60714,1,8.7,5.2,No,4,5,4,5,3,4,5,27,1,1,Rarely,0,4.05,0
+EMP00637,55,Non-Binary,Divorced,Bachelor,3,13,HR,HR Specialist,2,5,0,1,0,1,32,60188,0,11.8,6.8,No,3,4,4,4,5,4,4,29,2,2,Frequently,75,3.56,0
+EMP00431,41,Male,Single,PhD,2,28,Engineering,Tech Lead,1,0,0,0,0,5,17,55316,1,13.6,3.1,No,4,4,4,3,5,4,4,44,4,2,Frequently,50,4.03,1
+EMP01184,55,Male,Single,Bachelor,1,19,HR,HR Manager,3,2,1,2,0,4,35,85906,0,16.4,4.3,No,3,5,1,3,5,4,4,16,2,4,Rarely,25,4.4,0
+EMP00583,52,Female,Married,High School,0,57,R&D,Research Scientist,1,4,3,0,0,1,31,60614,0,12.8,7.7,Yes,5,5,3,4,3,3,1,1,3,1,Frequently,75,2.8,1
+EMP01224,46,Female,Married,Master,2,46,HR,HR Specialist,2,5,2,2,3,1,24,70571,3,8.8,6.5,No,5,5,2,2,5,3,5,32,7,3,Rarely,50,3.02,0
+EMP00969,57,Male,Single,Bachelor,0,16,Operations,Logistics Coordinator,5,1,1,2,2,2,33,110854,0,10.8,7.8,Yes,3,5,5,5,2,4,2,23,4,7,None,25,3.91,1
+EMP01047,43,Male,Married,Master,3,22,Operations,Supply Chain Specialist,2,3,0,1,1,3,22,73303,1,13.7,13.3,Yes,2,3,1,4,4,3,4,58,3,1,None,50,4.32,0
+EMP01339,33,Female,Married,Master,1,33,R&D,ML Engineer,4,8,0,1,0,1,9,85293,1,18.4,5.5,Yes,5,3,3,3,4,4,4,21,4,1,Rarely,50,2.31,0
+EMP00869,41,Female,Married,PhD,4,2,HR,Recruiter,1,10,10,0,2,1,17,57591,2,15.5,7.8,Yes,4,5,3,3,5,5,4,5,6,4,Rarely,0,3.21,0
+EMP00704,25,Male,Married,Bachelor,0,31,Engineering,DevOps Engineer,4,11,2,2,0,3,4,91275,0,13.0,6.7,Yes,4,2,2,3,1,2,3,16,3,4,Rarely,50,3.9,1
+EMP01944,37,Male,Married,Master,0,57,Finance,Accountant,2,0,0,1,0,2,13,71327,0,16.8,6.6,Yes,4,2,2,4,3,4,4,14,6,2,Frequently,25,3.16,1
+EMP01646,32,Male,Married,High School,1,19,HR,HR Manager,2,4,4,2,2,2,8,66874,0,15.8,5.9,No,4,1,2,2,2,2,3,48,1,2,Frequently,0,3.93,1
+EMP00390,24,Male,Single,Bachelor,0,36,Engineering,Software Engineer,2,2,1,2,2,2,1,59952,2,13.3,6.0,Yes,3,4,2,3,2,3,3,65,4,3,Rarely,0,4.41,1
+EMP00437,58,Male,Single,Master,0,36,Operations,Logistics Coordinator,5,0,0,1,1,3,36,96935,0,9.6,6.4,No,4,4,2,3,3,2,4,66,2,5,Frequently,50,3.17,1
+EMP00091,54,Male,Married,Master,2,29,Marketing,Brand Manager,4,0,0,1,1,3,32,96381,2,17.9,7.4,No,3,5,2,3,5,4,3,50,3,1,Frequently,0,4.17,0
+EMP00715,34,Male,Married,Bachelor,3,19,Finance,Accountant,3,2,1,0,0,4,10,81729,0,17.7,12.5,No,1,3,5,3,3,5,3,77,6,3,Rarely,100,2.69,1
+EMP01650,33,Male,Single,Bachelor,3,29,Operations,Operations Analyst,2,7,2,3,0,1,10,61279,1,9.2,6.1,No,5,4,1,4,3,2,4,39,5,2,Rarely,25,3.53,0
+EMP01192,23,Male,Married,High School,1,42,Finance,Financial Analyst,4,4,1,0,0,4,0,71104,1,12.2,7.7,No,4,4,4,4,4,4,3,44,1,5,Rarely,25,3.01,0
+EMP00938,60,Male,Married,High School,4,47,Operations,Logistics Coordinator,3,0,0,1,0,3,40,86771,0,11.5,12.8,Yes,5,3,4,4,3,3,3,58,4,3,None,25,4.01,0
+EMP01555,50,Male,Single,Bachelor,1,14,HR,HR Manager,3,2,1,2,0,1,26,82117,1,16.4,5.7,No,4,4,4,4,5,5,3,42,7,5,Frequently,50,3.81,0
+EMP00871,58,Male,Single,Bachelor,0,47,Sales,Sales Lead,2,4,2,0,3,1,38,73371,0,13.6,8.2,No,3,4,1,3,2,5,5,53,2,2,Rarely,50,3.97,0
+EMP00527,28,Male,Married,Master,0,40,Engineering,Tech Lead,4,8,1,0,0,2,7,86540,1,18.6,10.7,No,2,1,3,5,5,3,5,64,3,4,Rarely,50,3.35,1
+EMP00813,51,Male,Single,Bachelor,2,30,Operations,Operations Analyst,1,1,1,1,1,2,31,59847,0,16.0,7.7,No,3,3,5,4,5,3,3,53,3,2,Rarely,0,2.75,0
+EMP01926,57,Male,Married,Master,1,5,Operations,Operations Analyst,3,1,0,1,0,0,34,81009,2,15.4,2.5,No,4,5,3,3,3,4,3,42,4,1,None,50,3.83,0
+EMP00101,44,Male,Married,Master,0,15,Sales,Sales Lead,4,3,1,0,2,1,22,96739,2,7.1,7.4,No,5,2,4,4,3,4,3,61,6,1,Frequently,50,4.07,0
+EMP00510,44,Male,Single,Bachelor,2,13,Marketing,Brand Manager,1,4,0,0,0,3,24,57713,1,15.6,9.1,No,4,3,3,3,2,3,3,33,1,4,Frequently,50,2.88,0
+EMP01590,43,Female,Married,Master,3,12,Engineering,DevOps Engineer,1,9,3,1,0,6,22,54409,0,11.2,9.2,Yes,5,2,4,4,5,2,4,12,5,1,Rarely,25,3.56,1
+EMP00823,57,Male,Married,Bachelor,3,31,Engineering,Tech Lead,4,7,3,3,2,3,36,92179,2,12.1,6.2,No,4,4,4,3,3,5,1,3,5,2,Rarely,25,2.68,0
+EMP01742,51,Female,Married,Master,3,52,HR,HR Manager,1,2,0,1,0,7,27,52197,1,16.1,8.9,No,5,5,3,1,2,5,3,34,4,5,Rarely,0,2.56,1
+EMP01324,22,Male,Single,Master,1,18,R&D,ML Engineer,5,1,1,1,2,2,1,100874,1,9.7,7.9,No,4,3,4,5,5,1,5,18,7,4,Rarely,0,3.16,0
+EMP01705,51,Male,Married,High School,0,9,Operations,Logistics Coordinator,2,3,0,1,0,2,30,77719,1,14.0,13.1,No,5,4,5,3,5,5,3,18,2,6,Rarely,50,4.59,0
+EMP00847,54,Female,Single,Bachelor,4,45,R&D,Data Scientist,2,3,2,3,0,3,33,68230,1,14.2,7.2,No,2,4,3,4,3,2,4,67,6,3,Rarely,50,2.92,0
+EMP01979,23,Female,Married,Bachelor,0,17,Sales,Account Manager,1,3,3,0,1,1,0,47226,2,12.0,10.5,Yes,4,4,4,5,4,5,4,74,4,3,None,75,4.24,0
+EMP01028,48,Male,Married,Bachelor,0,24,Finance,Accountant,2,14,3,0,0,5,24,74973,1,11.1,4.6,No,2,5,1,2,3,5,4,65,3,1,None,75,3.9,0
+EMP01987,60,Male,Married,Bachelor,1,7,Engineering,QA Engineer,5,2,1,0,1,2,40,110399,1,19.1,10.8,No,3,5,4,4,4,5,1,36,5,2,Rarely,0,4.93,0
+EMP00598,29,Male,Single,High School,2,40,Finance,Financial Analyst,2,12,1,2,2,1,6,63288,3,15.4,6.1,No,2,4,4,5,2,4,5,12,4,6,Frequently,75,2.45,1
+EMP01932,43,Male,Married,Master,0,54,Sales,Account Manager,3,24,0,0,0,4,23,86308,1,7.0,7.2,Yes,4,1,3,1,2,3,4,19,4,6,None,100,3.03,1
+EMP01630,53,Male,Married,Bachelor,0,46,Engineering,Tech Lead,4,3,3,2,1,5,29,88835,1,17.5,13.7,No,2,3,3,3,3,3,3,74,5,2,Frequently,25,2.98,0
+EMP00137,53,Female,Divorced,High School,1,59,Finance,Accountant,2,2,2,0,0,0,33,62675,1,18.0,5.1,Yes,3,3,3,4,4,3,4,36,5,2,Frequently,75,3.38,0
+EMP01854,50,Male,Married,Bachelor,1,9,Operations,Supply Chain Specialist,4,1,1,1,0,1,29,89102,2,9.8,14.4,No,3,4,1,3,5,3,3,72,1,3,Rarely,0,3.26,0
+EMP00152,22,Male,Single,Bachelor,3,23,Operations,Logistics Coordinator,1,4,4,0,3,1,0,49338,0,12.0,11.7,No,3,2,2,1,3,3,3,60,3,3,Rarely,25,3.64,1
+EMP00058,39,Female,Single,Bachelor,2,15,Finance,Finance Manager,2,9,0,0,0,2,15,64563,0,10.6,8.4,No,5,2,3,3,4,1,4,54,1,2,Rarely,50,2.74,0
+EMP01102,53,Female,Married,High School,2,8,Sales,Sales Rep,4,1,1,2,0,1,29,95316,0,7.8,9.5,No,4,4,4,3,1,2,3,79,7,5,Rarely,25,5.0,0
+EMP01157,43,Male,Single,Bachelor,1,56,Operations,Supply Chain Specialist,1,0,0,0,1,3,19,57125,0,12.4,9.3,Yes,4,5,4,4,4,3,4,11,3,3,None,0,4.04,1
+EMP00353,36,Female,Single,Master,2,9,Sales,Sales Lead,1,13,2,2,1,1,15,55845,1,11.0,8.1,No,2,2,5,4,4,5,5,71,5,3,None,0,2.46,1
+EMP00863,44,Male,Single,PhD,2,13,Engineering,Software Engineer,4,0,0,0,0,2,20,84688,1,23.1,8.1,No,4,2,3,2,4,4,4,70,4,2,Frequently,100,3.47,1
+EMP01669,50,Male,Married,Bachelor,1,49,Engineering,Software Engineer,1,2,2,2,3,2,28,61779,0,14.5,6.2,Yes,3,2,3,4,5,4,3,5,4,5,Rarely,50,3.65,1
+EMP00420,53,Female,Single,Bachelor,0,18,Marketing,Marketing Analyst,2,2,2,3,3,5,32,71379,2,13.5,7.6,No,4,5,5,4,5,5,4,41,7,4,Frequently,75,3.14,0
+EMP00769,35,Male,Single,High School,1,59,Sales,Account Manager,5,3,1,2,0,7,11,97568,2,16.7,6.2,No,3,4,4,3,3,3,3,5,1,0,Rarely,50,3.26,0
+EMP00383,61,Female,Single,Bachelor,1,7,Finance,Accountant,1,2,0,1,1,3,38,57239,2,15.4,5.4,Yes,4,5,3,3,5,4,3,77,3,4,Rarely,0,4.03,1
+EMP01179,48,Male,Single,Bachelor,2,59,Engineering,QA Engineer,3,2,0,1,1,3,25,92897,1,5.9,8.3,No,4,4,3,4,1,4,3,60,3,5,Rarely,25,3.54,0
+EMP00662,22,Male,Divorced,Bachelor,1,58,Engineering,DevOps Engineer,1,3,3,0,2,0,0,44099,2,11.4,9.5,No,1,4,4,3,2,4,1,28,6,2,Rarely,25,3.03,1
+EMP01123,39,Male,Married,Master,2,48,HR,HR Specialist,1,1,0,1,1,2,17,46082,3,5.0,8.4,Yes,2,3,3,5,5,4,4,28,5,2,None,50,3.94,1
+EMP01753,33,Female,Divorced,Bachelor,3,37,Finance,Accountant,1,6,3,2,2,2,13,51036,1,12.8,10.7,No,1,4,4,3,4,3,5,68,4,2,None,0,3.83,0
+EMP01764,47,Female,Single,Bachelor,0,3,Engineering,Tech Lead,4,0,0,0,0,3,26,88730,0,13.3,5.5,Yes,4,5,1,4,4,4,3,65,7,3,Rarely,0,3.68,1
+EMP01600,54,Male,Single,Master,1,46,Operations,Supply Chain Specialist,3,3,3,4,4,3,33,82080,2,21.8,10.6,No,1,5,3,5,4,4,5,63,5,1,Rarely,50,3.95,0
+EMP01567,30,Male,Single,High School,2,36,Operations,Supply Chain Specialist,4,3,3,2,1,4,6,78388,0,9.1,9.0,No,5,4,3,2,3,2,5,60,5,1,Frequently,50,3.35,1
+EMP01778,50,Female,Married,Bachelor,3,39,HR,HR Manager,3,7,3,4,2,2,30,88228,3,16.1,2.6,No,5,3,4,3,2,3,3,19,6,1,None,25,3.33,0
+EMP01887,42,Female,Single,Master,0,19,Engineering,Tech Lead,1,1,1,0,1,4,20,57752,0,12.9,8.8,No,5,3,5,5,5,2,4,49,3,2,Frequently,50,2.69,1
+EMP01075,50,Male,Single,Bachelor,0,40,Operations,Operations Analyst,4,2,2,1,0,0,30,95798,0,6.7,4.5,No,4,3,4,4,4,4,3,27,2,3,Frequently,50,4.92,0
+EMP00444,50,Male,Married,High School,0,22,Operations,Operations Analyst,4,2,0,1,1,3,29,88867,3,11.5,5.7,Yes,4,2,3,1,4,5,4,32,6,3,None,100,3.6,1
+EMP00430,48,Female,Single,Bachelor,0,39,Sales,Account Manager,2,0,0,1,1,2,24,69276,3,5.0,9.8,Yes,3,3,5,4,2,3,5,42,4,4,None,50,4.33,1
+EMP00738,43,Male,Married,Master,1,50,Engineering,QA Engineer,3,0,0,1,0,2,21,81783,0,18.4,5.6,No,5,4,5,1,4,5,2,25,5,3,None,25,3.59,1
+EMP00365,37,Female,Married,High School,0,57,Marketing,Content Strategist,2,0,0,0,1,4,15,69426,2,12.9,5.9,Yes,4,2,3,3,3,4,3,79,6,3,Frequently,50,4.34,1
+EMP00490,43,Male,Single,Bachelor,0,39,R&D,Data Scientist,2,11,2,1,1,2,20,69483,3,18.7,3.7,Yes,4,3,3,5,5,5,4,0,2,3,None,25,4.11,0
+EMP01667,31,Male,Married,High School,2,51,Engineering,Tech Lead,1,5,5,2,1,4,10,46545,1,9.0,3.4,No,5,1,4,2,4,4,4,43,4,3,Frequently,50,4.55,1
+EMP01503,55,Female,Married,PhD,0,18,Engineering,Software Engineer,1,1,1,1,1,2,34,59282,2,11.1,4.9,No,3,5,4,3,2,3,2,44,1,4,None,75,3.65,1
+EMP01364,41,Male,Single,Master,4,24,Engineering,DevOps Engineer,2,7,3,4,0,2,20,54962,0,9.6,8.7,No,4,3,3,3,3,5,3,46,2,4,Rarely,50,4.08,0
+EMP00213,28,Male,Divorced,High School,1,38,Finance,Financial Analyst,2,11,1,2,1,2,8,64060,1,11.1,12.8,No,2,3,2,4,5,3,5,27,7,2,Frequently,75,3.89,0
+EMP00312,24,Male,Married,PhD,2,39,HR,HR Specialist,3,0,0,0,0,2,0,72298,2,12.3,13.4,No,3,2,4,4,5,3,2,20,7,1,Frequently,50,4.1,1
+EMP00186,27,Male,Single,Master,1,51,Finance,Finance Manager,2,1,1,0,0,1,5,59602,0,13.1,3.2,Yes,4,3,3,2,5,4,3,17,5,4,None,75,3.73,1
+EMP00895,32,Female,Married,Bachelor,1,25,Finance,Finance Manager,3,4,2,0,1,3,10,68090,0,14.4,9.6,No,2,3,4,3,5,3,4,18,2,2,Rarely,0,4.01,0
+EMP00622,31,Male,Single,Bachelor,0,30,Operations,Logistics Coordinator,3,2,2,0,0,0,7,71152,3,11.3,10.4,Yes,4,3,4,4,3,1,5,52,6,5,None,50,3.38,0
+EMP00885,30,Male,Single,High School,0,36,Engineering,Tech Lead,1,10,0,1,1,3,8,54149,2,17.8,9.7,No,4,2,4,4,4,4,4,50,5,3,None,50,3.47,0
+EMP00244,45,Male,Single,Bachelor,2,16,Finance,Accountant,1,2,2,3,1,3,25,53821,0,11.4,9.4,No,4,3,1,3,5,3,4,38,6,5,Rarely,75,2.74,0
+EMP01442,57,Female,Single,Bachelor,1,44,Operations,Operations Analyst,1,1,1,1,0,2,33,68225,0,16.8,6.5,Yes,3,2,4,3,4,3,1,4,5,4,None,100,3.19,1
+EMP01142,45,Female,Married,Master,1,30,Finance,Finance Manager,1,5,5,1,1,2,24,63652,3,10.0,4.6,No,5,3,3,3,3,5,4,26,6,2,Frequently,50,3.93,0
+EMP00222,46,Male,Single,High School,2,36,HR,HR Specialist,3,1,1,0,0,4,24,76549,2,8.9,6.1,No,3,1,4,4,1,4,3,64,2,1,Rarely,75,3.29,1
+EMP01525,50,Male,Married,High School,3,26,Operations,Operations Analyst,2,1,0,1,1,0,26,59855,0,16.4,8.9,No,5,3,5,3,3,3,2,11,7,4,Rarely,25,4.02,0
+EMP00326,60,Male,Divorced,Bachelor,2,18,Finance,Accountant,1,2,2,0,0,0,37,58852,1,11.3,6.6,No,5,4,3,3,4,4,2,71,6,5,Rarely,0,3.65,0
+EMP00883,35,Female,Single,Bachelor,1,55,Finance,Financial Analyst,5,8,1,0,1,2,12,106705,1,18.4,3.4,No,5,4,3,3,3,5,4,45,6,4,Rarely,50,3.87,0
+EMP01140,56,Female,Married,High School,1,7,Operations,Operations Analyst,2,0,0,0,0,3,34,62640,1,5.7,12.4,No,3,3,3,4,2,5,5,25,4,3,Rarely,25,3.31,0
+EMP01445,34,Male,Single,High School,2,47,Operations,Supply Chain Specialist,4,7,1,1,2,3,13,85660,0,7.7,3.8,Yes,4,5,1,5,3,2,5,5,2,2,None,75,2.61,0
+EMP01161,55,Female,Married,Bachelor,0,22,R&D,ML Engineer,3,3,2,3,1,2,32,84354,1,8.4,5.5,No,4,5,4,4,3,4,4,61,2,3,Frequently,50,3.41,0
+EMP00309,39,Female,Single,High School,0,6,Operations,Supply Chain Specialist,1,0,0,1,1,3,19,51185,0,16.9,9.1,No,1,5,3,5,3,3,3,7,7,3,Frequently,25,2.71,1
+EMP01679,58,Male,Married,PhD,4,22,R&D,Data Scientist,4,9,3,4,0,2,38,98968,1,15.7,10.1,No,2,1,3,1,3,3,2,5,1,5,Rarely,0,3.21,1
+EMP00112,35,Female,Married,Bachelor,1,6,Engineering,QA Engineer,4,1,1,0,1,2,15,90435,0,7.8,10.5,Yes,1,3,5,3,4,4,3,38,4,4,None,0,3.59,1
+EMP01300,34,Male,Divorced,Bachelor,1,28,Operations,Operations Analyst,2,2,0,1,1,2,10,61581,1,9.8,8.2,No,1,1,4,4,1,3,4,4,3,5,Frequently,25,4.27,1
+EMP00627,39,Female,Single,PhD,4,48,HR,HR Manager,3,24,1,2,2,4,15,72237,2,10.7,10.4,No,5,5,4,4,2,4,3,47,6,3,Frequently,0,2.96,1
+EMP01381,24,Male,Married,Bachelor,2,58,Operations,Logistics Coordinator,5,2,2,1,0,3,0,94389,2,16.8,8.4,Yes,2,3,4,2,2,3,4,23,4,3,Rarely,50,2.99,1
+EMP01467,36,Female,Single,Bachelor,0,21,Finance,Accountant,2,4,1,2,0,4,13,58026,2,16.0,12.1,Yes,1,4,3,3,3,2,1,57,4,1,None,75,4.16,1
+EMP00473,57,Male,Divorced,Bachelor,0,15,Marketing,Content Strategist,1,4,0,0,1,2,33,54436,0,9.6,9.7,Yes,4,5,4,1,4,5,5,43,3,5,Rarely,25,2.71,1
+EMP01261,37,Female,Married,Bachelor,0,42,Marketing,Brand Manager,1,18,5,0,1,1,15,53856,1,7.4,6.4,No,3,2,5,1,5,3,2,33,3,2,Rarely,25,4.05,0
+EMP01775,45,Female,Married,Bachelor,1,23,Operations,Logistics Coordinator,2,0,0,0,1,0,25,65188,0,12.4,2.1,No,5,2,5,5,2,2,3,27,6,5,None,100,3.09,1
+EMP01858,56,Female,Divorced,PhD,1,22,Engineering,QA Engineer,3,0,0,1,0,2,35,82805,0,21.3,9.8,No,1,4,4,3,3,4,2,34,4,6,Rarely,0,4.95,1
+EMP01586,54,Male,Married,Bachelor,4,15,R&D,ML Engineer,4,5,0,0,0,1,33,93305,2,10.0,4.5,No,4,2,5,5,2,5,3,76,4,3,Frequently,25,3.72,0
+EMP01904,50,Male,Single,Master,2,14,Engineering,Software Engineer,3,2,2,0,2,2,27,78566,1,7.7,5.0,No,4,2,3,4,4,3,5,69,6,5,None,50,3.62,0
+EMP00972,48,Male,Married,Bachelor,0,56,Operations,Logistics Coordinator,2,3,1,2,0,1,27,71470,0,11.4,7.7,No,1,3,5,4,3,2,5,19,4,3,Rarely,75,4.86,0
+EMP01751,58,Female,Single,Bachelor,2,57,Marketing,Marketing Analyst,3,0,0,1,1,0,37,89553,0,22.8,7.7,No,2,5,4,4,2,5,3,51,4,4,Frequently,50,3.37,1
+EMP01500,32,Male,Married,PhD,2,34,Engineering,DevOps Engineer,2,4,3,1,1,3,12,69612,2,12.9,8.8,No,1,3,5,2,3,4,5,40,7,4,Frequently,0,2.91,1
+EMP01681,49,Male,Married,High School,1,23,Finance,Financial Analyst,2,1,0,1,1,1,28,58449,1,12.8,7.8,No,2,2,5,2,4,3,3,38,6,1,Frequently,75,4.62,1
+EMP00329,56,Female,Married,Bachelor,0,39,R&D,Research Scientist,2,5,0,1,1,3,33,75130,1,10.1,10.5,Yes,4,4,4,1,5,4,5,62,3,2,Frequently,25,3.51,1
+EMP01003,43,Male,Married,Bachelor,3,13,HR,HR Specialist,5,6,3,0,0,2,22,102401,1,13.9,14.9,Yes,2,4,5,2,2,4,5,61,6,3,Frequently,75,3.13,1
+EMP00111,58,Male,Married,Bachelor,1,2,Engineering,QA Engineer,2,3,2,3,0,2,34,67282,3,12.2,8.8,No,5,4,5,5,3,5,2,63,3,2,Frequently,100,3.56,0
+EMP00092,26,Female,Single,Bachelor,0,53,Engineering,Tech Lead,4,2,2,0,2,6,5,90734,1,20.0,11.1,No,1,4,5,3,4,5,2,65,7,2,Frequently,50,2.62,1
+EMP00726,46,Female,Married,Master,2,35,Engineering,DevOps Engineer,2,18,2,3,0,7,24,69556,1,16.4,8.8,No,4,3,3,4,3,3,3,53,7,4,Rarely,0,3.47,0
+EMP01093,44,Female,Single,Bachelor,0,25,HR,HR Specialist,5,4,1,2,0,2,20,97327,0,13.3,9.5,Yes,4,4,3,5,1,5,2,36,6,2,Frequently,25,3.91,1
+EMP01897,34,Female,Married,Bachelor,0,28,Sales,Sales Lead,3,3,3,0,0,1,12,77094,0,9.4,11.6,No,4,2,5,4,4,2,2,70,2,6,Rarely,50,2.45,0
+EMP01322,41,Male,Married,Bachelor,3,44,HR,HR Manager,3,3,0,1,1,3,18,73790,2,14.3,9.2,No,1,1,3,5,5,5,5,76,2,2,None,25,2.69,0
+EMP00256,39,Female,Married,High School,2,43,Operations,Supply Chain Specialist,4,1,1,0,2,2,17,85525,2,15.5,9.1,No,5,1,2,4,1,4,2,30,6,3,Rarely,0,3.92,1
+EMP01017,30,Male,Married,Bachelor,2,25,HR,HR Specialist,4,1,1,1,0,3,9,85770,1,13.1,9.8,No,1,4,4,1,4,5,3,31,2,1,Rarely,75,4.81,1
+EMP00709,41,Male,Married,Bachelor,2,20,Engineering,Software Engineer,3,4,4,5,2,3,17,78737,1,14.9,14.8,Yes,2,4,5,1,1,3,5,58,5,5,None,50,4.4,1
+EMP00377,33,Female,Married,Bachelor,1,25,Sales,Sales Lead,4,1,0,1,1,2,9,93717,1,14.7,5.9,No,4,3,5,5,3,4,4,34,4,2,None,0,3.16,0
+EMP01543,36,Female,Married,Bachelor,0,59,HR,HR Specialist,2,4,3,3,0,1,15,55990,3,19.3,6.7,No,4,4,3,4,5,4,3,43,6,2,None,50,2.46,0
+EMP01141,43,Male,Single,Master,0,2,HR,Recruiter,1,1,1,1,1,1,21,65225,0,12.6,6.7,No,3,3,3,2,4,3,3,53,4,3,None,25,3.15,1
+EMP00138,28,Male,Married,High School,2,26,Operations,Supply Chain Specialist,4,28,1,0,2,3,8,88624,0,12.8,3.6,No,1,3,2,3,5,4,5,37,1,5,Frequently,50,3.92,0
+EMP01152,61,Female,Married,Bachelor,0,15,Engineering,Tech Lead,2,4,1,0,0,3,37,80585,0,17.4,9.1,No,2,2,3,4,5,4,4,42,4,4,None,0,3.9,1
+EMP00717,44,Male,Married,Bachelor,0,48,R&D,Data Scientist,2,8,2,3,2,4,24,78478,1,6.8,7.2,No,4,4,5,4,4,3,2,18,5,1,Frequently,75,3.46,0
+EMP00083,22,Female,Single,Bachelor,2,2,Operations,Logistics Coordinator,3,3,1,1,1,2,2,68727,0,12.3,8.0,Yes,4,2,3,4,4,3,5,22,1,5,Rarely,0,2.89,0
+EMP00274,43,Male,Divorced,Bachelor,2,7,Operations,Supply Chain Specialist,4,4,0,1,0,3,23,82886,1,5.4,5.2,Yes,4,3,2,3,4,5,4,12,1,4,Rarely,50,4.51,0
+EMP01945,47,Non-Binary,Married,PhD,0,16,Operations,Logistics Coordinator,3,7,4,1,3,0,24,73956,1,15.3,7.7,No,4,3,5,5,1,3,3,31,2,1,Frequently,25,2.53,0
+EMP00768,47,Male,Single,Bachelor,3,46,Sales,Account Manager,4,4,0,0,0,2,26,97224,1,18.6,2.3,No,5,2,2,3,4,5,2,54,2,2,Frequently,0,3.73,1
+EMP00384,22,Female,Single,Bachelor,1,42,HR,HR Specialist,1,2,2,0,2,5,1,57919,1,11.0,12.0,No,4,5,3,4,3,3,5,35,6,0,None,50,3.75,1
+EMP00636,54,Male,Divorced,Bachelor,0,52,R&D,Data Scientist,2,2,2,3,2,3,30,74525,0,14.3,10.4,No,4,2,4,2,3,5,2,43,7,2,None,100,3.56,1
+EMP01235,40,Non-Binary,Married,Bachelor,2,1,Marketing,Content Strategist,3,7,7,0,2,2,18,80015,0,10.1,9.2,No,4,2,2,4,5,3,3,42,2,1,None,50,4.32,0
+EMP00453,29,Male,Single,Bachelor,3,53,Operations,Operations Analyst,4,2,2,3,1,2,7,89770,0,17.9,5.7,No,3,3,4,5,1,3,1,5,6,3,Frequently,25,3.16,1
+EMP00906,25,Male,Single,Bachelor,2,18,Finance,Accountant,1,0,0,0,1,3,5,46195,1,16.3,5.3,No,3,5,3,3,3,2,4,70,5,1,Rarely,75,3.47,0
+EMP01479,33,Female,Married,Bachelor,3,44,HR,Recruiter,3,0,0,1,1,3,11,78209,0,13.3,5.4,Yes,5,2,4,4,2,4,4,45,1,7,None,50,2.22,1
+EMP01137,51,Female,Single,Bachelor,1,38,Marketing,Content Strategist,1,3,3,4,4,2,27,63923,2,9.7,16.6,No,5,2,2,4,1,4,1,78,6,5,Frequently,0,3.47,1
+EMP01958,31,Female,Divorced,Bachelor,1,59,Engineering,Software Engineer,1,1,1,2,2,0,8,50315,1,12.6,4.0,No,3,2,4,4,5,4,3,73,4,6,Rarely,0,3.83,1
+EMP01474,53,Male,Married,Bachelor,2,9,Sales,Sales Lead,4,7,2,3,3,0,31,87655,3,11.9,4.7,Yes,5,3,3,3,4,3,4,77,2,1,None,75,3.78,0
+EMP00364,61,Female,Divorced,High School,3,1,Engineering,Tech Lead,3,3,1,0,1,4,40,89559,1,15.7,12.3,No,1,5,5,4,3,2,1,58,1,4,Rarely,75,4.17,0
+EMP00010,32,Male,Married,Bachelor,2,50,Engineering,QA Engineer,3,2,2,3,0,3,11,69082,0,16.5,11.0,No,4,4,3,5,1,2,4,47,2,2,None,25,3.74,0
+EMP00819,24,Female,Single,Master,2,1,Marketing,Content Strategist,4,8,7,0,0,3,0,94394,0,12.4,11.8,No,4,4,4,4,4,1,5,46,1,4,Frequently,0,3.3,0
+EMP01947,58,Male,Married,Bachelor,1,28,Operations,Operations Analyst,4,0,0,1,0,2,34,95335,0,10.4,8.7,No,4,4,3,3,3,3,3,6,4,7,None,50,3.64,0
+EMP00452,47,Male,Single,Bachelor,2,42,Sales,Account Manager,3,7,3,1,4,3,23,66435,0,14.0,2.6,Yes,5,1,3,5,4,5,4,6,7,3,Rarely,50,3.3,1
+EMP01392,46,Female,Single,Bachelor,2,14,Engineering,QA Engineer,3,4,2,3,2,1,26,77623,0,12.6,11.4,Yes,1,2,5,4,5,2,4,75,1,4,None,50,3.23,1
+EMP00771,24,Male,Single,Bachelor,1,11,R&D,ML Engineer,4,6,2,1,2,2,4,81659,1,5.0,2.2,Yes,1,1,4,5,3,4,2,68,5,2,Rarely,100,3.64,1
+EMP00240,24,Male,Married,Master,1,40,Operations,Operations Analyst,1,1,1,0,2,5,3,47616,0,9.6,7.6,No,4,4,3,2,3,4,2,32,4,6,Rarely,50,3.78,1
+EMP01527,37,Female,Single,High School,2,15,R&D,ML Engineer,2,0,0,1,1,2,16,63569,1,14.4,9.6,No,4,3,1,1,3,5,5,30,2,2,Rarely,25,3.25,0
+EMP01006,22,Female,Married,Bachelor,2,55,Finance,Financial Analyst,2,12,1,2,1,3,1,51518,1,14.3,4.9,Yes,5,1,1,4,4,2,3,40,7,2,Rarely,25,3.08,0
+EMP00563,24,Female,Married,Master,2,58,Sales,Account Manager,1,0,0,1,1,4,2,48453,1,13.4,4.7,Yes,1,3,4,5,3,2,4,33,5,1,Frequently,0,3.13,1
+EMP01368,45,Male,Married,Master,0,47,Engineering,DevOps Engineer,4,1,0,1,1,2,22,96836,1,10.7,10.2,No,1,1,3,2,4,1,4,26,2,5,None,0,2.45,1
+EMP01167,42,Female,Divorced,Bachelor,0,59,Engineering,QA Engineer,4,7,0,1,0,1,20,85516,1,13.1,5.6,No,3,5,1,4,4,4,4,24,7,2,Frequently,50,2.65,0
+EMP01516,23,Male,Married,Bachelor,2,1,Operations,Operations Analyst,1,3,3,0,2,3,3,46462,3,10.8,10.7,No,4,3,3,5,4,4,3,70,7,3,None,25,3.55,0
+EMP01611,34,Male,Married,Master,2,37,Marketing,Brand Manager,1,5,4,1,0,3,13,52547,0,15.0,9.9,No,3,3,3,2,5,4,3,70,5,2,Rarely,75,1.69,0
+EMP00459,28,Female,Married,High School,1,55,Operations,Operations Analyst,2,3,3,0,4,2,5,70123,2,14.0,9.4,Yes,4,5,3,3,4,4,4,48,3,5,Rarely,75,3.59,0
+EMP00367,51,Female,Single,Master,2,35,Sales,Account Manager,1,24,0,1,1,2,27,53088,1,13.3,1.5,Yes,5,4,5,5,5,4,1,35,1,1,Rarely,0,4.01,0
+EMP01074,29,Female,Married,Master,0,38,Sales,Sales Lead,2,0,0,0,0,2,6,71263,0,13.2,6.9,No,4,4,2,4,2,4,3,6,4,2,Rarely,25,3.49,1
+EMP00581,35,Male,Married,Bachelor,1,19,Finance,Finance Manager,4,1,1,1,1,2,12,89494,0,9.4,11.6,No,5,4,2,5,3,5,5,8,3,3,Frequently,50,2.33,0
+EMP00221,49,Male,Married,Bachelor,4,51,Operations,Logistics Coordinator,2,3,1,2,1,1,27,68727,1,13.6,11.6,No,1,3,4,3,3,5,4,36,5,4,Frequently,25,3.23,0
+EMP01773,33,Male,Single,Bachelor,0,52,Sales,Sales Rep,3,11,0,0,1,5,9,71290,1,11.9,10.8,No,2,4,3,3,4,2,4,22,3,1,None,25,3.39,0
+EMP00785,47,Female,Single,Master,2,8,Engineering,Tech Lead,4,6,0,1,1,5,26,90174,1,19.0,9.1,Yes,1,5,4,5,3,4,2,21,3,0,None,50,4.25,0
+EMP00172,58,Female,Single,Bachelor,3,35,Finance,Accountant,2,4,2,3,3,4,34,60671,0,11.7,6.9,Yes,4,4,4,4,2,4,2,26,5,2,None,0,2.92,1
+EMP01896,42,Male,Married,Bachelor,2,24,R&D,ML Engineer,3,0,0,1,1,3,21,85680,0,13.9,9.0,No,5,4,5,3,3,4,5,66,4,2,Rarely,100,3.57,0
+EMP00429,53,Male,Married,High School,3,15,Sales,Sales Rep,1,4,4,5,0,3,30,62121,1,14.2,8.8,No,4,2,5,4,2,3,4,2,4,4,Frequently,25,4.61,1
+EMP00549,60,Female,Single,PhD,1,58,HR,HR Specialist,3,6,1,1,0,1,39,88752,1,12.7,6.2,No,3,5,4,5,4,4,4,55,2,6,Rarely,75,3.05,0
+EMP01304,23,Male,Married,Master,1,7,HR,Recruiter,5,4,4,2,0,3,0,104781,0,5.0,6.9,No,2,2,3,3,4,1,4,48,3,3,Rarely,100,3.44,0
+EMP00554,60,Male,Married,Bachelor,0,41,Engineering,Software Engineer,4,2,1,0,1,3,40,102825,0,7.6,2.9,No,1,4,1,1,5,4,4,61,2,1,None,50,3.93,1
+EMP00681,58,Male,Single,Master,0,45,HR,HR Manager,1,2,1,2,1,3,38,69801,0,16.3,7.9,Yes,4,2,4,3,1,2,5,75,4,4,Frequently,75,2.09,1
+EMP00575,58,Non-Binary,Single,Master,3,56,R&D,Data Scientist,3,0,0,1,1,7,38,82070,1,12.9,8.3,No,5,5,4,3,5,4,2,73,2,2,Rarely,100,2.64,0
+EMP00270,24,Male,Single,Bachelor,2,54,Engineering,QA Engineer,3,5,5,0,2,2,2,83059,0,16.8,8.2,No,4,3,3,5,4,4,3,64,4,6,Frequently,50,3.13,0
+EMP00317,44,Male,Single,Master,1,43,Engineering,Tech Lead,5,0,0,0,1,1,21,101731,2,12.7,6.9,Yes,4,4,2,4,3,4,4,12,4,2,Frequently,100,4.18,1
+EMP01959,54,Male,Divorced,Bachelor,2,34,Engineering,QA Engineer,1,3,2,3,2,3,32,58106,2,14.9,8.7,No,5,3,4,3,4,4,4,58,5,2,Rarely,100,3.79,0
+EMP00844,25,Female,Married,Bachelor,0,36,Engineering,DevOps Engineer,2,3,1,2,2,2,4,61717,0,9.2,7.9,No,5,5,3,3,2,3,4,70,3,2,Frequently,75,3.07,0
+EMP00210,40,Female,Single,Master,0,22,Finance,Finance Manager,2,2,2,2,1,4,17,61788,0,13.6,0.0,Yes,3,4,4,1,4,4,5,37,6,1,Rarely,75,2.98,1
+EMP00488,41,Male,Single,High School,3,52,Sales,Sales Rep,3,1,1,2,1,4,18,78439,1,13.5,8.9,No,5,2,4,3,2,3,5,25,2,6,Rarely,100,3.54,1
+EMP01397,36,Female,Single,Bachelor,2,2,Marketing,Content Strategist,1,3,0,0,1,2,16,57382,0,14.1,12.3,No,4,4,4,4,4,3,4,35,3,0,None,0,2.71,0
+EMP00198,37,Female,Divorced,Bachelor,2,27,HR,Recruiter,1,2,2,1,0,5,13,51236,0,14.8,11.2,Yes,4,3,4,5,5,4,1,38,2,4,Frequently,25,2.99,1
+EMP01552,48,Female,Married,Bachelor,2,45,Engineering,Software Engineer,4,1,1,0,2,0,26,91486,0,15.5,10.2,Yes,4,3,3,3,2,3,4,44,1,4,Rarely,25,5.0,1
+EMP00853,59,Female,Married,High School,2,5,Engineering,Tech Lead,2,5,4,2,4,2,38,75633,0,10.5,8.3,No,1,5,4,4,4,4,4,69,5,5,None,50,2.64,0
+EMP00746,35,Female,Married,Master,0,50,Finance,Accountant,3,0,0,1,0,3,14,70725,1,11.6,7.9,Yes,4,5,5,3,4,1,4,65,1,2,Rarely,0,3.27,0
+EMP01583,53,Female,Divorced,Bachelor,0,56,Marketing,Brand Manager,2,12,2,3,2,0,31,73057,1,8.8,12.0,No,4,4,5,5,2,4,3,13,4,0,None,0,3.67,0
+EMP01541,33,Male,Married,Master,2,29,Finance,Finance Manager,1,0,0,1,1,4,11,51207,1,17.7,13.1,Yes,4,5,4,4,5,5,5,33,3,5,None,50,4.09,1
+EMP00512,60,Male,Married,Bachelor,2,25,Engineering,Software Engineer,4,6,4,1,1,4,40,99434,0,13.9,7.2,No,4,4,5,4,3,5,5,49,6,2,Frequently,75,1.83,0
+EMP01387,55,Male,Divorced,High School,3,36,Sales,Sales Rep,3,0,0,0,1,1,35,81253,3,9.2,3.5,No,4,3,5,5,5,4,3,39,2,4,Rarely,0,3.81,0
+EMP00451,38,Female,Married,Bachelor,0,52,Marketing,Brand Manager,4,4,3,0,0,3,16,85887,1,14.2,11.6,Yes,5,3,3,5,3,2,4,34,7,1,Rarely,75,3.3,0
+EMP00668,29,Female,Married,Bachelor,1,19,R&D,ML Engineer,1,1,1,1,1,1,8,55428,3,14.1,2.4,No,5,3,4,3,3,2,3,21,3,4,Rarely,50,3.39,0
+EMP00580,39,Male,Single,Master,3,8,R&D,Research Scientist,2,10,0,0,0,3,19,66595,0,14.7,5.6,No,5,3,2,4,1,4,5,77,6,1,Rarely,25,4.87,0
+EMP00541,38,Female,Single,Bachelor,1,18,Engineering,Tech Lead,5,0,0,1,1,3,17,106551,1,15.7,8.7,Yes,4,2,2,3,4,5,5,12,6,3,None,75,3.98,1
+EMP01862,56,Female,Single,Bachelor,1,36,HR,HR Manager,3,4,2,3,0,3,32,79717,2,10.6,10.8,Yes,5,3,3,4,2,3,4,75,7,2,Rarely,0,3.17,0
+EMP01067,35,Female,Married,PhD,0,53,R&D,Data Scientist,4,1,1,2,0,1,11,75123,0,17.8,15.8,No,2,4,3,3,3,5,4,60,3,2,Rarely,50,3.88,1
+EMP01949,45,Female,Married,Bachelor,3,18,Marketing,Brand Manager,4,3,3,1,0,2,21,101518,1,14.5,7.1,No,2,3,5,4,4,5,3,15,6,6,Rarely,75,4.09,0
+EMP01077,24,Female,Single,Bachelor,2,51,Operations,Logistics Coordinator,1,3,0,1,1,4,1,51360,0,9.9,6.6,No,3,4,2,4,4,3,5,19,1,2,Rarely,25,3.15,0
+EMP00998,52,Male,Married,Master,1,56,Sales,Sales Rep,2,2,2,3,3,3,28,82649,1,12.7,8.8,No,3,4,3,3,2,4,4,17,4,1,Frequently,100,2.62,1
+EMP01924,52,Male,Married,PhD,1,37,Engineering,DevOps Engineer,2,2,2,0,3,5,31,67891,1,13.6,4.8,Yes,3,3,4,4,3,2,4,26,6,1,Frequently,100,2.79,1
+EMP00801,58,Male,Married,Bachelor,1,49,Operations,Logistics Coordinator,3,1,1,2,1,2,36,79174,0,12.9,11.1,No,3,3,4,4,5,3,3,73,2,1,Frequently,25,3.25,1
+EMP01491,56,Female,Married,Bachelor,0,56,Engineering,QA Engineer,4,1,1,2,0,2,35,92539,0,20.2,9.8,No,1,3,4,5,1,5,3,7,4,2,Rarely,50,4.53,1
+EMP01430,48,Male,Married,High School,0,57,Sales,Sales Rep,3,0,0,1,1,3,25,82176,0,8.9,10.4,Yes,1,3,4,3,4,4,3,24,3,0,Rarely,75,4.97,1
+EMP01177,43,Female,Divorced,High School,0,27,R&D,Data Scientist,2,6,3,3,1,0,22,66141,3,16.0,10.5,No,2,4,3,3,1,1,4,2,4,0,Frequently,25,3.89,0
+EMP00296,27,Female,Divorced,Bachelor,3,59,Sales,Sales Lead,1,5,1,1,2,2,3,53677,1,5.0,9.4,Yes,4,4,1,5,3,2,1,14,7,3,Frequently,25,1.88,1
+EMP00652,31,Male,Married,Bachelor,2,26,Sales,Sales Lead,5,1,1,0,2,1,7,103860,1,8.3,5.9,Yes,4,3,3,5,2,3,4,36,3,3,Rarely,25,3.78,0
+EMP01129,23,Female,Married,Master,2,16,Engineering,Tech Lead,2,3,1,2,1,4,2,58066,1,5.9,6.2,Yes,4,2,4,4,4,4,5,78,7,0,Frequently,50,3.42,1
+EMP00227,28,Female,Married,Bachelor,0,44,R&D,Data Scientist,3,7,3,4,0,3,7,67766,2,16.3,7.3,No,5,4,4,5,3,4,3,62,6,1,Frequently,25,4.07,0
+EMP00238,40,Male,Married,Master,3,58,Engineering,Tech Lead,3,0,0,1,1,2,20,78071,0,8.6,9.2,No,2,4,5,3,3,4,5,1,3,1,Rarely,100,3.04,1
+EMP00160,30,Female,Married,Bachelor,0,3,Sales,Sales Lead,3,0,0,1,0,4,7,81561,3,24.0,13.8,Yes,2,3,4,3,5,4,5,58,2,0,None,25,3.2,1
+EMP01379,55,Female,Single,High School,1,30,Marketing,Content Strategist,3,4,1,1,0,3,34,81451,2,11.6,6.9,No,4,4,5,3,4,2,1,0,2,2,Frequently,50,2.82,0
+EMP01405,34,Female,Divorced,Bachelor,2,40,Marketing,Brand Manager,2,3,0,1,0,3,12,59471,1,18.3,8.5,No,3,4,5,4,4,5,4,8,3,3,Frequently,25,3.71,0
+EMP01308,34,Male,Married,Master,0,24,Marketing,Brand Manager,2,8,2,0,0,3,11,68946,1,11.3,11.7,Yes,3,3,5,2,4,4,4,21,7,6,Frequently,75,3.38,0
+EMP00559,49,Male,Married,Master,2,14,Engineering,DevOps Engineer,2,2,2,0,2,4,29,66518,0,8.2,8.3,No,1,3,3,2,5,1,5,52,7,5,Rarely,100,3.21,1
+EMP01245,42,Male,Divorced,Bachelor,0,12,Sales,Account Manager,2,11,4,2,3,1,21,75270,1,16.0,4.5,No,3,4,4,5,4,5,4,33,5,2,Rarely,0,2.87,0
+EMP00020,59,Male,Divorced,Bachelor,0,24,Sales,Sales Lead,4,10,6,0,3,5,36,94882,0,13.7,11.5,No,5,3,4,5,4,5,3,9,1,7,Frequently,25,3.17,0
+EMP00290,25,Male,Single,High School,2,17,Marketing,Brand Manager,1,2,2,0,1,5,5,50593,3,10.8,6.4,Yes,3,4,2,5,5,5,3,40,3,4,Frequently,0,4.23,1
+EMP00288,26,Female,Single,Master,4,10,Marketing,Brand Manager,4,1,1,2,0,1,2,90287,1,11.1,14.7,No,3,5,4,2,4,4,3,25,7,3,Rarely,0,3.85,0
+EMP01923,34,Female,Single,PhD,3,15,HR,Recruiter,2,16,4,1,3,1,14,67933,0,12.3,8.9,No,2,2,2,3,3,4,3,52,2,3,Rarely,75,3.63,1
+EMP00789,41,Male,Married,Master,1,55,Finance,Accountant,2,4,4,1,0,4,17,62678,0,15.5,10.8,No,3,4,4,4,5,4,4,27,3,3,Rarely,100,3.39,0
+EMP01675,42,Male,Single,High School,3,15,Sales,Sales Lead,1,7,1,2,1,4,21,53559,3,14.1,11.7,No,3,3,4,3,3,4,5,4,4,8,Rarely,25,3.24,0
+EMP00212,53,Male,Single,High School,2,17,Engineering,Software Engineer,2,13,1,0,0,1,33,70022,1,18.4,11.4,No,3,4,4,3,4,3,5,61,5,3,Frequently,50,3.12,0
+EMP01315,50,Female,Single,Bachelor,3,41,Marketing,Marketing Analyst,1,7,3,3,3,2,26,59440,0,12.8,4.1,No,3,1,5,3,5,2,3,40,6,2,Rarely,50,4.46,1
+EMP01136,59,Male,Single,Master,1,49,Marketing,Brand Manager,4,0,0,1,0,1,39,98446,1,15.8,11.4,Yes,5,5,5,4,3,4,3,75,4,3,Frequently,100,2.91,1
+EMP00553,40,Male,Married,Master,3,28,Engineering,Tech Lead,1,1,1,0,2,1,20,55416,1,17.5,10.4,No,5,4,5,3,1,3,4,14,2,3,None,0,3.41,0
+EMP00854,58,Male,Single,Bachelor,3,25,Engineering,Tech Lead,3,6,2,0,0,3,37,73255,0,11.6,5.1,No,5,5,3,4,5,2,5,44,7,6,Rarely,0,2.63,0
+EMP01545,48,Female,Single,Bachelor,2,39,Sales,Account Manager,4,3,3,0,0,3,26,94576,2,16.3,12.8,No,1,5,2,3,4,2,4,78,7,3,Rarely,0,3.73,0
+EMP01172,58,Female,Divorced,Master,1,20,Finance,Financial Analyst,3,5,4,0,0,3,38,84314,0,12.9,4.8,No,2,1,4,2,4,2,2,78,4,1,None,75,2.98,1
+EMP00610,54,Female,Married,Master,3,48,Marketing,Brand Manager,2,16,3,1,2,2,33,76223,2,15.8,0.0,No,3,4,3,5,5,4,5,56,1,3,Frequently,75,2.89,0
+EMP00964,25,Female,Single,Master,2,40,Operations,Logistics Coordinator,2,4,1,1,2,3,4,68418,0,9.9,7.1,No,4,4,4,3,5,2,3,12,3,3,Frequently,25,3.43,0
+EMP00427,23,Male,Single,Bachelor,0,2,Sales,Account Manager,1,2,2,1,0,3,0,55635,2,13.6,10.8,No,3,4,4,4,5,4,5,54,3,5,Rarely,0,2.93,0
+EMP01376,25,Female,Married,Bachelor,2,20,Marketing,Marketing Analyst,4,4,0,0,1,3,5,85438,2,16.8,4.5,No,2,3,4,5,5,4,4,50,5,1,Rarely,25,3.51,0
+EMP00181,22,Male,Married,PhD,2,3,Sales,Sales Rep,3,5,0,1,0,3,0,58918,1,12.1,5.9,No,2,5,4,5,1,5,4,62,5,4,Rarely,100,3.14,0
+EMP01147,53,Male,Single,Bachelor,2,37,Finance,Accountant,1,3,0,1,1,0,29,58963,0,18.7,10.1,No,1,2,4,5,1,2,3,63,4,4,Frequently,100,3.1,1
+EMP00602,29,Male,Single,Master,3,27,Engineering,Tech Lead,5,7,1,2,0,2,6,93153,0,9.0,12.0,No,4,4,4,5,2,1,4,58,3,6,Rarely,25,3.93,0
+EMP00031,24,Male,Single,Master,0,26,Engineering,QA Engineer,5,14,4,1,1,3,2,96501,2,6.9,2.9,Yes,4,4,4,4,1,4,4,31,3,2,Frequently,0,2.79,1
+EMP00905,47,Non-Binary,Divorced,Master,2,17,R&D,ML Engineer,2,3,3,2,0,2,26,65968,0,22.7,8.6,No,1,3,4,4,3,2,5,12,5,4,None,25,3.34,0
+EMP01954,46,Male,Divorced,Bachelor,3,25,Sales,Account Manager,3,1,1,0,1,2,25,82480,0,11.1,7.2,No,3,4,4,1,4,3,4,52,6,3,Frequently,25,4.53,1
+EMP01769,58,Male,Married,High School,2,19,Sales,Sales Rep,2,6,5,2,0,3,36,75803,1,5.0,7.1,Yes,1,5,4,4,3,2,5,37,6,0,Frequently,0,3.61,1
+EMP01533,24,Male,Divorced,Bachelor,2,38,Operations,Supply Chain Specialist,5,3,1,0,0,0,3,100076,2,7.7,4.1,No,5,4,5,5,4,3,1,75,3,4,Rarely,50,3.37,0
+EMP00481,33,Female,Divorced,Master,1,6,HR,HR Specialist,1,4,4,3,0,2,9,53864,0,13.0,8.2,No,1,3,4,1,4,5,2,75,5,1,Frequently,0,2.41,1
+EMP00334,57,Male,Married,Bachelor,0,37,Sales,Sales Lead,4,1,1,1,2,3,34,95803,0,8.4,5.5,No,4,2,3,2,5,2,5,54,5,2,Frequently,0,3.49,1
+EMP01654,57,Female,Divorced,Bachelor,0,30,Engineering,DevOps Engineer,1,0,0,0,1,2,33,54652,2,9.4,9.9,Yes,4,3,5,3,4,4,1,13,2,5,Rarely,50,3.21,0
+EMP00484,46,Male,Married,Bachelor,3,57,Sales,Account Manager,4,3,2,3,0,2,26,96904,0,12.1,10.2,No,4,4,3,2,4,4,2,25,7,4,Rarely,50,3.37,0
+EMP01281,39,Female,Single,High School,3,23,Sales,Account Manager,3,4,0,0,1,3,19,79843,1,16.4,9.5,No,4,4,4,4,5,3,3,23,4,3,Rarely,25,3.19,0
+EMP01440,52,Female,Single,Bachelor,4,41,R&D,ML Engineer,2,5,0,1,1,3,31,77960,2,12.9,8.0,Yes,4,2,4,1,4,2,3,36,7,4,None,25,4.01,1
+EMP00633,43,Female,Divorced,Bachelor,1,32,Engineering,DevOps Engineer,4,0,0,0,1,0,22,96426,1,23.5,7.7,Yes,3,4,4,4,3,1,5,60,4,3,Rarely,25,2.91,0
+EMP00361,53,Female,Single,Master,2,30,HR,Recruiter,4,1,1,0,1,3,30,90559,0,16.7,7.4,No,4,3,2,1,3,5,3,19,4,1,Frequently,50,3.64,1
+EMP00788,34,Male,Divorced,Bachelor,1,8,Sales,Sales Rep,2,18,5,1,0,0,11,65485,2,11.0,7.8,No,4,5,2,5,5,5,2,0,7,2,None,100,3.07,0
+EMP01266,42,Male,Divorced,Master,3,48,Marketing,Content Strategist,3,1,1,0,1,2,18,76273,3,10.1,6.0,No,3,3,5,3,1,1,3,42,2,2,None,50,2.64,0
+EMP00946,54,Female,Married,Master,3,46,Engineering,Tech Lead,1,5,0,0,1,0,33,65239,1,11.1,7.5,Yes,4,2,4,2,5,4,4,60,4,5,Rarely,0,3.13,1
+EMP00949,23,Male,Single,Master,0,19,Operations,Logistics Coordinator,1,1,0,1,1,2,3,40906,0,10.4,6.5,No,3,4,4,2,1,3,4,51,7,4,Frequently,25,4.06,1
+EMP00385,37,Female,Single,Bachelor,1,13,HR,Recruiter,2,5,1,2,0,3,15,59756,1,14.1,0.1,No,5,2,5,4,4,3,4,3,7,2,Frequently,0,3.9,0
+EMP00872,30,Female,Married,Bachelor,0,55,HR,HR Manager,2,0,0,1,1,0,6,54088,2,16.9,10.3,Yes,4,5,2,1,3,3,4,42,6,0,None,25,3.9,1
+EMP01045,41,Male,Married,Bachelor,1,19,Sales,Sales Rep,2,8,1,2,0,1,20,72496,1,16.3,5.9,No,3,3,4,3,3,4,3,42,5,1,Rarely,25,3.4,0
+EMP01834,40,Female,Married,Master,4,17,Engineering,QA Engineer,2,2,2,0,1,7,17,63102,2,10.9,1.4,Yes,4,1,4,3,4,3,4,8,7,1,Rarely,0,3.71,1
+EMP00264,54,Female,Divorced,Master,1,44,Sales,Account Manager,2,1,0,1,1,4,32,66453,0,13.3,4.8,No,4,4,4,1,4,3,3,21,2,3,Rarely,100,3.45,1
+EMP01665,24,Female,Single,Master,2,18,HR,Recruiter,1,1,0,0,1,1,0,44418,0,14.4,8.2,No,4,4,3,5,4,4,4,56,4,2,None,50,4.72,0
+EMP00744,47,Female,Single,Master,0,32,Marketing,Brand Manager,3,5,2,0,2,2,27,81261,1,12.6,9.9,No,3,2,4,5,4,1,4,60,2,4,Rarely,0,3.94,0
+EMP00438,33,Female,Married,Master,3,46,Finance,Financial Analyst,2,4,2,3,0,3,12,57253,3,10.4,5.3,No,1,4,3,3,2,5,1,44,1,0,None,25,3.6,1
+EMP01718,60,Female,Single,High School,4,28,Finance,Finance Manager,1,0,0,0,1,2,38,62489,0,12.4,9.1,No,3,3,3,3,2,5,4,74,2,3,Rarely,25,3.7,1
+EMP01855,46,Female,Single,High School,0,6,R&D,ML Engineer,5,17,3,0,2,2,22,106811,0,11.7,11.9,Yes,3,4,2,4,4,4,3,69,4,3,None,0,2.69,0
+EMP00560,29,Female,Divorced,Bachelor,2,51,Marketing,Brand Manager,1,3,2,1,0,1,9,48564,1,13.6,1.8,No,4,1,1,3,3,4,4,30,7,3,Rarely,50,3.55,0
+EMP00899,56,Male,Divorced,Bachelor,0,31,Finance,Accountant,1,3,0,1,1,4,34,59550,1,14.4,9.7,No,1,2,5,3,5,4,5,45,2,5,None,50,3.08,1
+EMP00607,48,Male,Single,Bachelor,4,47,Operations,Logistics Coordinator,2,2,0,1,1,1,28,59885,0,18.0,11.4,No,4,5,5,4,1,2,3,26,7,5,None,0,4.56,1
+EMP00407,60,Female,Married,Master,3,36,Engineering,DevOps Engineer,2,1,1,0,1,0,37,80744,1,14.2,8.4,No,4,3,4,2,4,3,4,31,2,1,Frequently,50,4.45,0
+EMP00386,60,Male,Single,Master,1,4,Engineering,Tech Lead,3,4,3,3,0,2,36,77181,2,13.1,7.0,No,3,2,5,5,5,2,3,25,1,2,Frequently,50,3.59,0
+EMP01538,56,Non-Binary,Single,PhD,2,53,Marketing,Content Strategist,1,2,0,1,1,2,36,54307,2,13.1,6.3,No,4,2,1,3,4,5,3,65,6,4,Frequently,25,3.21,1
+EMP00472,56,Male,Divorced,Master,2,47,Sales,Sales Lead,4,1,1,0,1,1,32,95326,1,12.3,10.7,No,5,3,1,3,3,4,5,78,3,6,None,50,4.08,0
+EMP00462,50,Male,Married,PhD,1,50,R&D,Data Scientist,3,4,0,0,1,1,30,88860,0,14.7,6.1,Yes,5,3,3,3,4,4,3,20,4,2,Rarely,75,2.33,0
+EMP01333,22,Male,Married,Bachelor,0,43,Sales,Sales Rep,1,2,1,0,2,1,0,46695,1,12.3,10.9,No,5,1,5,3,4,3,2,35,4,3,Rarely,0,2.54,1
+EMP01246,38,Female,Single,Master,0,30,Finance,Accountant,1,17,4,0,5,2,18,51607,1,9.5,7.2,Yes,3,4,5,4,3,4,5,26,2,3,None,50,1.77,0
+EMP00207,40,Female,Single,Bachelor,0,24,R&D,ML Engineer,3,10,3,2,0,2,18,80114,2,12.9,9.0,Yes,4,4,5,3,4,4,5,0,7,4,Rarely,25,2.69,0
+EMP01352,41,Male,Single,Master,0,26,Engineering,DevOps Engineer,3,9,9,0,0,4,20,79734,3,17.4,9.5,No,2,4,4,5,4,3,4,49,4,2,Rarely,50,4.6,0
+EMP00179,53,Male,Married,Master,1,21,HR,HR Specialist,3,3,0,1,1,2,30,86236,2,16.3,11.4,No,3,5,5,2,5,3,4,34,4,3,Frequently,25,2.87,0
+EMP01188,38,Female,Married,Master,0,25,Marketing,Brand Manager,2,12,0,1,1,4,15,66610,1,13.7,10.7,No,2,4,4,2,3,3,5,3,4,3,Frequently,0,4.43,1
+EMP01991,47,Female,Married,PhD,1,54,HR,HR Manager,5,0,0,1,1,3,24,99574,1,10.9,5.1,No,4,5,5,3,4,5,4,36,6,1,None,50,3.3,0
+EMP01180,52,Female,Married,High School,1,35,Finance,Finance Manager,1,0,0,1,1,3,31,55368,0,10.9,7.0,No,3,4,3,4,2,4,3,70,6,1,Rarely,0,3.02,1
+EMP00635,34,Male,Married,PhD,1,24,R&D,Research Scientist,2,14,1,1,2,1,10,77033,1,16.8,8.5,Yes,5,4,3,4,3,4,3,70,7,2,Rarely,50,3.32,0
+EMP01424,61,Male,Married,Master,0,40,Engineering,DevOps Engineer,1,1,1,2,2,2,40,53928,2,13.4,12.7,No,3,3,5,1,5,5,5,22,5,6,None,25,3.22,0
+EMP00971,47,Male,Married,Bachelor,1,22,Operations,Logistics Coordinator,3,4,1,2,2,3,27,80435,2,15.8,7.5,No,4,3,3,5,3,2,5,34,4,6,Rarely,0,2.33,0
+EMP00707,31,Male,Married,High School,4,4,Operations,Operations Analyst,2,3,0,1,1,2,10,57399,0,19.6,6.1,No,5,3,4,4,4,4,4,24,5,5,Rarely,0,2.67,0
+EMP01601,31,Female,Divorced,Bachelor,3,13,R&D,Research Scientist,1,4,4,0,1,3,8,55753,1,8.8,3.9,No,3,2,4,1,2,2,3,16,5,4,Frequently,50,4.24,1
+EMP00755,57,Female,Single,Bachelor,3,9,Finance,Finance Manager,1,4,0,1,1,5,33,57273,1,16.1,10.3,Yes,3,3,3,3,2,3,3,37,2,3,Rarely,100,3.22,1
+EMP01635,41,Male,Single,Bachelor,2,54,Engineering,QA Engineer,2,12,8,1,0,3,21,68010,0,16.6,6.3,No,5,3,4,4,1,4,1,71,7,4,Frequently,50,3.2,1
+EMP01815,35,Male,Married,Master,3,36,Finance,Accountant,3,5,1,1,2,2,15,72729,0,9.6,9.6,Yes,2,4,4,2,4,3,4,38,7,4,Rarely,100,3.14,1
+EMP01880,55,Female,Single,High School,2,54,Finance,Finance Manager,1,7,1,1,1,3,33,57914,0,12.9,8.7,Yes,2,3,3,4,3,5,3,18,3,4,Frequently,25,4.34,1
+EMP00611,41,Female,Divorced,Master,4,31,Operations,Supply Chain Specialist,3,6,0,0,0,2,18,80105,2,10.7,3.9,No,3,2,4,4,5,4,5,42,5,4,Frequently,25,4.32,0
+EMP00051,57,Male,Married,Master,0,59,R&D,Data Scientist,1,10,0,0,0,1,34,56215,2,6.8,7.9,No,2,2,1,1,3,2,2,13,6,6,Rarely,75,3.95,1
+EMP00818,30,Male,Married,Master,0,44,Marketing,Content Strategist,4,3,0,0,0,3,10,88986,0,18.9,12.8,No,5,3,5,2,3,3,4,48,6,5,Rarely,25,3.85,0
+EMP00346,53,Male,Single,Bachelor,4,53,Operations,Operations Analyst,1,7,4,0,1,3,33,62291,2,13.4,7.2,No,5,3,4,4,3,5,3,18,1,2,Rarely,0,5.0,0
+EMP01331,58,Male,Married,Master,1,56,Marketing,Content Strategist,1,0,0,1,1,2,37,53465,0,13.3,9.4,No,3,3,4,4,5,3,5,21,5,3,None,50,3.64,0
+EMP00845,40,Male,Married,High School,2,34,Operations,Logistics Coordinator,5,8,6,1,5,5,16,102027,1,5.4,8.3,Yes,5,4,4,2,3,4,4,12,4,5,None,50,3.43,1
+EMP01433,26,Female,Single,Bachelor,2,36,Marketing,Marketing Analyst,3,5,0,1,1,2,5,70854,2,20.4,11.5,No,2,4,5,5,5,3,3,40,1,3,Rarely,50,2.72,0
+EMP01287,56,Male,Single,High School,0,11,Engineering,Tech Lead,4,3,3,3,0,1,35,92547,1,11.0,6.5,No,4,3,3,3,5,4,1,25,2,3,Rarely,0,2.51,0
+EMP01869,42,Female,Single,Master,3,50,Marketing,Marketing Analyst,2,1,1,2,0,1,20,75972,0,9.2,3.7,Yes,3,2,1,4,4,5,3,46,7,3,Rarely,50,3.13,1
+EMP01633,29,Male,Single,Bachelor,0,19,R&D,ML Engineer,1,2,2,2,0,3,9,40491,0,7.4,12.5,No,5,4,2,3,4,5,4,52,6,2,Frequently,75,3.0,1
+EMP01131,44,Male,Married,High School,0,47,Marketing,Brand Manager,4,4,0,1,1,1,22,83252,1,18.4,7.5,No,5,4,2,2,4,4,3,3,7,2,Rarely,25,3.76,0
+EMP00544,25,Non-Binary,Married,High School,2,18,Sales,Sales Rep,1,5,0,0,0,5,4,45373,0,12.6,10.4,No,3,5,2,2,4,3,3,70,7,3,Frequently,0,4.33,1
+EMP01840,40,Male,Married,Master,1,17,Engineering,Tech Lead,1,0,0,1,0,1,17,47554,0,11.8,5.5,No,5,4,2,5,1,3,3,72,2,5,None,50,4.03,1
+EMP01940,31,Female,Single,Bachelor,0,50,Sales,Sales Lead,2,3,3,0,0,4,11,58657,2,18.0,13.3,No,1,4,4,3,5,4,3,34,2,4,Rarely,25,2.89,0
+EMP00308,24,Female,Divorced,Bachelor,3,32,Engineering,DevOps Engineer,1,11,4,0,0,2,2,43306,0,12.4,14.7,Yes,2,2,5,4,4,3,5,52,2,1,Rarely,25,4.27,1
+EMP00700,51,Male,Married,High School,0,35,Sales,Account Manager,2,15,0,1,0,4,27,59626,0,16.4,6.6,Yes,4,4,1,3,4,4,5,13,3,4,None,50,4.17,0
+EMP00332,34,Female,Single,High School,1,36,Engineering,QA Engineer,4,2,0,1,0,2,11,81808,1,7.8,8.3,No,1,4,3,3,3,4,5,62,4,0,Frequently,0,2.03,1
+EMP01626,27,Female,Divorced,Master,1,34,HR,Recruiter,3,6,0,1,1,2,5,73286,1,9.6,9.2,No,4,4,4,3,3,3,3,70,5,4,Rarely,75,2.76,0
+EMP00287,54,Female,Married,Bachelor,1,19,Operations,Logistics Coordinator,2,13,2,3,0,2,33,66093,2,8.1,10.2,No,3,4,5,5,3,5,3,69,2,1,Rarely,75,5.0,0
+EMP01409,38,Male,Single,Master,0,5,Finance,Financial Analyst,5,7,0,1,1,2,14,98371,2,5.0,8.1,No,5,3,4,2,2,1,5,26,6,1,Rarely,50,2.45,0
+EMP00984,47,Male,Single,Bachelor,0,18,Sales,Sales Lead,1,2,1,2,2,4,26,54343,1,13.8,4.2,No,5,2,3,5,3,3,3,53,4,8,Rarely,0,3.72,1
+EMP01738,31,Female,Married,Bachelor,2,38,Sales,Sales Rep,5,12,5,0,0,4,8,97653,3,13.4,11.5,No,4,3,4,4,4,3,3,38,5,4,Rarely,50,3.63,0
+EMP01025,23,Female,Divorced,PhD,3,38,Sales,Sales Rep,1,1,1,2,0,2,0,55359,0,15.2,3.8,Yes,2,3,3,4,3,5,2,8,3,4,Rarely,25,2.92,1
+EMP00614,50,Female,Single,PhD,2,33,Sales,Account Manager,2,0,0,0,1,2,29,75501,0,10.8,10.5,No,4,4,2,4,1,5,4,74,1,0,Rarely,50,2.74,1
+EMP01782,59,Male,Single,Master,4,27,Operations,Supply Chain Specialist,1,0,0,1,0,1,37,68079,1,14.0,10.8,No,3,4,4,3,4,4,4,13,1,6,None,50,3.37,0
+EMP01382,49,Female,Married,Master,2,30,Marketing,Content Strategist,2,3,3,4,0,3,27,72152,2,10.3,7.5,No,3,4,1,5,4,4,3,74,2,4,Rarely,50,2.8,0
+EMP00545,57,Female,Married,Master,2,16,Sales,Account Manager,5,1,1,2,2,2,33,110462,1,14.1,8.6,No,2,5,3,4,2,3,3,9,1,4,None,0,3.1,0
+EMP00919,36,Male,Single,Bachelor,1,52,R&D,Data Scientist,1,0,0,1,1,1,13,55511,3,15.1,9.1,No,4,3,2,1,1,4,2,38,4,5,None,50,2.74,1
+EMP01767,56,Male,Single,Master,3,9,Engineering,DevOps Engineer,5,0,0,0,0,0,34,97357,1,9.7,5.5,No,2,4,4,5,5,5,5,60,5,2,None,0,1.8,0
+EMP00003,36,Male,Single,Master,1,24,Marketing,Brand Manager,2,1,1,2,1,1,12,65614,1,12.3,2.8,Yes,2,2,1,4,2,2,3,75,2,3,Rarely,0,2.5,1
+EMP00703,50,Male,Married,Bachelor,0,22,Engineering,QA Engineer,2,2,1,2,0,2,29,62684,2,7.9,6.0,No,1,3,2,2,2,3,5,14,4,4,Rarely,75,3.83,1
+EMP00528,34,Non-Binary,Married,High School,3,51,Finance,Accountant,2,9,1,0,2,1,14,69195,0,5.7,1.3,No,1,3,3,3,3,4,3,22,1,5,Rarely,75,2.56,0
+EMP00182,40,Female,Divorced,Master,1,51,HR,HR Specialist,3,0,0,0,1,2,20,77605,1,12.5,1.2,No,1,4,4,4,3,5,4,67,2,3,Rarely,25,2.92,0
+EMP01444,35,Female,Married,PhD,1,43,Engineering,DevOps Engineer,1,1,1,0,2,0,13,48465,2,5.0,12.4,Yes,2,3,4,2,3,5,2,43,1,3,None,50,4.59,1
+EMP00188,25,Female,Married,High School,1,1,HR,Recruiter,2,8,1,2,1,3,5,71456,1,15.2,2.2,Yes,3,2,4,4,5,5,4,40,5,1,None,0,3.46,0
+EMP01085,49,Female,Divorced,Bachelor,2,40,Engineering,Tech Lead,1,11,4,0,2,1,29,53674,0,9.4,6.2,No,3,2,4,2,4,1,4,18,2,1,Frequently,25,3.84,1
+EMP01707,35,Female,Single,Master,1,39,Marketing,Content Strategist,3,5,0,1,1,2,15,70696,0,9.8,8.0,No,4,4,3,4,5,5,5,73,6,2,None,0,4.84,0
+EMP01511,36,Female,Married,Bachelor,2,47,Finance,Finance Manager,3,12,8,6,4,7,15,79291,0,9.0,7.8,No,3,1,4,3,4,4,3,71,5,3,Rarely,25,4.6,1
+EMP01196,50,Male,Married,Bachelor,0,43,Marketing,Marketing Analyst,4,2,1,0,0,5,30,89279,3,9.1,10.5,Yes,5,3,4,4,4,3,4,10,4,4,None,75,2.1,0
+EMP00722,29,Male,Single,Bachelor,1,47,HR,HR Manager,4,1,1,1,1,3,5,79920,0,24.2,16.0,No,4,3,3,4,4,5,5,60,6,2,Frequently,75,2.84,1
+EMP01505,50,Female,Married,Bachelor,1,22,Engineering,Software Engineer,5,2,2,0,3,0,27,102760,1,12.2,3.4,No,3,1,3,4,4,4,4,25,7,4,None,75,3.55,0
+EMP00601,47,Female,Single,High School,0,58,Marketing,Marketing Analyst,4,0,0,0,1,3,25,89783,1,16.2,11.8,Yes,1,4,5,5,4,4,4,39,2,2,Frequently,100,3.78,1
+EMP00153,48,Female,Single,Bachelor,3,13,Marketing,Marketing Analyst,2,16,6,1,0,2,25,76476,2,6.4,9.5,Yes,2,3,3,3,2,4,3,62,7,4,None,100,3.59,1
+EMP00044,41,Male,Married,Bachelor,0,32,Engineering,Tech Lead,1,1,1,2,1,2,21,53103,1,13.0,11.1,Yes,3,5,4,5,5,3,5,63,3,2,None,50,4.28,1
+EMP00409,54,Male,Single,Bachelor,2,32,Sales,Account Manager,2,6,0,1,0,3,33,62934,1,17.9,7.7,No,4,5,3,2,2,2,3,8,2,4,None,75,3.53,0
+EMP00135,57,Female,Single,Bachelor,3,19,Sales,Sales Rep,2,9,0,1,1,3,36,73809,3,10.1,4.2,Yes,3,1,4,4,3,5,5,37,4,3,Rarely,0,3.95,0
+EMP00123,47,Male,Divorced,High School,0,14,Engineering,QA Engineer,3,0,0,1,1,3,25,86919,1,12.8,7.0,No,4,3,4,3,1,4,4,32,3,4,Frequently,75,3.02,0
+EMP00896,58,Male,Single,Master,1,15,Engineering,Software Engineer,2,0,0,1,1,2,37,71659,0,13.0,8.7,No,5,2,5,5,5,1,3,70,1,2,None,50,3.55,0
+EMP00735,26,Female,Single,High School,1,14,HR,HR Manager,2,10,4,3,2,4,5,66185,1,10.9,6.9,No,3,1,2,4,5,3,3,70,2,4,None,25,3.23,0
+EMP01422,40,Male,Single,Bachelor,0,39,Marketing,Brand Manager,2,5,3,2,1,3,18,66732,0,7.2,8.7,No,3,5,3,4,4,3,5,73,4,5,Rarely,25,2.49,0
+EMP00902,26,Female,Single,PhD,2,14,Sales,Sales Rep,1,3,0,0,1,1,4,42967,1,18.6,10.9,No,2,4,5,4,2,2,3,29,3,1,None,25,4.04,0
+EMP00778,58,Female,Single,PhD,1,53,Operations,Supply Chain Specialist,2,3,1,2,2,0,34,73463,3,11.1,5.8,No,3,5,4,2,4,2,4,23,3,2,Frequently,50,2.33,0
+EMP01723,23,Male,Married,Bachelor,4,38,Engineering,Tech Lead,4,2,2,0,0,1,2,89644,3,19.3,11.2,No,2,4,5,3,3,4,2,61,5,4,None,75,3.41,0
+EMP00924,23,Female,Married,Master,0,49,Engineering,Tech Lead,3,6,2,3,3,1,2,77825,0,12.4,6.0,Yes,2,2,5,4,4,3,4,63,6,2,Frequently,75,3.05,1
+EMP00858,24,Female,Married,Bachelor,3,50,Engineering,DevOps Engineer,1,11,4,1,1,2,1,45561,1,16.2,9.3,No,1,3,3,4,4,5,4,13,6,0,Frequently,75,3.89,1
+EMP00030,36,Female,Married,Master,2,38,Sales,Account Manager,4,7,0,1,1,2,12,90560,0,13.1,6.9,No,3,2,4,3,3,4,1,6,4,1,Rarely,75,3.62,1
+EMP00886,55,Male,Married,Bachelor,0,34,HR,Recruiter,3,17,5,0,1,3,35,80373,1,18.6,6.0,No,3,3,3,2,4,2,4,35,6,6,None,25,3.86,0
+EMP00471,56,Female,Single,High School,0,46,Engineering,QA Engineer,1,1,0,1,0,3,35,55949,0,19.5,11.4,No,4,4,5,5,4,1,4,8,1,2,Rarely,0,4.15,0
+EMP01671,54,Female,Single,High School,2,16,R&D,Research Scientist,3,1,1,2,1,1,32,88573,1,17.4,6.9,No,2,5,3,4,5,4,4,33,2,3,None,100,3.58,1
+EMP00673,33,Female,Single,Bachelor,0,6,HR,Recruiter,4,5,1,1,1,4,9,83108,0,12.5,7.2,Yes,4,4,4,3,5,2,4,23,5,1,Frequently,75,3.57,1
+EMP01851,36,Female,Married,Master,3,35,Operations,Operations Analyst,2,6,6,1,0,1,12,63581,1,9.9,9.5,Yes,4,2,4,3,4,5,3,22,7,2,None,50,4.11,0
+EMP00216,60,Female,Married,Master,2,13,Engineering,QA Engineer,2,3,3,0,0,5,40,74154,0,9.9,8.6,No,3,2,5,4,4,3,5,37,5,2,Rarely,25,5.0,0
+EMP01877,46,Female,Single,High School,1,43,Sales,Sales Rep,2,2,2,0,0,0,24,74960,0,13.5,5.7,Yes,3,5,4,4,4,3,5,3,1,8,Frequently,25,3.32,1
+EMP01019,47,Female,Divorced,Bachelor,2,4,Sales,Sales Rep,2,10,0,0,0,2,27,71142,2,15.0,7.4,No,4,3,5,1,1,4,4,4,3,3,None,75,4.95,0
+EMP00328,47,Male,Married,High School,2,14,Finance,Financial Analyst,4,5,2,0,3,1,25,89853,1,15.0,10.9,No,4,4,4,4,3,5,5,79,2,5,Rarely,0,3.46,0
+EMP01176,44,Male,Single,Bachelor,1,8,R&D,Research Scientist,2,13,0,0,0,3,23,63989,0,16.7,13.9,Yes,3,4,3,4,3,4,3,78,5,4,Rarely,100,3.31,0
+EMP00368,40,Female,Married,Bachelor,2,36,R&D,Research Scientist,4,4,4,0,2,4,19,88011,1,9.3,6.8,No,3,4,2,3,4,4,5,1,4,3,Frequently,0,2.75,0
+EMP00400,51,Male,Single,Master,2,7,R&D,ML Engineer,1,4,0,1,0,3,27,54392,1,13.7,9.9,No,5,4,5,4,3,3,3,5,7,7,Rarely,0,4.53,0
+EMP01081,40,Male,Married,Master,4,44,Operations,Operations Analyst,2,8,1,2,1,3,18,62703,0,10.9,3.9,No,3,4,4,2,5,3,5,35,2,3,Rarely,50,3.84,0
+EMP00121,36,Male,Divorced,Bachelor,1,22,Marketing,Brand Manager,1,0,0,0,1,4,16,44396,2,15.2,5.0,No,4,4,2,3,5,2,3,28,3,3,None,0,3.54,0
+EMP00520,32,Male,Divorced,Bachelor,2,17,Engineering,QA Engineer,2,2,2,0,3,3,12,62403,0,14.6,9.5,No,2,3,3,2,4,4,4,42,2,3,Rarely,100,3.36,1
+EMP00952,31,Female,Married,Bachelor,1,15,Finance,Accountant,2,11,1,2,1,3,9,72246,1,5.0,5.8,No,4,4,2,4,4,4,5,35,6,4,Rarely,50,4.19,0
+EMP00015,24,Male,Divorced,High School,0,39,Engineering,DevOps Engineer,3,2,2,3,2,2,2,68243,0,11.4,13.6,No,5,5,3,5,4,4,3,33,6,1,Rarely,25,2.73,0
+EMP01713,35,Female,Single,Bachelor,2,44,HR,HR Specialist,5,3,3,3,1,1,13,103059,2,12.6,6.0,No,2,4,2,3,4,3,4,30,5,2,Frequently,0,2.96,0
+EMP01905,49,Female,Divorced,Bachelor,4,39,Sales,Sales Rep,1,0,0,0,0,3,28,63601,0,11.4,10.6,No,4,4,4,1,5,2,4,69,4,4,Frequently,0,1.9,1
+EMP00880,51,Female,Single,Master,1,4,Operations,Supply Chain Specialist,3,11,11,2,0,6,29,80322,0,19.1,7.9,No,3,2,5,2,2,3,3,25,1,4,None,50,3.07,1
+EMP01024,59,Male,Single,Master,2,53,Sales,Account Manager,2,3,3,2,2,2,38,72677,2,7.8,9.3,No,4,4,4,4,2,4,1,56,3,2,None,100,3.38,0
+EMP01714,60,Male,Divorced,High School,3,6,Sales,Sales Lead,3,5,2,0,1,5,37,83192,1,15.6,8.6,Yes,2,3,3,4,3,4,4,37,1,3,Rarely,0,5.0,0
+EMP00419,40,Female,Single,Master,2,51,Marketing,Content Strategist,2,3,1,2,2,3,18,68224,0,11.4,9.2,No,4,3,4,2,4,1,3,63,3,3,Rarely,0,3.74,1
+EMP01262,28,Male,Divorced,Master,3,21,HR,HR Manager,1,5,0,1,1,3,6,45781,1,19.9,7.9,Yes,4,4,5,4,5,3,4,1,6,4,Rarely,50,3.52,0
+EMP00585,24,Female,Married,Bachelor,4,34,Engineering,Tech Lead,1,1,1,1,0,2,3,53866,3,17.0,14.0,No,5,3,1,5,3,4,5,13,6,1,Rarely,75,2.81,0
+EMP01520,32,Male,Single,High School,0,36,Engineering,Tech Lead,1,13,6,0,2,3,10,53580,3,8.8,6.0,Yes,4,3,3,4,3,4,4,20,7,5,Rarely,0,4.65,1
+EMP01178,42,Female,Divorced,Bachelor,0,47,R&D,Research Scientist,3,1,1,0,2,1,18,87411,1,12.5,9.5,Yes,3,4,4,4,4,5,3,79,2,2,None,75,2.51,0
+EMP01579,51,Female,Married,Bachelor,0,27,Marketing,Marketing Analyst,1,3,1,0,2,4,27,50796,0,9.4,6.9,Yes,4,5,5,3,3,4,3,17,1,4,Rarely,0,3.67,0
+EMP00327,50,Female,Single,PhD,0,40,Operations,Logistics Coordinator,1,2,0,1,1,0,29,61535,1,9.0,12.7,Yes,3,3,2,4,3,4,1,36,6,0,Rarely,50,2.99,1
+EMP01508,56,Non-Binary,Married,Bachelor,1,40,Finance,Accountant,1,0,0,0,1,3,32,62450,0,7.6,6.5,No,3,2,3,2,3,4,5,36,2,4,Rarely,75,3.8,1
+EMP00625,54,Female,Single,High School,0,16,Operations,Logistics Coordinator,2,5,1,2,2,2,31,65866,1,13.4,2.7,No,3,3,4,3,3,3,4,0,5,7,Frequently,25,3.19,0
+EMP01962,55,Female,Married,Bachelor,2,10,Sales,Account Manager,3,8,4,2,2,4,35,81627,0,11.7,8.8,No,4,4,4,3,2,4,3,30,6,2,Rarely,25,2.92,0
+EMP01310,39,Male,Married,Master,1,30,Sales,Sales Lead,4,0,0,1,0,3,19,86385,0,14.6,9.8,No,4,4,3,5,3,1,4,56,4,5,None,25,2.95,0
+EMP01875,50,Male,Married,Master,2,32,Engineering,Tech Lead,1,12,2,3,0,5,27,60011,0,15.0,8.1,Yes,4,4,5,3,3,4,4,37,7,2,None,50,2.71,1
+EMP00085,45,Male,Divorced,Master,1,55,Engineering,Software Engineer,4,18,6,1,1,2,25,76040,2,9.9,9.0,No,4,1,4,3,4,3,5,64,3,4,Frequently,100,3.4,0
+EMP00435,54,Female,Married,Bachelor,3,22,Marketing,Brand Manager,1,3,0,1,1,3,34,62042,0,10.1,11.5,No,4,3,3,4,1,3,4,39,1,7,Frequently,50,3.68,1
+EMP00992,57,Male,Married,Master,2,4,Engineering,QA Engineer,3,5,2,3,0,3,34,93373,2,16.8,7.6,No,1,1,1,4,4,5,3,79,1,2,Rarely,75,4.12,0
+EMP00536,59,Male,Single,Bachelor,1,23,Sales,Account Manager,2,22,0,1,1,4,36,83588,3,12.0,8.1,No,5,5,3,4,4,3,2,24,1,4,Frequently,50,2.54,0
+EMP01425,49,Male,Single,Bachelor,3,33,Engineering,QA Engineer,3,2,0,0,1,2,25,81099,1,10.0,8.4,No,3,5,3,1,4,3,5,7,1,1,Rarely,0,4.04,0
+EMP00175,23,Female,Married,Master,0,13,Marketing,Marketing Analyst,3,10,2,2,3,3,3,71962,1,16.1,9.8,No,4,3,3,1,3,5,3,12,2,4,Frequently,50,3.42,0
+EMP00445,34,Male,Married,Bachelor,2,32,HR,Recruiter,1,0,0,0,1,3,10,52061,1,12.9,6.1,No,5,2,4,3,4,4,5,50,1,2,Frequently,75,2.6,1
+EMP00687,59,Male,Single,High School,3,50,Engineering,Software Engineer,4,4,4,0,3,0,36,94852,2,17.6,7.7,Yes,2,3,4,3,1,3,3,44,4,2,None,100,3.26,1
+EMP01328,51,Male,Divorced,Bachelor,3,48,Finance,Finance Manager,2,7,0,0,1,2,30,65858,1,20.6,12.5,No,3,5,3,4,3,2,4,48,6,2,None,25,5.0,0
+EMP00934,36,Male,Married,Bachelor,2,57,Marketing,Marketing Analyst,1,15,1,2,1,1,13,68516,3,8.8,9.5,Yes,3,3,4,3,3,4,5,73,6,4,Rarely,75,3.99,0
+EMP01992,59,Male,Divorced,High School,0,9,Finance,Financial Analyst,4,0,0,0,1,2,38,93622,0,8.4,13.6,Yes,4,4,5,4,3,5,5,41,2,3,Frequently,0,4.56,1
+EMP00968,52,Male,Divorced,Master,1,33,Sales,Account Manager,1,4,3,0,0,1,32,56574,2,11.3,7.1,No,5,1,2,4,3,3,4,2,1,0,Rarely,25,4.47,0
+EMP01090,22,Male,Single,Master,2,47,Operations,Operations Analyst,1,6,0,0,1,2,0,45445,2,14.1,8.2,No,5,4,5,4,4,2,3,32,6,0,Rarely,50,2.49,0
+EMP01989,40,Female,Divorced,Bachelor,2,10,Marketing,Content Strategist,1,4,4,1,1,2,17,54437,1,18.8,7.6,No,5,5,2,3,5,5,5,3,7,1,Frequently,0,3.65,0
+EMP00047,29,Female,Married,Bachelor,0,14,Engineering,Tech Lead,5,3,3,3,1,1,8,95137,1,12.8,8.8,Yes,3,4,5,3,5,4,3,71,5,3,Frequently,0,3.44,0
+EMP01857,53,Male,Single,PhD,3,59,Engineering,DevOps Engineer,4,8,1,2,2,4,31,94080,0,15.0,15.1,No,5,5,3,3,1,3,4,17,6,6,Frequently,0,4.06,1
+EMP01517,35,Female,Single,Bachelor,1,52,Sales,Sales Rep,4,2,1,1,0,5,14,87913,1,7.6,5.1,Yes,2,1,3,2,3,5,5,9,3,1,Rarely,50,3.69,1
+EMP01874,49,Male,Divorced,Bachelor,1,15,Operations,Operations Analyst,4,6,0,1,1,4,28,86684,0,10.5,5.6,No,2,3,4,5,2,5,3,3,5,6,None,75,3.09,1
+EMP01746,29,Female,Married,High School,2,21,Marketing,Content Strategist,4,0,0,1,1,2,9,83453,0,14.3,7.1,Yes,5,3,4,4,3,4,4,7,3,1,Rarely,25,3.05,0
+EMP01385,24,Male,Married,Bachelor,1,57,HR,HR Specialist,3,8,3,0,2,1,3,72741,2,11.5,6.2,No,1,3,1,5,5,4,4,56,3,2,Frequently,50,4.05,0
+EMP01359,26,Male,Married,Bachelor,1,21,R&D,Research Scientist,2,0,0,0,1,4,2,58507,3,12.0,11.0,No,3,4,5,3,4,5,4,31,4,2,None,25,4.6,0
+EMP01619,36,Male,Divorced,High School,2,56,HR,HR Specialist,3,14,0,1,0,5,14,70050,2,12.4,8.7,No,5,2,4,3,4,5,3,1,6,2,Rarely,0,2.61,0
+EMP01921,31,Male,Married,Master,1,46,Sales,Sales Rep,3,9,9,1,4,2,7,82361,1,14.3,10.9,No,4,3,4,2,3,4,3,73,6,4,Rarely,100,4.48,0
+EMP00389,50,Female,Married,Bachelor,2,57,Engineering,Tech Lead,1,2,1,1,2,4,28,65492,0,16.0,12.3,Yes,3,2,1,4,3,4,4,73,6,11,None,0,4.12,1
+EMP01691,57,Male,Married,PhD,4,9,Engineering,QA Engineer,3,0,0,1,0,1,33,80431,1,10.0,10.5,No,5,4,3,5,4,4,4,56,7,3,Frequently,50,4.48,0
+EMP00310,46,Female,Divorced,Bachelor,3,53,Finance,Accountant,1,8,0,1,0,3,22,54078,1,19.8,7.3,No,3,2,4,3,3,5,4,8,6,3,Rarely,0,3.29,0
+EMP01652,46,Female,Married,Master,2,43,Marketing,Content Strategist,3,22,11,0,1,6,25,80012,2,8.2,7.3,Yes,4,5,4,3,4,5,3,67,1,1,None,50,4.04,0
+EMP00786,46,Male,Single,Bachelor,2,39,HR,Recruiter,3,0,0,1,0,3,23,80048,1,8.0,6.6,No,1,4,4,3,3,3,4,7,7,2,Frequently,25,4.16,1
+EMP01752,58,Female,Divorced,High School,0,55,Engineering,Tech Lead,3,6,3,2,3,2,37,79010,0,11.3,2.9,No,3,1,4,2,4,3,5,7,1,4,Frequently,100,4.39,1
+EMP00797,55,Male,Married,Master,1,27,Operations,Operations Analyst,5,1,1,0,0,0,33,104099,0,12.1,6.2,No,4,5,5,5,3,3,3,62,1,5,Frequently,50,3.64,0
+EMP00980,29,Female,Single,Bachelor,0,38,Finance,Financial Analyst,2,9,1,1,2,1,5,70952,2,7.3,7.0,Yes,3,3,5,3,4,2,4,70,7,4,Frequently,25,2.71,0
+EMP01270,36,Male,Married,Bachelor,2,55,Engineering,Software Engineer,3,1,1,2,1,3,12,75063,1,15.5,4.1,Yes,3,3,2,4,5,5,5,29,2,2,Rarely,50,3.4,0
+EMP00249,61,Male,Divorced,Bachelor,3,44,R&D,Research Scientist,1,2,0,1,0,5,38,56324,0,14.2,4.6,Yes,2,3,2,2,4,4,3,13,4,0,Rarely,0,3.43,1
+EMP01234,33,Male,Single,PhD,2,45,R&D,Research Scientist,1,4,0,1,1,3,9,49752,0,12.5,5.3,No,5,4,4,3,5,3,2,32,6,5,None,50,3.17,0
+EMP01510,60,Female,Divorced,Master,0,41,Finance,Financial Analyst,2,1,1,1,0,1,37,74568,0,10.2,2.1,No,3,1,4,2,3,5,4,3,7,4,Rarely,0,4.33,1
+EMP00926,61,Female,Married,Master,2,17,Marketing,Content Strategist,4,5,5,6,0,5,40,93929,1,10.7,6.3,No,4,5,2,3,3,4,4,7,1,0,Frequently,50,4.55,0
+EMP00286,49,Female,Married,High School,2,12,HR,HR Specialist,3,0,0,0,0,4,27,79580,0,7.9,7.3,Yes,3,5,2,5,3,5,5,61,6,1,Frequently,25,4.26,1
+EMP01220,30,Male,Married,Master,0,55,HR,HR Manager,4,6,6,0,4,3,7,84087,1,17.8,5.5,No,5,5,3,5,3,4,5,67,5,2,Rarely,25,3.35,0
+EMP00678,38,Male,Single,Bachelor,0,28,Marketing,Brand Manager,5,4,0,1,1,1,17,99143,1,14.2,3.3,No,4,5,4,3,4,2,3,13,7,1,Rarely,50,3.33,0
+EMP00374,47,Female,Married,High School,0,4,Engineering,DevOps Engineer,1,9,1,2,0,1,25,54234,2,7.9,6.8,No,5,3,4,2,2,4,4,3,7,4,None,50,2.46,0
+EMP00639,22,Male,Single,Bachelor,0,20,Marketing,Content Strategist,3,8,3,0,1,3,1,69087,2,14.7,6.8,No,2,4,1,4,5,4,4,54,5,0,None,25,3.85,0
+EMP00770,28,Female,Married,Master,0,34,Engineering,Software Engineer,2,3,1,1,1,2,6,62001,3,16.6,8.0,No,2,4,2,4,4,4,5,65,3,1,Rarely,0,3.83,0
+EMP00648,24,Male,Single,High School,0,2,Operations,Operations Analyst,4,4,4,1,0,1,0,90414,2,13.5,0.8,Yes,5,3,5,4,4,3,4,32,3,4,Rarely,75,4.01,0
+EMP01435,44,Male,Married,Master,2,16,Operations,Supply Chain Specialist,2,1,1,0,0,2,22,70168,1,12.2,8.5,No,2,4,1,5,5,2,4,42,3,1,Rarely,25,3.65,0
+EMP00706,38,Female,Single,Bachelor,2,19,Marketing,Content Strategist,3,4,3,0,1,1,15,80073,1,11.8,4.8,Yes,3,3,4,3,2,3,4,75,3,1,Rarely,0,3.07,0
+EMP01813,52,Female,Single,Bachelor,0,34,Sales,Sales Rep,5,0,0,1,0,2,28,106589,0,9.3,3.5,No,4,5,3,3,4,5,4,74,7,2,Frequently,0,2.94,1
+EMP01414,61,Male,Single,Master,3,38,Sales,Sales Lead,3,11,6,2,1,5,40,86390,2,18.2,6.1,Yes,5,4,4,4,3,3,3,43,4,3,Frequently,50,3.23,1
+EMP00893,50,Male,Married,Bachelor,4,42,Sales,Account Manager,3,11,0,0,0,0,30,81358,2,9.2,8.8,No,2,3,3,2,5,5,3,1,4,3,Rarely,0,4.34,0
+EMP01122,50,Female,Married,Master,2,42,Finance,Accountant,1,3,1,2,0,5,27,52569,2,13.6,7.8,Yes,5,2,3,2,4,4,4,16,3,4,Rarely,50,4.08,1
+EMP01939,36,Male,Married,Master,0,1,Sales,Account Manager,1,2,2,1,0,2,16,48021,2,16.0,0.5,No,5,5,2,2,3,5,2,18,3,6,None,25,4.06,0
+EMP00037,39,Female,Divorced,Bachelor,0,47,Sales,Sales Lead,1,7,1,2,2,0,19,42557,3,7.8,8.6,No,1,4,4,3,4,3,4,52,3,4,Rarely,25,2.84,0
+EMP00424,37,Female,Single,Master,1,16,R&D,ML Engineer,5,6,4,0,2,3,16,97671,1,5.0,7.9,Yes,5,3,5,4,1,5,2,54,2,3,None,25,2.66,0
+EMP01423,37,Female,Single,Master,2,35,Operations,Operations Analyst,2,7,4,2,4,2,14,64274,0,11.3,7.8,No,4,2,2,5,4,4,2,37,5,2,None,25,3.87,1
+EMP01572,29,Female,Married,Bachelor,0,59,Sales,Sales Rep,1,0,0,1,1,2,8,56544,0,10.6,6.9,Yes,5,4,4,4,5,2,5,69,7,4,Rarely,50,3.73,1
+EMP01132,33,Female,Divorced,High School,3,24,Operations,Operations Analyst,4,0,0,0,0,4,9,88996,3,8.0,11.4,Yes,3,4,3,5,4,2,3,3,4,2,None,75,3.83,0
+EMP00547,52,Male,Divorced,High School,1,16,R&D,ML Engineer,2,3,2,0,2,3,31,73192,1,13.2,9.8,No,2,4,3,1,4,1,4,34,6,1,Frequently,25,5.0,0
+EMP00603,49,Male,Married,Bachelor,0,35,Operations,Supply Chain Specialist,4,9,1,0,0,2,28,89612,1,16.4,14.1,No,1,4,3,4,4,3,3,55,7,3,Frequently,0,3.34,0
+EMP00782,38,Female,Married,Master,2,10,HR,HR Manager,1,0,0,0,1,3,17,52419,1,7.1,2.3,No,5,5,4,3,4,5,4,78,5,2,None,25,3.95,0
+EMP00567,54,Male,Married,Bachelor,3,3,Marketing,Content Strategist,1,16,0,1,1,1,31,57252,0,7.7,8.6,Yes,4,5,5,4,4,4,3,79,2,4,None,25,3.69,0
+EMP00418,31,Male,Single,Master,0,52,Marketing,Content Strategist,5,2,0,0,0,5,9,98701,1,12.5,8.6,Yes,2,4,5,3,3,3,5,10,5,1,Rarely,75,3.56,1
+EMP01403,27,Male,Married,Bachelor,2,59,R&D,Research Scientist,1,4,1,1,0,3,4,54388,1,8.7,11.3,No,5,3,3,5,3,4,4,29,3,4,Frequently,0,3.54,0
+EMP00497,30,Male,Married,Bachelor,1,13,Marketing,Content Strategist,3,17,0,1,1,1,10,79059,1,10.6,9.2,No,4,3,4,4,5,4,4,20,1,4,Rarely,25,4.29,0
+EMP00641,27,Male,Married,Bachelor,1,56,Sales,Account Manager,3,0,0,0,1,4,6,72739,0,10.1,7.3,No,5,2,3,4,4,3,4,40,4,7,Frequently,0,2.79,1
+EMP01084,44,Female,Single,Bachelor,1,54,Operations,Operations Analyst,1,2,0,0,1,2,20,63445,3,19.5,11.3,Yes,3,2,5,4,5,4,5,43,7,2,Rarely,0,3.96,1
+EMP00927,61,Male,Single,Master,2,18,Engineering,Software Engineer,2,8,4,4,3,1,37,78851,2,18.6,7.7,Yes,1,1,5,3,1,4,1,78,6,4,Rarely,50,4.08,1
+EMP01046,41,Male,Single,Bachelor,1,48,Finance,Financial Analyst,4,5,0,1,0,4,18,101804,3,17.5,9.1,No,3,1,4,2,4,3,3,38,6,1,Rarely,50,3.23,1
+EMP00394,58,Male,Divorced,Master,2,8,Engineering,Software Engineer,2,1,0,1,1,1,34,82202,1,23.9,8.7,No,3,1,4,4,2,2,4,28,7,3,Frequently,50,3.07,1
+EMP01480,43,Male,Married,High School,2,52,R&D,Data Scientist,3,19,1,2,0,4,21,83011,2,6.4,8.7,No,5,3,3,4,3,4,4,1,2,4,None,75,3.72,0
+EMP00991,33,Male,Married,Bachelor,0,44,R&D,Research Scientist,2,15,1,2,1,0,11,57075,1,15.8,12.0,No,4,4,3,1,4,4,5,45,5,5,None,25,3.59,0
+EMP01550,29,Male,Single,Bachelor,2,36,HR,HR Manager,4,2,1,1,0,1,9,100128,1,10.9,7.6,No,1,5,5,3,4,2,5,13,2,3,None,25,4.57,1
+EMP01698,42,Male,Divorced,Bachelor,2,16,R&D,Data Scientist,3,4,1,0,1,0,22,72139,3,8.6,10.2,No,3,3,5,2,2,3,4,44,2,1,Rarely,25,2.37,0
+EMP01548,38,Male,Married,Bachelor,0,5,Engineering,Software Engineer,3,0,0,1,0,2,14,78366,2,24.8,3.8,No,4,4,3,1,5,4,5,5,6,2,Rarely,25,4.1,0
+EMP00025,43,Female,Married,Bachelor,2,27,Sales,Sales Lead,2,1,1,1,2,3,20,64763,3,11.5,3.7,Yes,3,5,3,4,4,4,3,50,3,3,Rarely,25,3.62,0
+EMP01659,27,Female,Married,Master,0,8,Sales,Sales Lead,4,0,0,1,1,3,7,87010,1,6.8,8.8,No,1,2,5,3,5,5,4,70,1,5,None,75,4.22,1
+EMP01853,40,Female,Married,Master,1,57,R&D,ML Engineer,2,1,0,1,1,3,19,60491,0,10.3,4.8,No,3,4,4,2,5,4,3,67,1,4,None,50,3.44,0
+EMP00737,49,Female,Single,Bachelor,0,57,Operations,Logistics Coordinator,3,4,4,0,0,3,28,81516,0,16.6,4.8,No,5,3,5,2,4,4,4,48,4,3,Frequently,25,2.69,1
+EMP01254,46,Female,Married,Bachelor,3,41,HR,HR Manager,2,1,1,0,2,2,22,62995,1,13.1,6.3,Yes,1,5,4,3,4,5,2,65,5,1,None,0,3.18,1
+EMP00682,42,Male,Married,Bachelor,0,50,Marketing,Content Strategist,2,6,2,0,3,3,20,72690,2,14.8,15.0,No,5,2,4,3,5,2,4,66,5,4,None,25,3.03,0
+EMP01021,46,Female,Married,Bachelor,3,18,Operations,Logistics Coordinator,2,6,3,4,0,1,24,74142,0,16.3,7.3,Yes,3,3,1,2,5,3,1,49,2,2,None,25,4.02,0
+EMP01953,31,Female,Married,Master,1,19,Sales,Account Manager,3,15,1,1,2,2,8,80535,1,11.7,7.6,No,1,4,3,5,4,4,2,37,1,3,None,50,4.01,0
+EMP01173,46,Female,Single,High School,0,52,Engineering,Tech Lead,2,16,0,0,1,2,23,72303,0,16.4,5.6,Yes,5,5,3,1,3,3,4,11,5,3,None,75,4.36,1
+EMP01419,54,Male,Married,Master,1,30,Marketing,Brand Manager,2,1,1,0,1,1,34,71474,0,17.7,5.0,No,3,3,5,1,4,4,2,12,3,0,Rarely,50,3.66,0
+EMP01870,47,Male,Married,Bachelor,1,9,Finance,Accountant,5,1,1,1,1,6,24,104565,2,11.8,8.1,No,3,3,5,5,5,3,3,74,5,1,Frequently,75,3.49,0
+EMP01218,23,Female,Married,PhD,1,9,Finance,Financial Analyst,2,6,0,1,1,0,3,62994,1,13.8,6.2,Yes,5,2,5,4,2,4,5,57,4,3,None,50,2.99,0
+EMP00716,32,Female,Married,Bachelor,1,54,HR,HR Specialist,1,3,2,1,1,4,12,53182,0,5.0,10.1,No,1,5,4,4,1,1,3,5,5,7,Rarely,25,3.57,1
+EMP00071,37,Female,Married,PhD,0,40,Operations,Logistics Coordinator,1,4,1,2,2,2,13,56926,1,5.0,4.1,Yes,2,3,4,5,3,5,5,6,2,4,None,75,3.91,1
+EMP01515,53,Female,Divorced,Master,2,45,Marketing,Brand Manager,2,0,0,0,1,0,33,67480,0,8.4,7.2,No,1,2,1,4,5,4,4,67,6,4,None,75,4.48,1
+EMP01726,26,Male,Married,Master,4,21,Sales,Account Manager,5,9,9,10,2,2,3,102115,2,8.9,8.3,No,4,3,5,4,4,5,4,66,7,2,Rarely,0,3.83,0
+EMP00953,54,Female,Married,Bachelor,0,59,Finance,Accountant,2,0,0,0,1,1,31,71470,0,15.8,9.3,No,5,3,4,4,4,4,4,19,5,5,Frequently,50,2.82,1
+EMP01277,52,Female,Married,Bachelor,2,25,Sales,Sales Rep,4,0,0,1,0,3,31,86456,3,14.8,11.3,No,3,2,2,1,1,4,5,52,7,3,Rarely,25,2.75,1
+EMP00696,59,Male,Divorced,Bachelor,3,37,Engineering,DevOps Engineer,4,2,2,0,0,4,38,88321,0,8.5,4.5,No,2,5,3,4,3,5,2,3,5,3,None,50,3.95,1
+EMP01806,48,Female,Married,Bachelor,0,16,Sales,Account Manager,1,13,3,1,1,7,24,51634,2,9.9,5.9,No,4,5,3,3,4,4,2,14,6,3,Rarely,0,5.0,0
+EMP01822,54,Female,Married,Bachelor,2,46,Marketing,Content Strategist,3,0,0,0,0,7,30,80991,1,14.7,10.7,No,3,3,1,4,4,3,4,0,7,2,None,0,2.72,0
+EMP00176,49,Female,Single,Bachelor,2,47,Marketing,Brand Manager,3,19,2,2,1,2,25,74921,1,12.9,11.9,No,1,4,1,2,5,4,4,45,6,3,Rarely,0,4.29,1
+EMP00996,29,Female,Single,Master,3,20,R&D,Research Scientist,1,3,2,2,1,1,9,47626,2,14.6,5.8,No,3,1,3,3,3,5,2,10,3,2,None,25,3.05,0
+EMP01215,55,Female,Married,Bachelor,1,44,R&D,Research Scientist,4,22,1,2,2,2,35,92175,3,20.3,7.5,No,4,3,5,5,4,1,3,61,6,2,Frequently,25,2.88,0
+EMP00732,53,Male,Married,Bachelor,1,6,Sales,Sales Lead,3,0,0,1,1,2,29,85940,1,12.6,6.9,Yes,4,3,5,3,4,4,3,35,3,4,Frequently,25,3.72,0
+EMP01603,53,Male,Single,High School,3,29,Sales,Account Manager,2,2,1,0,2,0,32,63023,2,9.8,9.1,No,2,5,4,4,1,3,4,77,2,3,Rarely,0,3.55,1
+EMP01115,28,Female,Married,High School,3,50,Marketing,Brand Manager,3,3,1,0,0,0,8,73460,0,6.1,3.3,Yes,3,3,5,3,4,3,4,5,4,2,Rarely,0,2.52,0
+EMP00775,56,Male,Divorced,Bachelor,1,54,HR,HR Specialist,1,7,1,2,2,1,35,56520,2,13.5,12.5,No,3,4,1,4,4,2,4,9,6,6,Frequently,50,4.2,0
+EMP01796,22,Female,Married,Master,2,38,Engineering,Software Engineer,4,2,0,0,1,2,0,82858,0,17.7,7.9,No,4,4,3,4,2,5,4,4,5,4,Frequently,0,3.86,1
+EMP01831,59,Male,Married,Bachelor,3,8,Marketing,Content Strategist,2,6,6,0,3,5,37,74263,3,14.5,1.6,No,3,4,4,4,4,4,3,26,7,3,None,75,4.12,0
+EMP00643,38,Male,Married,Master,2,4,Operations,Logistics Coordinator,2,6,0,1,1,2,14,68016,1,12.0,4.5,No,4,4,2,3,4,4,2,0,3,8,None,100,3.42,0
+EMP00656,42,Male,Married,High School,0,20,Operations,Supply Chain Specialist,2,20,3,2,0,3,19,66789,3,5.0,9.3,Yes,4,3,1,3,3,4,4,70,2,2,Frequently,75,2.71,0
+EMP01530,27,Female,Married,Master,0,6,Sales,Account Manager,2,2,0,1,0,4,5,59301,1,19.9,5.8,Yes,4,4,3,2,4,3,4,49,1,2,None,0,3.95,1
+EMP01257,47,Female,Married,Master,1,26,Finance,Accountant,2,2,2,0,2,1,26,72296,0,15.9,7.6,No,5,2,5,4,3,3,4,78,3,3,Rarely,50,3.44,0
+EMP01597,43,Male,Single,Bachelor,2,30,Marketing,Content Strategist,1,6,5,0,1,1,22,51738,0,13.4,11.6,Yes,5,3,4,4,1,3,3,55,6,1,Rarely,0,3.77,1
+EMP01499,53,Female,Married,Bachelor,1,49,Sales,Sales Lead,2,3,0,0,1,2,30,75983,1,11.9,9.0,No,5,4,2,4,4,4,4,42,7,6,Rarely,75,3.15,0
+EMP01020,56,Female,Divorced,Bachelor,0,21,Engineering,DevOps Engineer,4,3,1,2,1,3,33,96035,0,18.4,3.8,No,5,4,4,4,5,5,3,64,1,5,None,75,2.54,0
+EMP01345,32,Female,Married,Bachelor,0,14,Engineering,DevOps Engineer,3,11,7,1,2,3,10,74518,0,17.9,7.7,No,3,3,4,1,3,3,3,53,6,1,Rarely,25,4.34,0
+EMP00268,29,Male,Married,PhD,4,16,Sales,Sales Lead,5,12,4,0,1,4,9,94412,3,17.4,5.1,No,1,5,4,2,3,4,4,32,3,2,Rarely,75,3.86,1
+EMP01839,44,Male,Married,High School,0,44,Engineering,QA Engineer,1,0,0,0,0,3,23,53622,2,17.4,11.2,No,5,2,1,5,4,3,3,66,1,6,None,25,2.71,0
+EMP01749,41,Male,Married,Master,1,51,Marketing,Brand Manager,3,3,0,0,0,3,20,80680,0,10.0,5.4,No,2,2,1,3,1,2,4,50,2,2,Frequently,50,3.54,1
+EMP01678,41,Male,Married,Master,0,45,R&D,Data Scientist,4,0,0,1,0,2,18,86843,2,12.6,10.3,Yes,2,4,3,3,5,5,5,60,3,5,Rarely,25,2.93,1
+EMP01990,25,Female,Single,Bachelor,2,56,Operations,Operations Analyst,2,3,3,3,2,3,1,72648,1,15.1,6.9,No,4,5,3,4,3,3,4,46,6,2,Frequently,0,3.13,0
+EMP00075,46,Male,Single,High School,1,24,Operations,Logistics Coordinator,4,13,3,4,0,1,24,86681,2,16.9,11.1,No,2,4,3,4,5,2,3,54,6,4,None,25,4.48,0
+EMP01558,41,Male,Married,Master,1,34,Engineering,Tech Lead,3,11,0,0,0,1,17,81562,0,12.2,7.0,No,4,4,1,2,4,4,3,68,6,1,None,50,3.36,0
+EMP00979,27,Male,Married,Master,1,56,Engineering,QA Engineer,1,13,0,0,0,2,5,44107,1,12.7,7.0,No,4,3,5,1,4,4,5,71,5,4,Rarely,25,3.98,0
+EMP01795,55,Male,Married,Master,1,31,Engineering,DevOps Engineer,1,1,1,2,2,2,31,58138,0,9.9,15.5,No,3,5,4,5,3,4,3,27,2,4,Rarely,50,4.17,0
+EMP00697,54,Female,Married,Master,4,7,Sales,Sales Rep,2,1,1,0,2,4,31,72948,3,15.0,8.9,Yes,4,4,4,1,3,3,4,54,5,4,None,50,3.02,1
+EMP00487,38,Male,Single,Master,1,6,R&D,Research Scientist,1,1,1,2,2,4,16,54397,1,12.1,5.1,No,4,5,4,4,5,5,4,35,1,3,Rarely,50,2.78,0
+EMP00917,54,Female,Single,Master,1,27,Finance,Finance Manager,2,4,0,1,0,5,33,75113,1,12.4,9.8,No,4,5,1,4,5,4,4,48,1,4,None,0,3.52,0
+EMP01807,29,Male,Married,Bachelor,1,32,HR,Recruiter,2,0,0,1,1,3,6,64830,0,11.5,10.0,Yes,5,2,3,5,3,4,3,23,6,3,Rarely,25,4.06,1
+EMP01283,38,Female,Married,Bachelor,3,30,Operations,Logistics Coordinator,2,2,2,3,3,4,14,61726,1,12.1,4.5,No,2,1,4,3,4,3,4,64,5,5,None,0,4.45,1
+EMP00600,57,Male,Married,Bachelor,2,57,Operations,Logistics Coordinator,2,0,0,1,1,2,33,69683,0,13.7,3.3,No,1,2,4,2,4,4,2,61,4,2,None,25,4.56,1
+EMP01497,27,Female,Single,Master,3,51,Engineering,QA Engineer,1,3,1,0,2,2,4,49922,1,13.8,13.4,No,3,4,4,1,4,4,5,9,2,3,Frequently,50,3.37,1
+EMP01554,24,Male,Married,Master,2,25,HR,Recruiter,1,2,1,2,1,1,1,45075,1,10.9,5.2,No,3,1,4,2,4,5,2,72,6,2,Rarely,25,2.5,1
+EMP00004,29,Female,Divorced,High School,3,54,HR,Recruiter,1,2,2,3,0,1,6,49958,0,11.9,8.2,Yes,5,4,5,1,4,3,2,38,4,5,None,25,3.01,1
+EMP01294,60,Female,Single,Master,1,2,Finance,Finance Manager,1,0,0,1,0,6,36,61365,2,12.1,8.5,Yes,1,3,3,3,4,5,4,42,7,3,None,75,4.62,1
+EMP00228,37,Male,Divorced,High School,1,14,Operations,Operations Analyst,2,5,1,0,1,2,17,51978,2,16.7,10.8,Yes,3,4,4,3,3,5,2,75,6,6,Rarely,50,3.91,0
+EMP00763,49,Male,Single,Bachelor,0,11,Marketing,Brand Manager,3,0,0,1,1,4,27,83913,1,5.8,10.7,No,3,2,3,3,4,3,4,37,3,2,Rarely,50,2.65,0
+EMP00039,46,Female,Married,Bachelor,2,48,Engineering,Software Engineer,3,3,0,1,1,0,26,76377,1,10.4,10.0,Yes,1,3,3,3,3,5,2,14,1,5,Rarely,0,3.82,1
+EMP01108,58,Male,Divorced,Bachelor,2,53,Engineering,DevOps Engineer,3,8,2,2,2,3,38,82053,3,22.5,9.7,No,3,5,4,4,5,4,5,59,7,0,None,50,3.53,0
+EMP00524,31,Male,Married,Master,0,22,Finance,Financial Analyst,4,5,0,1,1,2,10,82783,0,18.3,6.4,No,1,1,4,4,4,4,4,64,4,3,Rarely,25,2.65,0
+EMP01240,37,Female,Single,Bachelor,1,44,Marketing,Brand Manager,2,1,0,0,0,2,17,68452,1,11.2,8.2,Yes,3,4,2,3,1,5,3,36,7,5,None,0,3.38,1
+EMP01448,60,Male,Single,Master,1,2,Operations,Logistics Coordinator,2,24,0,1,0,4,37,57924,0,12.5,8.6,Yes,4,3,3,5,5,5,3,64,1,4,Frequently,50,2.52,1
+EMP00677,51,Non-Binary,Divorced,Bachelor,0,38,Finance,Accountant,5,0,0,1,1,1,29,104278,0,12.6,5.6,No,3,4,5,3,4,5,4,14,5,3,Rarely,0,3.25,0
+EMP00720,32,Female,Married,Master,0,47,Engineering,QA Engineer,3,8,5,0,0,1,9,75488,0,13.5,9.9,No,3,5,2,3,3,4,4,18,6,1,Rarely,50,2.89,0
+EMP00890,22,Male,Married,Bachelor,0,47,Sales,Sales Lead,5,0,0,1,1,4,2,94373,1,8.4,12.1,No,2,2,4,4,4,4,4,74,6,4,Rarely,25,3.33,1
+EMP01358,27,Male,Married,Bachelor,0,52,Engineering,DevOps Engineer,3,6,2,2,2,1,4,65225,0,17.9,8.3,No,4,3,3,1,4,5,4,7,5,4,Frequently,0,2.11,1
+EMP00618,39,Female,Single,Bachelor,4,23,Engineering,DevOps Engineer,2,2,2,1,2,6,18,67517,3,12.1,2.3,Yes,2,4,3,3,1,5,4,72,4,2,Rarely,25,4.04,1
+EMP01823,46,Male,Married,Master,1,44,R&D,Data Scientist,4,5,2,1,0,2,23,105334,1,18.5,8.6,No,2,4,4,3,2,4,4,12,5,2,Rarely,25,4.1,0
+EMP01950,40,Female,Divorced,High School,0,22,Finance,Financial Analyst,2,2,2,0,0,2,20,68160,0,13.5,7.8,No,2,5,3,2,4,4,5,9,1,5,Rarely,75,3.32,1
+EMP00756,22,Female,Married,Bachelor,1,38,Marketing,Marketing Analyst,1,2,2,0,1,2,2,49973,3,12.5,11.7,No,1,2,2,3,4,4,2,7,2,2,Frequently,25,4.2,1
+EMP00532,23,Female,Divorced,Master,2,31,R&D,ML Engineer,1,0,0,1,1,3,0,48996,1,5.3,4.3,No,2,3,3,3,3,3,2,56,7,2,Frequently,25,2.1,1
+EMP00623,51,Male,Divorced,Master,0,25,Engineering,Tech Lead,1,7,2,3,1,2,30,55802,1,13.5,6.3,Yes,5,3,3,3,3,4,4,42,7,5,Rarely,50,3.43,0
+EMP01375,30,Male,Married,Bachelor,0,12,R&D,Data Scientist,2,4,4,4,5,2,6,57480,0,6.9,9.0,No,3,4,4,5,5,3,4,59,3,4,Rarely,50,4.07,0
+EMP00901,58,Female,Married,Bachelor,2,54,Engineering,QA Engineer,2,1,1,2,0,1,38,65428,0,21.7,5.8,No,3,5,3,4,4,2,5,36,6,2,Frequently,0,2.54,0
+EMP00324,54,Male,Married,PhD,1,7,Operations,Logistics Coordinator,2,1,0,1,1,6,32,58627,1,9.6,7.3,Yes,4,1,4,2,5,4,3,46,5,3,Rarely,75,3.72,1
+EMP01326,24,Non-Binary,Married,Master,0,49,Finance,Financial Analyst,1,4,4,5,4,4,3,49227,0,9.6,8.1,Yes,1,2,3,4,2,3,3,47,7,7,None,25,3.19,1
+EMP00975,32,Female,Married,PhD,4,13,Finance,Accountant,1,6,1,0,2,0,12,54708,1,7.7,6.4,No,4,5,4,3,1,3,2,47,7,4,Rarely,75,3.63,0
+EMP00103,58,Female,Single,Master,2,24,Engineering,DevOps Engineer,2,0,0,0,1,3,34,85506,1,8.0,7.7,Yes,3,3,4,2,3,4,5,71,3,3,Frequently,75,5.0,1
+EMP00807,54,Female,Single,High School,1,28,Finance,Accountant,3,0,0,1,0,5,31,83615,0,13.0,2.5,No,3,4,1,5,5,3,4,62,4,1,Frequently,25,4.26,0
+EMP00664,53,Male,Married,Bachelor,0,23,HR,Recruiter,2,8,5,0,3,4,30,70404,1,5.0,6.7,Yes,3,4,4,4,5,5,4,58,5,2,Rarely,25,3.86,0
+EMP01682,41,Female,Married,High School,3,59,R&D,Research Scientist,5,5,0,1,0,3,21,103439,0,13.8,8.1,No,1,2,4,5,4,3,4,7,2,4,Rarely,0,4.17,1
+EMP00711,26,Female,Single,Master,4,28,Sales,Account Manager,4,0,0,1,1,1,5,86545,0,10.6,4.3,No,3,4,3,5,4,4,3,38,6,1,None,50,3.61,0
+EMP01031,38,Female,Single,Master,0,21,Finance,Finance Manager,3,15,10,9,0,2,17,85978,0,12.9,4.7,Yes,1,3,3,4,4,5,3,61,5,4,Frequently,0,4.1,1
+EMP01301,39,Female,Married,Master,0,28,Engineering,Software Engineer,4,0,0,0,1,2,18,88411,0,19.5,5.9,No,5,1,3,4,1,1,4,22,5,5,Rarely,25,3.88,1
+EMP00981,44,Male,Married,Master,0,41,R&D,ML Engineer,1,1,1,2,0,4,23,60425,1,9.7,9.2,No,5,5,2,3,3,2,5,54,5,2,None,100,3.22,0
+EMP01639,37,Non-Binary,Married,Master,0,54,Operations,Logistics Coordinator,5,5,4,4,1,6,17,102538,1,8.7,9.4,Yes,4,4,5,3,1,2,5,71,7,5,None,50,3.33,0
+EMP01037,54,Male,Married,Bachelor,4,9,Engineering,Software Engineer,4,0,0,1,0,3,32,95616,0,7.6,5.9,Yes,3,3,1,3,4,1,3,26,6,3,Rarely,50,3.85,1
+EMP00881,52,Male,Married,Bachelor,1,22,HR,HR Manager,5,3,2,1,0,1,30,103022,0,16.0,5.5,No,4,4,3,3,3,3,5,60,2,3,Frequently,0,3.7,0
+EMP00784,43,Male,Divorced,Master,3,27,Engineering,QA Engineer,3,4,3,4,4,3,23,77203,0,11.7,4.9,No,3,1,4,2,3,4,4,35,4,8,Frequently,50,3.91,1
+EMP01244,52,Male,Married,Bachelor,0,58,Sales,Account Manager,2,12,0,0,1,1,32,65034,0,18.0,10.6,Yes,3,5,3,1,3,5,3,33,1,0,Rarely,50,2.86,1
+EMP00234,58,Male,Married,Bachelor,2,5,Sales,Sales Rep,1,1,0,1,0,0,35,59896,1,16.2,11.6,No,5,3,3,2,2,3,5,66,1,3,Frequently,25,4.13,1
+EMP00985,34,Female,Single,Bachelor,3,56,Sales,Sales Lead,3,5,0,1,0,1,13,78611,2,12.5,5.6,Yes,2,3,1,4,2,2,3,55,3,2,None,0,3.12,1
+EMP01145,51,Female,Single,Master,0,29,Engineering,DevOps Engineer,1,8,0,1,0,2,30,62621,1,10.8,6.2,Yes,5,1,4,2,2,1,3,8,2,4,Rarely,50,3.16,1
+EMP01908,37,Female,Single,Master,0,24,Sales,Account Manager,3,0,0,1,1,4,14,80916,2,11.7,7.2,No,4,4,5,2,3,2,1,0,4,1,Frequently,50,3.73,1
+EMP01043,28,Female,Married,Master,2,18,Engineering,Tech Lead,4,6,3,4,1,3,7,89105,3,12.1,6.4,No,5,3,3,4,3,4,3,3,2,8,None,50,2.11,0
