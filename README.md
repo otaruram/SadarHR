@@ -1,6 +1,8 @@
-# 🏢 HR Analytics Attrition Predictor
+# 🏢 SadarHR - Attrition Predictor
 
 **End-to-End Employee Retention Analytics Platform**  
+🚀 **Live Demo:** [https://sadarhr.vercel.app/](https://sadarhr.vercel.app/)
+
 *Solusi cerdas berbasis Artificial Intelligence untuk mengidentifikasi potensi pengunduran diri (attrition) karyawan dengan arsitektur serverless yang mengedepankan keamanan dan privasi data.*
 
 ---
